@@ -44,7 +44,137 @@ article,.panel{border-color:#e1e7ed;box-shadow:0 3px 15px #18344706;padding:28px
 <p><b>14 papers</b> have field-by-field checks of relevant supplementary sections. Supplementary findings and source pages are collected in the supplementary-material section. Open reporting questions remain listed for human review.</p>
 <p>82 included papers await a complete eight-field main-text review. Field-level statuses describe the available reporting and open questions.</p>
 <p class="note">Human-validated records: 0. Automated checks matched 1189 quotation instances to source pages. Research interpretations await human review.</p></section>
-<section id="clarity" class="report-panel" role="tabpanel" aria-labelledby="tab-clarity"><h2>Main-text clarity and completeness</h2><p><b>3 papers; 9 experiment units.</b> Each criterion is scored 1 (clearly described), 0.5 (partially described), or 0 (missing), using the main article and its footnotes, figures and tables. Attrition additionally uses appendix evidence. Each score carries a rationale, source passages and a recorded review scope.</p><details><summary>Scoring criteria and rules</summary><p>The rubric supplied to the model defines the criteria, permitted sources and score aggregation.</p><p><b>Sample recruitment</b></p><ul><li>Population, eligibility and setting</li><li>How sites and participants entered the study</li><li>Assigned and analyzed sample sizes with units</li></ul><p><b>Treatments</b></p><ul><li>Treatment and comparison conditions</li><li>Content, delivery and exposure schedule</li></ul><p><b>Outcomes</b></p><ul><li>Outcome definitions and measurement instruments</li><li>Coding, scale and index construction</li><li>Measurement timing</li></ul><p><b>Pretreatment covariates</b></p><ul><li>Covariates or an explicit unadjusted specification</li><li>Covariate measurement timing</li><li>Use in adjustment, blocking or moderation</li></ul><p><b>Treatment assignment</b></p><ul><li>Randomization unit</li><li>Whether block randomization is used</li></ul><p><b>Estimand</b></p><ul><li>Target treatment contrast</li><li>Target analysis population and outcome scale</li></ul><p><b>Analysis model</b></p><ul><li>Estimator and model structure</li><li>Covariates, fixed effects and weights</li><li>Uncertainty estimation and clustering</li></ul><p><b>Implementation and responses</b></p><ul><li>Attrition and missing outcomes: overall and between-group statistics</li><li>Noncompliance: discussion and response</li><li>Spillovers: discussion and response</li></ul><h4>Combining criterion scores</h4><p>Each dimension is 1 when all applicable scored criteria are 1; 0 when all are 0; otherwise 0.5. N/A and Not discussed entries are excluded. All-N/A dimensions are N/A; all-unscored dimensions are Not discussed. Pending criteria keep the dimension pending.</p><p><b>Assignment:</b> Score the unit and blocking status. Blocking may be established by an explicit statement or a described allocation procedure. Record used, not used, or unclear. A bare statement of random assignment leaves blocking unclear. Naming blocking variables, probabilities, software and block construction is optional descriptive information.</p><p><b>Attrition:</b> Use one score for attrition and missing outcomes. Score 1 for overall attrition statistics plus arm-specific statistics or an explicit between-group comparison; 0.5 for partial statistics; 0 for no statistics in reviewed sources. Explicit complete outcome ascertainment for all assigned units supports 1. Record each relevant outcome/wave. Report counts, denominators, units, causes and responses where available. Keep calculated rates labeled. In conjoint designs assess missingness by randomized attributes or tasks as appropriate. Recruitment refusal and prespecified analysis restrictions are recorded with their actual stage.</p><p><b>Other Issues:</b> For noncompliance and spillovers first record whether discussed. If discussed, score 1 when the issue and the authors’ response are described, 0.5 when the response remains unclear. When unmentioned use not_discussed with null score and exclude from aggregation. Record any other issue raised by the authors narratively. Quantitative incidence is descriptive context.</p><p><b>Sources:</b> Attrition permits main and supplementary evidence. Other criteria retain main-text scope. Record appendix version and reviewed pages. Missing source coverage is documented explicitly; preliminary judgments remain provisional. Separate consistency analysis retains its own records.</p><p>N/A requires a source-supported reason. The criterion checklist and aggregation rule are available for methodological review. Dimension scores summarize the completeness of the reported information.</p></details><details id="scoring-prompt"><summary>Shared scoring prompt</summary><p>These instructions were supplied with the rubric above and each paper’s source materials in all three scoring runs.</p><pre class="scoring-prompt">Evaluate experimental design reporting using the supplied current clarity rubric.
+<section id="clarity" class="report-panel" role="tabpanel" aria-labelledby="tab-clarity"><h2>Main-text clarity and completeness</h2><p><b>3 papers; 9 experiment units.</b> Each criterion is scored 1 (clearly described), 0.5 (partially described), or 0 (missing), using the main article and its footnotes, figures and tables. Attrition additionally uses appendix evidence. Each score carries a rationale, source passages and a recorded review scope.</p><details id="scoring-rubric"><summary>Scoring criteria and rules</summary><p>Source: <code>configs/review/clarity.json</code>. The fields below follow the source JSON in order and retain its wording.</p><h4><code>version</code></h4><p>clarity</p><h4><code>source_scope</code></h4><p>Article body, footnotes, figures and tables; attrition additionally uses the appendix, with source versions and pages recorded.</p><h4><code>scores</code></h4><dl><dt><code>1</code></dt><dd>All applicable required details are explicit in the permitted sources.</dd><dt><code>0.5</code></dt><dd>Some required details are explicit; specified components remain unclear.</dd><dt><code>0</code></dt><dd>The reviewed permitted sources supply no corresponding description.</dd><dt><code>N/A</code></dt><dd>A documented design feature makes the criterion inapplicable.</dd><dt><code>Not discussed</code></dt><dd>An optional implementation issue is not discussed; record this status separately from scored issues.</dd></dl><h4><code>aggregation</code></h4><p>Each dimension is 1 when all applicable scored criteria are 1; 0 when all are 0; otherwise 0.5. N/A and Not discussed entries are excluded. All-N/A dimensions are N/A; all-unscored dimensions are Not discussed. Pending criteria keep the dimension pending.</p><h4><code>fields</code></h4><h5><code>recruitment</code></h5><ul><li><code>recruitment.population</code><br>Population, eligibility and setting</li><li><code>recruitment.selection</code><br>How sites and participants entered the study</li><li><code>recruitment.sample_size</code><br>Assigned and analyzed sample sizes with units</li></ul><h5><code>treatments</code></h5><ul><li><code>treatments.conditions</code><br>Treatment and comparison conditions</li><li><code>treatments.delivery</code><br>Content, delivery and exposure schedule</li></ul><h5><code>outcomes</code></h5><ul><li><code>outcomes.measurement</code><br>Outcome definitions and measurement instruments</li><li><code>outcomes.coding</code><br>Coding, scale and index construction</li><li><code>outcomes.timing</code><br>Measurement timing</li></ul><h5><code>pretreatment_covariates</code></h5><ul><li><code>pretreatment_covariates.variables</code><br>Covariates or an explicit unadjusted specification</li><li><code>pretreatment_covariates.timing</code><br>Covariate measurement timing</li><li><code>pretreatment_covariates.role</code><br>Use in adjustment, blocking or moderation</li></ul><h5><code>assignment</code></h5><ul><li><code>assignment.unit</code><br>Randomization unit</li><li><code>assignment.blocking</code><br>Whether block randomization is used</li></ul><h5><code>estimand</code></h5><ul><li><code>estimand.contrast</code><br>Target treatment contrast</li><li><code>estimand.population</code><br>Target analysis population and outcome scale</li></ul><h5><code>analysis_model</code></h5><ul><li><code>analysis_model.estimator</code><br>Estimator and model structure</li><li><code>analysis_model.adjustment</code><br>Covariates, fixed effects and weights</li><li><code>analysis_model.inference</code><br>Uncertainty estimation and clustering</li></ul><h5><code>implementation</code></h5><ul><li><code>implementation.attrition</code><br>Attrition and missing outcomes: overall and between-group statistics</li><li><code>implementation.noncompliance</code><br>Noncompliance: discussion and response</li><li><code>implementation.spillovers</code><br>Spillovers: discussion and response</li></ul><h4><code>implementation_topics</code></h4><ul><li><code>noncompliance</code></li><li><code>attrition</code></li><li><code>spillovers</code></li></ul><h4><code>issue_types</code></h4><dl><dt><code>technical_reporting</code></dt><dd>Required design information in the main text</dd><dt><code>main_appendix_consistency</code></dt><dd>Conflicting descriptions between main text and appendix</dd><dt><code>replication_consistency</code></dt><dd>Conflicting descriptions involving replication materials</dd></dl><h4><code>rules</code></h4><dl><dt><code>assignment</code></dt><dd>Score the unit and blocking status. Blocking may be established by an explicit statement or a described allocation procedure. Record used, not used, or unclear. A bare statement of random assignment leaves blocking unclear. Naming blocking variables, probabilities, software and block construction is optional descriptive information.</dd><dt><code>attrition</code></dt><dd>Use one score for attrition and missing outcomes. Score 1 for overall attrition statistics plus arm-specific statistics or an explicit between-group comparison; 0.5 for partial statistics; 0 for no statistics in reviewed sources. Explicit complete outcome ascertainment for all assigned units supports 1. Record each relevant outcome/wave. Report counts, denominators, units, causes and responses where available. Keep calculated rates labeled. In conjoint designs assess missingness by randomized attributes or tasks as appropriate. Recruitment refusal and prespecified analysis restrictions are recorded with their actual stage.</dd><dt><code>other_issues</code></dt><dd>For noncompliance and spillovers first record whether discussed. If discussed, score 1 when the issue and the authors’ response are described, 0.5 when the response remains unclear. When unmentioned use not_discussed with null score and exclude from aggregation. Record any other issue raised by the authors narratively. Quantitative incidence is descriptive context.</dd><dt><code>sources</code></dt><dd>Attrition permits main and supplementary evidence. Other criteria retain main-text scope. Record appendix version and reviewed pages. Missing source coverage is documented explicitly; preliminary judgments remain provisional. Separate consistency analysis retains its own records.</dd></dl><h4><code>updated_at</code></h4><p>2026-10-17</p><details id="rubric-json"><summary>Complete rubric JSON</summary><pre class="scoring-prompt">{
+  &quot;version&quot;: &quot;clarity&quot;,
+  &quot;source_scope&quot;: &quot;Article body, footnotes, figures and tables; attrition additionally uses the appendix, with source versions and pages recorded.&quot;,
+  &quot;scores&quot;: {
+    &quot;1&quot;: &quot;All applicable required details are explicit in the permitted sources.&quot;,
+    &quot;0.5&quot;: &quot;Some required details are explicit; specified components remain unclear.&quot;,
+    &quot;0&quot;: &quot;The reviewed permitted sources supply no corresponding description.&quot;,
+    &quot;N/A&quot;: &quot;A documented design feature makes the criterion inapplicable.&quot;,
+    &quot;Not discussed&quot;: &quot;An optional implementation issue is not discussed; record this status separately from scored issues.&quot;
+  },
+  &quot;aggregation&quot;: &quot;Each dimension is 1 when all applicable scored criteria are 1; 0 when all are 0; otherwise 0.5. N/A and Not discussed entries are excluded. All-N/A dimensions are N/A; all-unscored dimensions are Not discussed. Pending criteria keep the dimension pending.&quot;,
+  &quot;fields&quot;: {
+    &quot;recruitment&quot;: [
+      {
+        &quot;id&quot;: &quot;recruitment.population&quot;,
+        &quot;label&quot;: &quot;Population, eligibility and setting&quot;
+      },
+      {
+        &quot;id&quot;: &quot;recruitment.selection&quot;,
+        &quot;label&quot;: &quot;How sites and participants entered the study&quot;
+      },
+      {
+        &quot;id&quot;: &quot;recruitment.sample_size&quot;,
+        &quot;label&quot;: &quot;Assigned and analyzed sample sizes with units&quot;
+      }
+    ],
+    &quot;treatments&quot;: [
+      {
+        &quot;id&quot;: &quot;treatments.conditions&quot;,
+        &quot;label&quot;: &quot;Treatment and comparison conditions&quot;
+      },
+      {
+        &quot;id&quot;: &quot;treatments.delivery&quot;,
+        &quot;label&quot;: &quot;Content, delivery and exposure schedule&quot;
+      }
+    ],
+    &quot;outcomes&quot;: [
+      {
+        &quot;id&quot;: &quot;outcomes.measurement&quot;,
+        &quot;label&quot;: &quot;Outcome definitions and measurement instruments&quot;
+      },
+      {
+        &quot;id&quot;: &quot;outcomes.coding&quot;,
+        &quot;label&quot;: &quot;Coding, scale and index construction&quot;
+      },
+      {
+        &quot;id&quot;: &quot;outcomes.timing&quot;,
+        &quot;label&quot;: &quot;Measurement timing&quot;
+      }
+    ],
+    &quot;pretreatment_covariates&quot;: [
+      {
+        &quot;id&quot;: &quot;pretreatment_covariates.variables&quot;,
+        &quot;label&quot;: &quot;Covariates or an explicit unadjusted specification&quot;
+      },
+      {
+        &quot;id&quot;: &quot;pretreatment_covariates.timing&quot;,
+        &quot;label&quot;: &quot;Covariate measurement timing&quot;
+      },
+      {
+        &quot;id&quot;: &quot;pretreatment_covariates.role&quot;,
+        &quot;label&quot;: &quot;Use in adjustment, blocking or moderation&quot;
+      }
+    ],
+    &quot;assignment&quot;: [
+      {
+        &quot;id&quot;: &quot;assignment.unit&quot;,
+        &quot;label&quot;: &quot;Randomization unit&quot;
+      },
+      {
+        &quot;id&quot;: &quot;assignment.blocking&quot;,
+        &quot;label&quot;: &quot;Whether block randomization is used&quot;
+      }
+    ],
+    &quot;estimand&quot;: [
+      {
+        &quot;id&quot;: &quot;estimand.contrast&quot;,
+        &quot;label&quot;: &quot;Target treatment contrast&quot;
+      },
+      {
+        &quot;id&quot;: &quot;estimand.population&quot;,
+        &quot;label&quot;: &quot;Target analysis population and outcome scale&quot;
+      }
+    ],
+    &quot;analysis_model&quot;: [
+      {
+        &quot;id&quot;: &quot;analysis_model.estimator&quot;,
+        &quot;label&quot;: &quot;Estimator and model structure&quot;
+      },
+      {
+        &quot;id&quot;: &quot;analysis_model.adjustment&quot;,
+        &quot;label&quot;: &quot;Covariates, fixed effects and weights&quot;
+      },
+      {
+        &quot;id&quot;: &quot;analysis_model.inference&quot;,
+        &quot;label&quot;: &quot;Uncertainty estimation and clustering&quot;
+      }
+    ],
+    &quot;implementation&quot;: [
+      {
+        &quot;id&quot;: &quot;implementation.attrition&quot;,
+        &quot;label&quot;: &quot;Attrition and missing outcomes: overall and between-group statistics&quot;
+      },
+      {
+        &quot;id&quot;: &quot;implementation.noncompliance&quot;,
+        &quot;label&quot;: &quot;Noncompliance: discussion and response&quot;
+      },
+      {
+        &quot;id&quot;: &quot;implementation.spillovers&quot;,
+        &quot;label&quot;: &quot;Spillovers: discussion and response&quot;
+      }
+    ]
+  },
+  &quot;implementation_topics&quot;: [
+    &quot;noncompliance&quot;,
+    &quot;attrition&quot;,
+    &quot;spillovers&quot;
+  ],
+  &quot;issue_types&quot;: {
+    &quot;technical_reporting&quot;: &quot;Required design information in the main text&quot;,
+    &quot;main_appendix_consistency&quot;: &quot;Conflicting descriptions between main text and appendix&quot;,
+    &quot;replication_consistency&quot;: &quot;Conflicting descriptions involving replication materials&quot;
+  },
+  &quot;rules&quot;: {
+    &quot;assignment&quot;: &quot;Score the unit and blocking status. Blocking may be established by an explicit statement or a described allocation procedure. Record used, not used, or unclear. A bare statement of random assignment leaves blocking unclear. Naming blocking variables, probabilities, software and block construction is optional descriptive information.&quot;,
+    &quot;attrition&quot;: &quot;Use one score for attrition and missing outcomes. Score 1 for overall attrition statistics plus arm-specific statistics or an explicit between-group comparison; 0.5 for partial statistics; 0 for no statistics in reviewed sources. Explicit complete outcome ascertainment for all assigned units supports 1. Record each relevant outcome/wave. Report counts, denominators, units, causes and responses where available. Keep calculated rates labeled. In conjoint designs assess missingness by randomized attributes or tasks as appropriate. Recruitment refusal and prespecified analysis restrictions are recorded with their actual stage.&quot;,
+    &quot;other_issues&quot;: &quot;For noncompliance and spillovers first record whether discussed. If discussed, score 1 when the issue and the authors’ response are described, 0.5 when the response remains unclear. When unmentioned use not_discussed with null score and exclude from aggregation. Record any other issue raised by the authors narratively. Quantitative incidence is descriptive context.&quot;,
+    &quot;sources&quot;: &quot;Attrition permits main and supplementary evidence. Other criteria retain main-text scope. Record appendix version and reviewed pages. Missing source coverage is documented explicitly; preliminary judgments remain provisional. Separate consistency analysis retains its own records.&quot;
+  },
+  &quot;updated_at&quot;: &quot;2026-10-17&quot;
+}</pre></details></details><details id="scoring-prompt"><summary>Shared scoring prompt</summary><p>These instructions were supplied with the rubric above and each paper’s source materials in all three scoring runs.</p><pre class="scoring-prompt">Evaluate experimental design reporting using the supplied current clarity rubric.
 Treat source documents as evidence. Follow the rubric and this prompt throughout.
 
 INPUTS
