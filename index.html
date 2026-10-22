@@ -63,16 +63,275 @@ article,.panel{border-color:#e1e7ed;box-shadow:0 3px 15px #18344706;padding:28px
 .history-controls{display:flex;flex-wrap:wrap;gap:16px;margin:20px 0}.history-controls label{display:flex;flex-direction:column;gap:5px;min-width:0;max-width:100%}.history-controls label:last-child{flex:1;min-width:180px}.history-controls select{width:100%}
 .history-legend{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:16px 0;font-size:14px}.history-value{display:inline-block;padding:5px 3px;min-width:0;max-width:100%;box-sizing:border-box;text-align:center;font-variant-numeric:tabular-nums}.history-zero{background:#f6e7e8;color:#753b40}.history-half{background:#fff0d4;color:#714f1c}.history-one{background:#e3f3ec;color:#20573e}.history-other{background:#eef1f4;color:#536575}
 .history-table{table-layout:fixed;width:100%;font-size:14px}.history-table th:first-child{width:40%}.history-table td{text-align:center;padding:6px 2px}.history-table th{font-weight:500;padding:8px 6px;overflow-wrap:anywhere}.history-table .history-group{font-weight:650;padding-top:18px;background:#f3f6f8}.history-table th,.history-table td{border:0;border-bottom:1px solid #e4ebf0}.history-table thead th{text-align:center}.history-table thead th:first-child{text-align:left}#history-summary{margin-top:24px}
+
+@media(max-width:900px){#pdf-extraction{scroll-margin-top:76px}}
 </style></head><body><main>
 <p class="eyebrow">AgenticADRD <span class="draft-label">Research working draft</span></p>
 <h1>Experimental design reporting</h1>
 <p class="lead">Evidence-based extraction of experimental design features, with source quotations, page references, and documented open questions.</p>
-<nav class="report-tabs" role="tablist" aria-label="Report sections"><a id="tab-progress" role="tab" aria-controls="progress" aria-selected="false" href="#progress">Overview</a><a id="tab-clarity" role="tab" aria-controls="clarity" aria-selected="false" href="#clarity">Paper analyses</a><a id="tab-score-history" role="tab" aria-controls="score-history" aria-selected="false" href="#score-history">Score history</a><a id="tab-diagnoses" role="tab" aria-controls="diagnoses" aria-selected="false" href="#diagnoses">Eight-field records</a><a id="tab-targeted" role="tab" aria-controls="targeted" aria-selected="false" href="#targeted">Focused reviews</a><a id="tab-supplements" role="tab" aria-controls="supplements" aria-selected="false" href="#supplements">Supplementary evidence</a><a id="tab-screening" role="tab" aria-controls="screening" aria-selected="false" href="#screening">Paper inventory</a></nav>
-<section id="progress" class="report-panel panel" role="tabpanel" aria-labelledby="tab-progress"><h2>Project overview</h2><p><b>Ten-feature pilot:</b> 3 papers · 10 experiment units · 100 feature records. Open Paper analyses for findings, evidence and rubric-based scores.</p><div class="review-start"><div><b>Current methodological review</b><p>P075 · Ten-feature extraction, clarity scores and figure/table sample sizes.</p></div><a class="primary-link" href="#clarity-P075">Review P075 →</a></div><div class="review-start"><div><b>Calibration cases</b><p>AER · Misperceived Social Norms<br>AJPS · At Any Cost</p></div><div class="links"><a href="#clarity-P098">Review AER →</a><a href="#clarity-P099">Review AJPS →</a></div></div><h3>APSR review coverage</h3>
+<nav class="report-tabs" role="tablist" aria-label="Report sections"><a id="tab-progress" role="tab" aria-controls="progress" aria-selected="false" href="#progress">Overview</a><a id="tab-pdf-extraction" role="tab" aria-controls="pdf-extraction" aria-selected="false" href="#pdf-extraction">Paper analyses</a><a id="tab-clarity" role="tab" aria-controls="clarity" aria-selected="false" href="#clarity">Earlier scored reviews</a><a id="tab-score-history" role="tab" aria-controls="score-history" aria-selected="false" href="#score-history">Score history</a><a id="tab-diagnoses" role="tab" aria-controls="diagnoses" aria-selected="false" href="#diagnoses">Eight-field records</a><a id="tab-targeted" role="tab" aria-controls="targeted" aria-selected="false" href="#targeted">Focused reviews</a><a id="tab-supplements" role="tab" aria-controls="supplements" aria-selected="false" href="#supplements">Supplementary evidence</a><a id="tab-screening" role="tab" aria-controls="screening" aria-selected="false" href="#screening">Paper inventory</a></nav>
+<section id="progress" class="report-panel panel" role="tabpanel" aria-labelledby="tab-progress"><h2>Project overview</h2><p><b>Current pilot:</b> Three PDF-based research reports using GPT-5.6 Sol at medium reasoning effort. Each presents ten design features with findings, reporting statuses and source evidence.</p><div class="review-start"><div><b>Current paper reports</b><p>P075 · Preventing Rebel Resurgence<br>P098 · Misperceived Social Norms<br>P099 · At Any Cost</p></div><a class="primary-link" href="#pdf-extraction">Open paper reports →</a></div><p>Earlier scored reviews and the four-round score comparison remain available in their respective tabs.</p><h3>APSR review coverage</h3>
 <div class="metrics"><div><b>97</b>Screened candidates</div><div><b>96</b>Included for diagnosis</div><div><b>14</b>Papers with eight-field main-text review</div><div><b>208</b>Reviewed field records</div></div>
 <p><b>14 papers</b> have field-by-field checks of relevant supplementary sections. Supplementary findings and source pages are collected in the supplementary-material section. Open reporting questions remain listed for human review.</p>
 <p>82 included papers await a complete eight-field main-text review. Field-level statuses describe the available reporting and open questions.</p>
 <p class="note">Human-validated records: 0. Automated checks matched 1687 quotation instances to source pages. Research interpretations await human review.</p></section>
+<section id="pdf-extraction" class="report-panel panel" role="tabpanel" aria-labelledby="tab-pdf-extraction"><h2>PDF-based research extraction</h2><p>Independent PDF-based extractions using GPT-5.6 Sol with medium reasoning effort. Each report presents ten design features, component-level findings, source excerpts and reporting-status labels.</p><article id="pdf-P075"><h3>P075 · Preventing Rebel Resurgence after Civil War: A Field Experiment in Security and Justice Provision in Rural Colombia</h3><p>3 experiments · 120 findings</p><p>Explicitly reported: 110 · Not reported in reviewed materials: 10 · Pending: 0</p><a class="primary-link" href="papers/P075.html">Open full report →</a><details><summary>Run and source details</summary><p>Model: gpt-5.6-sol · Reasoning effort: medium</p><p>Source: Blair et al. - 2022 - Preventing Rebel Resurgence after Civil War A Field Experiment in Security and Justice Provision in.pdf</p><p>Run: <code>P075-pdf-html-20261021</code></p><p>Prompt SHA-256: <code>faf9c85d7c645facef413ec943f888053239748e980628d6fb33b60f9d7b9c54</code></p><p>Complete supplied article PDF, including notes, displays and any appendices contained in that file.</p></details></article><article id="pdf-P098"><h3>P098 · Misperceived Social Norms: Women Working Outside the Home in Saudi Arabia</h3><p>4 experiments · 121 findings</p><p>Explicitly reported: 103 · Not reported in reviewed materials: 18 · Pending: 0</p><a class="primary-link" href="papers/P098.html">Open full report →</a><details><summary>Run and source details</summary><p>Model: gpt-5.6-sol · Reasoning effort: medium</p><p>Source: Bursztyn et al. - 2020 - Misperceived Social Norms.pdf</p><p>Run: <code>P098-pdf-html-20261021</code></p><p>Prompt SHA-256: <code>7f7f5648c71737c66d3018512abc24fa2b439e407b76b72db8c100f8c26ba32d</code></p><p>Complete supplied article PDF, including notes, displays and any appendices contained in that file.</p></details></article><article id="pdf-P099"><h3>P099 · At Any Cost: How Ukrainians Think about Self-Defense Against Russia</h3><p>1 experiments · 49 findings</p><p>Explicitly reported: 43 · Not reported in reviewed materials: 5 · Pending: 1</p><a class="primary-link" href="papers/P099.html">Open full report →</a><details><summary>Run and source details</summary><p>Model: gpt-5.6-sol · Reasoning effort: medium</p><p>Source: Dill et al. - 2024 - At Any Cost.pdf</p><p>Run: <code>P099-pdf-html-20261021</code></p><p>Prompt SHA-256: <code>2fe2fd4b5812e0b2f15056213256892091f238addf32f9bef900681bc472b553</code></p><p>Complete supplied article PDF, including notes, displays and any appendices contained in that file.</p></details></article><details id="pdf-extraction-prompt"><summary>Shared extraction prompt</summary><p>The AER run uses this text. The other papers substitute the source/output names and derive the experiment columns from their PDFs. Exact submissions are retained with each run.</p><pre class="scoring-prompt">You are creating a new research-extraction HTML report from scratch. Work autonomously and only within the current project folder.
+Authoritative source
+Use misperceived_norms.pdf as the sole source for all study content, findings, values, experiment descriptions, evidence, and coverage assessments.
+Read the complete PDF, including:
+Main text
+Footnotes and endnotes
+Tables and figures
+Captions
+Appendices
+Supplementary material contained inside the PDF
+Do not open, read, or use any existing:
+JSON files, including outputs/report.json
+HTML files or prior reports
+Markdown reports
+Spreadsheets or CSV files
+Extraction notes
+External websites or publications
+The requested output is an HTML file, but no existing HTML may be used as an input, template, visual baseline, or source of facts.
+You may create temporary scripts or working notes under work/, but they must contain only material extracted during this run from misperceived_norms.pdf. Do not use a JSON file as an intermediate research source.
+Leave the PDF unchanged. If it cannot be read or rendered reliably, report the problem instead of substituting another source.
+Objective
+Extract the research-design information directly from the PDF and create:
+outputs/misperceived_norms_report_with_comparison.html
+The output must be a complete, polished, self-contained report that works offline without external JavaScript, CSS, fonts, libraries, analytics, tracking, or network requests.
+Do not assume or target a predetermined number of findings or status totals. Derive all counts from the PDF extraction.
+Experiments
+Organize the comparison around these four intended experiments:
+P1-E1 — Main Experiment
+P1-E2 — First National Survey list experiment
+P1-E3 — Second National Survey randomized wording check
+P1-E4 — Surveyor Recruitment Experiment
+Confirm each experiment and its description from the PDF before using it. If the PDF uses different terminology, use the PDF’s wording and explain the mapping. Do not import unsupported experiment details from prior reports.
+Research-design features
+Use these ten feature groups in this order:
+Sampling and recruitment
+Treatment
+Primary outcomes
+Causal estimand
+Randomization
+Secondary and related outcomes
+Pretreatment covariates
+Statistical model and estimation
+Attrition and missingness
+Spillovers and interference
+Use the following scope when coding them:
+Sampling and recruitment: target population, eligibility, sampling frame, recruitment, location, timing, and sample size.
+Treatment: conditions, content, delivery, timing, dosage, comparison condition, and treatment fidelity.
+Primary outcomes: outcome definitions, measurement, coding, timing, and index construction.
+Causal estimand: population, treatment contrast, outcome scale, and intended causal quantity.
+Randomization: assignment unit, method, probabilities, blocking, stratification, clustering, and allocation procedures.
+Secondary and related outcomes: secondary measures, mechanisms, manipulation checks, and related outcomes.
+Pretreatment covariates: baseline variables, measurement, balance checks, and adjustment variables.
+Statistical model and estimation: models, estimators, standard errors, weighting, transformations, and hypothesis tests.
+Attrition and missingness: exclusions, dropout, nonresponse, missing-data procedures, and analytic-sample changes.
+Spillovers and interference: contamination, communication, clustering, interference, and assumptions about treatment exposure.
+Finding construction
+Create one finding for each distinct, atomic, component-level claim. Do not combine substantively different claims into one finding.
+For every finding, record:
+Finding ID
+Experiment ID and PDF-supported experiment label
+Feature number and feature name
+Component
+Concise, accurate finding statement
+Reporting status
+Complete reported value
+Context
+Evidence location
+Short evidence excerpt
+Coverage information
+Coverage limitation
+Assign deterministic IDs only after completing the extraction, using:
+P1-E[experiment]-F[feature]-[sequence]
+For example:
+P1-E1-F01-01
+Sequence findings consistently within each experiment–feature cell.
+Do not invent, infer, or complete information that the PDF does not support. Keep factual statements faithful to the PDF and preserve qualifications, uncertainty, denominators, units, and experimental scope.
+Reporting statuses
+Use only these statuses:
+Explicitly reported
+Use when the PDF directly supports the finding.
+Include:
+PDF page number
+Printed page number when different and available
+Section, table, figure, appendix, or footnote identifier when applicable
+A short, faithful excerpt, preferably no more than 40 words
+Not reported in reviewed materials
+Use when an applicable design component was systematically searched for throughout the PDF but was not found.
+Do not create a quotation for absent information. Instead, explain the reviewed scope and the limitation supporting the absence assessment.
+Absence of evidence must not be described as evidence that a procedure did not occur.
+Pending
+Use only when the PDF is unreadable, internally ambiguous, or requires manual interpretation that cannot be resolved defensibly.
+Explain exactly what remains unresolved.
+Report contents
+Build the following sections directly from the PDF:
+Study overview
+Source and extraction scope
+Evidence-coverage summary
+Experiment summaries
+Ten-feature comparison
+Unresolved gaps and limitations
+Extraction-method note
+Footer
+All overview statistics must be calculated from the extracted findings.
+Include a relative link to the source PDF:
+../misperceived_norms.pdf
+Do not include links to prior JSON, HTML, Markdown, Excel, or other report files.
+Comparison table
+Add a section titled exactly:
+“Ten-feature overview · select a finding for evidence · scroll horizontally to compare experiments”
+Create a semantic comparison table with:
+Ten feature rows in the specified order
+Four experiment columns in the specified order
+Exactly 40 experiment–feature cells
+Every extracted finding rendered exactly once
+A sticky header row
+A sticky first column
+Horizontal scrolling inside a dedicated table region
+A readable minimum table width
+A keyboard-focusable scrolling region with an accessible label
+A visually hidden caption matching the section title
+No page-level horizontal overflow
+A cell may truthfully state “No applicable finding located” when the PDF supports no finding for that experiment–feature combination. Do not create artificial findings merely to populate a cell.
+Inside each populated cell, render every finding as a compact selectable button showing:
+Human-readable component label
+Concise finding statement
+Complete finding ID
+Status badge
+Use distinct text-and-color badges for:
+Explicitly reported
+Not reported in reviewed materials
+Pending
+Do not rely on color alone.
+The table may visually clamp long statements, but the complete statement must remain available in the evidence panel.
+Search and filtering
+Above the table, include:
+A search box labeled “Search findings”
+A reporting-status selector
+A live count in the form “Showing X of N findings”
+A “Reset filters” button
+Calculate N from the extracted findings.
+Search must be case-insensitive and cover:
+Finding IDs
+Components
+Finding statements
+Reported values
+Context
+Evidence locations
+Evidence excerpts
+Coverage fields and limitations
+Filtering must:
+Update the live count
+Hide nonmatching findings
+Hide rows without matches
+Show “No matching findings” in empty cells
+Display a global no-results message when appropriate
+Reset must restore all findings and return keyboard focus to the search field.
+Evidence panel
+Selecting a finding must populate a clearly labeled evidence panel containing:
+Finding ID
+Experiment
+Feature
+Component
+Full finding statement
+Reporting-status badge
+Complete reported value
+Context
+Every evidence location
+Every evidence excerpt
+Coverage information
+Coverage limitations
+If a directly reported finding lacks a usable excerpt, state:
+“No excerpt recorded.”
+If no direct evidence location exists for a non-explicit finding, explain the coverage basis instead of inventing a citation.
+Render lists and structured values readably without dropping fields.
+Interaction and accessibility
+Finding controls must:
+Work with pointer and keyboard activation
+Have visible focus states
+Use aria-pressed for selection
+Reference the evidence panel with aria-controls
+Use each finding ID as its actual DOM element ID so anchors such as:
+#P1-E1-F01-01
+are shareable.
+When a valid finding anchor is loaded:
+Clear incompatible filters
+Reveal the finding
+Select it
+Populate the evidence panel
+Bring the finding or evidence panel into view
+Handle malformed and unknown fragments without errors.
+Use safe DOM construction and textContent for PDF-derived text.
+On desktop, use a two-column comparison-and-evidence layout with a sticky evidence panel. On mobile, use one column, keep the table before the evidence panel, preserve horizontal table scrolling, and scroll the evidence panel into view after selection.
+Use a restrained academic-report design with:
+Clear typography
+Strong section hierarchy
+Compact cards
+Readable experiment headings
+Accessible contrast
+Visible focus outlines
+Form and control boundaries with sufficient contrast
+Status styling that remains understandable without color
+Data-integrity validation
+Validate the report against misperceived_norms.pdf, not against any previous extraction or report.
+Let:
+N = total extracted findings
+E = explicitly reported findings
+NR = findings not reported in reviewed materials
+P = pending findings
+Confirm that:
+E + NR + P = N
+Every finding ID is unique
+Every finding appears exactly once
+Each finding is assigned to the correct experiment and feature
+The matrix has ten rows, four experiment columns, and 40 cells
+Experiment and feature ordering is correct
+Every explicit statement, value, context field, location, and excerpt is traceable to the PDF
+Not-reported findings contain an honest coverage basis
+Pending findings explain the unresolved ambiguity
+No finding is duplicated, combined improperly, or reassigned
+All displayed counts are calculated from the extracted data
+There are no duplicate DOM IDs
+The PDF remains unchanged
+Do not require or force the extraction to reproduce totals from any earlier report.
+Technical validation
+Before finishing, perform static validation and test the report in a real browser at desktop and mobile widths.
+Verify:
+The report loads successfully.
+The matrix contains ten rows, four experiment columns, and 40 cells.
+All extracted findings have unique IDs and appear exactly once.
+Status totals add up to the total finding count.
+Search works for an ID, component, statement, value, and evidence term.
+Each status filter produces the correct derived count.
+Reset restores all findings.
+Pointer and keyboard selection populate the correct evidence.
+Valid finding anchors work on a fresh page load.
+Malformed and unknown anchors do not cause errors.
+The sticky header and first column work while scrolling.
+Mobile preserves horizontal table scrolling.
+Mobile DOM order matches visual order.
+The page has no unintended horizontal overflow.
+All local links resolve.
+All internal anchors resolve.
+There are no browser-console errors or warnings.
+There are no external asset requests.
+No absolute computer paths, file:// URLs, or localhost URLs are exposed.
+The report contains no facts sourced from existing JSON, HTML, spreadsheets, prior reports, or the web.
+If a check fails, fix the problem and rerun the relevant checks.
+Final response
+Provide:
+A clickable link to the completed HTML report
+The derived total number of findings
+The derived totals for all three reporting statuses
+Confirmation that the PDF was the sole study source
+Confirmation that no existing JSON or HTML was used
+Confirmation that desktop and mobile interactions were tested
+A concise description of any unresolved PDF ambiguities
+</pre></details></section>
 <section id="clarity" class="report-panel" role="tabpanel" aria-labelledby="tab-clarity"><h2>Experimental design and reporting</h2><p><b>3 papers; 10 experiment units.</b> Ten-feature findings describe the reported experiments using the article and supporting materials. Each rubric criterion is scored 1 (clearly described), 0.5 (partially described), or 0 (missing), using the main article and its footnotes, figures and tables. Attrition additionally uses appendix evidence. Each score carries a rationale, source passages and a recorded review scope. Criteria affected by an identified prompt/rubric conflict remain Pending.</p><details id="scoring-rubric"><summary>Scoring criteria and rules</summary><p>Source: <code>configs/review/clarity.json</code>. The fields below follow the source JSON in order and retain its wording.</p><h4><code>version</code></h4><p>clarity</p><h4><code>source_scope</code></h4><p>Article body, footnotes, figures and tables; attrition additionally uses the appendix, with source versions and pages recorded.</p><h4><code>scores</code></h4><dl><dt><code>1</code></dt><dd>All applicable required details are explicit in the permitted sources.</dd><dt><code>0.5</code></dt><dd>Some required details are explicit; specified components remain unclear.</dd><dt><code>0</code></dt><dd>The reviewed permitted sources supply no corresponding description.</dd><dt><code>N/A</code></dt><dd>A documented design feature makes the criterion inapplicable.</dd><dt><code>Not discussed</code></dt><dd>An optional implementation issue is not discussed; record this status separately from scored issues.</dd></dl><h4><code>aggregation</code></h4><p>Each dimension is 1 when all applicable scored criteria are 1; 0 when all are 0; otherwise 0.5. N/A and Not discussed entries are excluded. All-N/A dimensions are N/A; all-unscored dimensions are Not discussed. Pending criteria keep the dimension pending.</p><h4><code>fields</code></h4><h5><code>recruitment</code></h5><ul><li><code>recruitment.population</code><br>Population, eligibility and setting</li><li><code>recruitment.selection</code><br>How sites and participants entered the study</li><li><code>recruitment.sample_size</code><br>Assigned and analyzed sample sizes with units</li></ul><h5><code>treatments</code></h5><ul><li><code>treatments.conditions</code><br>Treatment and comparison conditions</li><li><code>treatments.delivery</code><br>Content, delivery and exposure schedule</li></ul><h5><code>outcomes</code></h5><ul><li><code>outcomes.measurement</code><br>Outcome definitions and measurement instruments</li><li><code>outcomes.coding</code><br>Coding, scale and index construction</li><li><code>outcomes.timing</code><br>Measurement timing</li></ul><h5><code>pretreatment_covariates</code></h5><ul><li><code>pretreatment_covariates.variables</code><br>Covariates or an explicit unadjusted specification</li><li><code>pretreatment_covariates.timing</code><br>Covariate measurement timing</li><li><code>pretreatment_covariates.role</code><br>Use in adjustment, blocking or moderation</li></ul><h5><code>assignment</code></h5><ul><li><code>assignment.unit</code><br>Randomization unit</li><li><code>assignment.blocking</code><br>Whether block randomization is used</li></ul><h5><code>estimand</code></h5><ul><li><code>estimand.contrast</code><br>Target treatment contrast</li><li><code>estimand.population</code><br>Target analysis population and outcome scale</li></ul><h5><code>analysis_model</code></h5><ul><li><code>analysis_model.estimator</code><br>Estimator and model structure</li><li><code>analysis_model.adjustment</code><br>Covariates, fixed effects and weights</li><li><code>analysis_model.inference</code><br>Uncertainty estimation and clustering</li></ul><h5><code>implementation</code></h5><ul><li><code>implementation.attrition</code><br>Attrition and missing outcomes: overall and between-group statistics</li><li><code>implementation.noncompliance</code><br>Noncompliance: discussion and response</li><li><code>implementation.spillovers</code><br>Spillovers: discussion and response</li></ul><h4><code>implementation_topics</code></h4><ul><li><code>noncompliance</code></li><li><code>attrition</code></li><li><code>spillovers</code></li></ul><h4><code>issue_types</code></h4><dl><dt><code>technical_reporting</code></dt><dd>Required design information in the main text</dd><dt><code>main_appendix_consistency</code></dt><dd>Conflicting descriptions between main text and appendix</dd><dt><code>replication_consistency</code></dt><dd>Conflicting descriptions involving replication materials</dd></dl><h4><code>rules</code></h4><dl><dt><code>assignment</code></dt><dd>Score the unit and blocking status. Blocking may be established by an explicit statement or a described allocation procedure. Record used, not used, or unclear. A bare statement of random assignment leaves blocking unclear. Naming blocking variables, probabilities, software and block construction is optional descriptive information.</dd><dt><code>attrition</code></dt><dd>Use one score for attrition and missing outcomes. Score 1 for overall attrition statistics plus arm-specific statistics or an explicit between-group comparison; 0.5 for partial statistics; 0 for no statistics in reviewed sources. Explicit complete outcome ascertainment for all assigned units supports 1. Record each relevant outcome/wave. Report counts, denominators, units, causes and responses where available. Keep calculated rates labeled. In conjoint designs assess missingness by randomized attributes or tasks as appropriate. Recruitment refusal and prespecified analysis restrictions are recorded with their actual stage.</dd><dt><code>other_issues</code></dt><dd>For noncompliance and spillovers first record whether discussed. If discussed, score 1 when the issue and the authors’ response are described, 0.5 when the response remains unclear. When unmentioned use not_discussed with null score and exclude from aggregation. Record any other issue raised by the authors narratively. Quantitative incidence is descriptive context.</dd><dt><code>sources</code></dt><dd>Attrition permits main and supplementary evidence. Other criteria retain main-text scope. Record appendix version and reviewed pages. Missing source coverage is documented explicitly; preliminary judgments remain provisional. Separate consistency analysis retains its own records.</dd></dl><h4><code>updated_at</code></h4><p>2026-10-17</p><details id="rubric-json"><summary>Complete rubric JSON</summary><pre class="scoring-prompt">{
   &quot;version&quot;: &quot;clarity&quot;,
   &quot;source_scope&quot;: &quot;Article body, footnotes, figures and tables; attrition additionally uses the appendix, with source versions and pages recorded.&quot;,
