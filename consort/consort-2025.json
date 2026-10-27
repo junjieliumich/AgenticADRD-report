@@ -1,0 +1,176 @@
+{
+  "title": "CONSORT 2025 official checklist",
+  "source_url": "https://www.consort-spirit.org/_files/ugd/b628c8_6fa59b2c6db04efb9a9d0bc967a9fcf7.docx",
+  "source_sha256": "b2cd676aa96bdf4e7e4bfeace5265587ea6c834da71abe9954abab591b1d1fb0",
+  "extraction": "Text of the item-number and description columns in the official editable checklist; whitespace normalized.",
+  "items": [
+    {
+      "id": "1a",
+      "text": "Identification as a randomised trial"
+    },
+    {
+      "id": "1b",
+      "text": "Structured summary of the trial design, methods, results, and conclusions"
+    },
+    {
+      "id": "2",
+      "text": "Name of trial registry, identifying number (with URL) and date of registration"
+    },
+    {
+      "id": "3",
+      "text": "Where the trial protocol and statistical analysis plan can be accessed"
+    },
+    {
+      "id": "4",
+      "text": "Where and how the individual de-identified participant data (including data dictionary), statistical code and any other materials can be accessed"
+    },
+    {
+      "id": "5a",
+      "text": "Sources of funding and other support (e.g., supply of drugs), and role of funders in the design, conduct, analysis and reporting of the trial"
+    },
+    {
+      "id": "5b",
+      "text": "Financial and other conflicts of interest of the manuscript authors"
+    },
+    {
+      "id": "6",
+      "text": "Scientific background and rationale"
+    },
+    {
+      "id": "7",
+      "text": "Specific objectives related to benefits and harms"
+    },
+    {
+      "id": "8",
+      "text": "Details of patient or public involvement in the design, conduct and reporting of the trial"
+    },
+    {
+      "id": "9",
+      "text": "Description of trial design including type of trial (e.g., parallel group, crossover), allocation ratio, and framework (e.g., superiority, equivalence, non-inferiority, exploratory)"
+    },
+    {
+      "id": "10",
+      "text": "Important changes to the trial after it commenced including any outcomes or analyses that were not prespecified, with reason"
+    },
+    {
+      "id": "11",
+      "text": "Settings (e.g., community, hospital) and locations (e.g., countries, sites) where the trial was conducted"
+    },
+    {
+      "id": "12a",
+      "text": "Eligibility criteria for participants"
+    },
+    {
+      "id": "12b",
+      "text": "If applicable, eligibility criteria for sites and for individuals delivering the interventions (e.g., surgeons, physiotherapists)"
+    },
+    {
+      "id": "13",
+      "text": "Intervention and comparator with sufficient details to allow replication. If relevant, where additional materials describing the intervention and comparator (e.g., intervention manual) can be accessed"
+    },
+    {
+      "id": "14",
+      "text": "Pre-specified primary and secondary outcomes, including the specific measurement variable (e.g., systolic blood pressure), analysis metric (e.g., change from baseline, final value, time to event), method of aggregation (e.g., median, proportion), and time point for each outcome"
+    },
+    {
+      "id": "15",
+      "text": "How harms were defined and assessed (e.g., systematically, non-systematically)"
+    },
+    {
+      "id": "16a",
+      "text": "How sample size was determined, including all assumptions supporting the sample size calculation"
+    },
+    {
+      "id": "16b",
+      "text": "Explanation of any interim analyses and stopping guidelines"
+    },
+    {
+      "id": "17a",
+      "text": "Who generated the random allocation sequence and the method used"
+    },
+    {
+      "id": "17b",
+      "text": "Type of randomisation and details of any restriction (e.g., stratification, blocking and block size)"
+    },
+    {
+      "id": "18",
+      "text": "Mechanism used to implement the random allocation sequence (e.g., central computer/telephone; sequentially numbered, opaque, sealed containers), describing any steps to conceal the sequence until interventions were assigned"
+    },
+    {
+      "id": "19",
+      "text": "Whether the personnel who enrolled and those who assigned participants to the interventions had access to the random allocation sequence"
+    },
+    {
+      "id": "20a",
+      "text": "Who was blinded after assignment to interventions (e.g., participants, care providers, outcome assessors, data analysts)"
+    },
+    {
+      "id": "20b",
+      "text": "If blinded, how blinding was achieved and description of the similarity of interventions"
+    },
+    {
+      "id": "21a",
+      "text": "Statistical methods used to compare groups for primary and secondary outcomes, including harms"
+    },
+    {
+      "id": "21b",
+      "text": "Definition of who is included in each analysis (e.g., all randomised participants), and in which group"
+    },
+    {
+      "id": "21c",
+      "text": "How missing data were handled in the analysis"
+    },
+    {
+      "id": "21d",
+      "text": "Methods for any additional analyses (e.g., subgroup and sensitivity analyses), distinguishing prespecified from post-hoc"
+    },
+    {
+      "id": "22a",
+      "text": "For each group, the numbers of participants who were randomly assigned, received intended intervention , and were analysed for the primary outcome"
+    },
+    {
+      "id": "22b",
+      "text": "For each group, losses and exclusions after randomisation, together with reasons"
+    },
+    {
+      "id": "23a",
+      "text": "Dates defining the periods of recruitment and follow-up for outcomes of benefits and harms"
+    },
+    {
+      "id": "23b",
+      "text": "If relevant, why the trial ended or was stopped"
+    },
+    {
+      "id": "24a",
+      "text": "Intervention and comparator as they were actually administered (e.g., where appropriate, who delivered the intervention /comparator , how participants adhered, whether they were delivered as intended [fidelity])"
+    },
+    {
+      "id": "24b",
+      "text": "Concomitant care received during the trial for each group"
+    },
+    {
+      "id": "25",
+      "text": "A table showing baseline demographic and clinical characteristics for each group"
+    },
+    {
+      "id": "26",
+      "text": "For each primary and secondary outcome, by group: the number of participants included in the analysis the number of participants with available data at the outcome time point result for each group, and the estimated effect size and its precision (such as 95% confidence interval) for binary outcomes, presentation of both absolute and relative effect size"
+    },
+    {
+      "id": "27",
+      "text": "All harms or unintended events in each group"
+    },
+    {
+      "id": "28",
+      "text": "Any other analyses performed, including subgroup and sensitivity analyses, distinguishing pre-specified from post-hoc"
+    },
+    {
+      "id": "29",
+      "text": "Interpretation consistent with results, balancing benefits and harms, and considering other relevant evidence"
+    },
+    {
+      "id": "30",
+      "text": "Trial limitations, addressing sources of potential bias, imprecision, generalisability, and, if relevant, multiplicity of analyses"
+    }
+  ]
+}
