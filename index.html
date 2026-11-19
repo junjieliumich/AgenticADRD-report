@@ -37,7 +37,7 @@ details{border-top:1px solid var(--line);padding:14px 0}summary{cursor:pointer;f
 <h1>Experimental reporting</h1>
 <p class="lede">Explore reporting completeness across 20 criteria, the details flagged for review, and patterns across journals and experiment roles.</p>
 <div class="actions"><a class="button primary" href="#results">Open combined results</a><a class="button" href="analysis.json" download>Download analysis data</a></div>
-<div id="coverage" class="stats"></div><p id="scope" class="notice"></p></header>
+<div id="coverage" class="stats"></div><p id="scope" class="lede"></p></header>
 <nav aria-label="Report sections">
 <button data-tab="results" aria-selected="true">Completeness</button>
 <button data-tab="types" aria-selected="false">Experiment roles</button>
@@ -75,15 +75,15 @@ details{border-top:1px solid var(--line);padding:14px 0}summary{cursor:pointer;f
 </section>
 <section data-panel id="methods" hidden>
 <h2>Data and interpretation</h2>
-<p>Each paper was assessed in a fresh GPT-5.6 Sol session at medium reasoning effort, using the shared prompt and published main article. The analysis uses archived model outputs and retains their original scores.</p>
+<p>Each paper was assessed in a fresh GPT-5.6 Sol session at medium reasoning effort, using the shared prompt and published main article. Reporting completeness is assessed against 20 criteria using main-article evidence.</p>
 <ul>
 <li><strong>Unit:</strong> one experiment–criterion assessment. All applicable components must be met for a criterion score of 1. N/A is excluded from the denominator.</li>
 <li><strong>Weighting:</strong> every applicable experiment contributes one observation per criterion. Papers containing more experiments contribute more observations. Domain summaries pool the applicable criterion assessments in that domain.</li>
 <li><strong>Experiment roles:</strong> classes 1–3 correspond to primary, supporting and diagnostic experiments. Classes 4–5 remain available in the full paper inventories.</li>
-<li><strong>Review:</strong> human methodological review is pending. Structural checks cover output fields and source references. The check filter supports a descriptive comparison using records that pass those checks.</li>
+<li><strong>Validation:</strong> automated checks assess output fields and source references. Human methodological validation is in progress. Detailed check results are available in each journal’s review section.</li>
 <li><strong>Comparisons:</strong> journal summaries describe these collections and their mix of experiments. Role filters support comparisons within the same experimental role. Missing-detail counts reflect the model's reporting judgments.</li>
 </ul>
-<div id="provenance"></div>
+
 <div class="grid">
 <div class="card"><h3>APSR</h3><p><a href="apsr/index.html">Journal results and review queue</a></p><p><a href="apsr/assessments.json" download>Full assessment JSON</a></p></div>
 <div class="card"><h3>AJPS</h3><p><a href="ajps/index.html">Journal results and review queue</a></p><p><a href="ajps/assessments.json" download>Full assessment JSON</a></p></div>
@@ -109,7 +109,7 @@ function render(){
  const ranked=D.criteria.map(c=>({c,n:count(rows,[c.id])})).filter(x=>x.n.den).sort((a,b)=>b.n.met/b.n.den-a.n.met/a.n.den);
  $('highlights').innerHTML=ranked.length?'<strong>Descriptive highlights for this selection</strong><p>Highest completeness: '+ranked.slice(0,2).map(x=>esc(short(x.c))+' ('+pct(x.n)+', '+x.n.met+'/'+x.n.den+')').join('; ')+'.</p><p>Lowest completeness: '+ranked.slice(-2).reverse().map(x=>esc(short(x.c))+' ('+pct(x.n)+', '+x.n.met+'/'+x.n.den+')').join('; ')+'.</p>':'No applicable assessments in this selection.';
 
- $('selection').textContent=papers.length+' papers · '+rows.length+' scored experiments in the current selection. '+papers.filter(p=>p.structural_items>0).length+' papers have structural items queued for review.';
+ $('selection').textContent=papers.length+' papers · '+rows.length+' scored experiments in the current selection.';
  $('criterion-chart').innerHTML=D.criteria.map(c=>'<div class="chart-row"><div class="chart-label" title="'+esc(c.wording)+'"><strong>'+c.id+'. '+esc(short(c))+'</strong><small>'+esc(c.wording.slice(c.wording.indexOf(':')+1).trim())+'</small></div><div>'+(js.length===2?['Combined',...js]:js).map(j=>{
  const n=count(j==='Combined'?rows:rows.filter(e=>e.journal===j),[c.id]),w=n.den?100*n.met/n.den:0;
  return '<div class="bar-line" title="'+j+': '+pct(n)+'; '+n.na+' N/A"><div class="track"><div class="fill '+(j==='APSR'?'blue':j==='AJPS'?'teal':'combined')+'" style="width:'+w+'%"></div></div><span>'+j+' '+pct(n)+'<small>'+n.met+'/'+n.den+' · '+n.na+' N/A</small></span></div>'
@@ -124,14 +124,14 @@ function render(){
  if(!d.open||d.dataset.loaded)return;d.dataset.loaded='true';const id=d.dataset.criterion;
  d.querySelector('.detail-content').innerHTML=rows.filter(e=>e.scores[id]===0).map(e=>{
  const p=paperMap.get(e.paper_id),m=e.missing[id]||[];
- return '<div class="examples"><a href="'+p.url+'">'+esc(e.paper_id+' · '+e.id+' · '+e.name)+'</a><small>'+D.classes[e.category]+' · '+e.structural_items+' paper-level structural items</small><ul>'+m.map(c=>'<li><strong>'+esc(c.label)+':</strong> '+esc(text(c.detail))+(c.pages?'<small>Recorded page coverage: '+esc(text(c.pages))+'</small>':'')+'</li>').join('')+'</ul></div>'
+ return '<div class="examples"><a href="'+p.url+'">'+esc(e.paper_id+' · '+e.id+' · '+e.name)+'</a><small>'+D.classes[e.category]+'</small><ul>'+m.map(c=>'<li><strong>'+esc(c.label)+':</strong> '+esc(text(c.detail))+(c.pages?'<small>Recorded page coverage: '+esc(text(c.pages))+'</small>':'')+'</li>').join('')+'</ul></div>'
  }).join('')||'<p>No zero scores in this selection.</p>'
  }));
  renderPapers(papers);
 }
 function renderPapers(papers=selectedPapers(selected())){
  const q=$('search').value.toLowerCase();
- $('paper-list').innerHTML=papers.filter(p=>(p.id+' '+p.title).toLowerCase().includes(q)).map(p=>'<div class="paper-row"><span class="tag">'+p.journal+' · '+p.cohort+'</span> <a href="'+p.url+'">'+esc(p.id+' · '+p.title)+'</a><small>'+p.structural_items+' structural items · '+D.experiments.filter(e=>e.paper_id===p.id).length+' scored experiments in the full paper</small></div>').join('')||'<p class="empty">No papers match this selection.</p>';
+ $('paper-list').innerHTML=papers.filter(p=>(p.id+' '+p.title).toLowerCase().includes(q)).map(p=>'<div class="paper-row"><span class="tag">'+p.journal+'</span> <a href="'+p.url+'">'+esc(p.id+' · '+p.title)+'</a><small>'+D.experiments.filter(e=>e.paper_id===p.id).length+' scored experiments in the full paper</small></div>').join('')||'<p class="empty">No papers match this selection.</p>';
 }
 function show(id){
  if(!$(id)?.hasAttribute('data-panel'))id='results';
@@ -140,9 +140,7 @@ function show(id){
  $('filters').hidden=id==='methods';$('selection').hidden=id==='methods';
 }
 $('coverage').innerHTML=[['Papers',D.papers.length],['Scored experiments',D.experiments.length],['Reporting criteria',D.criteria.length]].map(([k,n])=>'<div><strong>'+n+'</strong><small>'+k+'</small></div>').join('');
-const excluded=D.sources.reduce((n,s)=>n+s.excluded_papers,0);
-$('scope').textContent='Archived assessment snapshot: '+D.sources.map(s=>s.completed_papers+' '+s.journal+' papers ('+s.cohort+')').join(' and ')+'. '+(excluded?'This snapshot uses the earlier list-experiment exclusion scope; the inclusive follow-up results will enter the charts after assembly. ':'This snapshot includes list-experiment assessments. ')+'Human methodological review is pending.';
-$('provenance').innerHTML='<h3>Source snapshots</h3>'+D.sources.map(s=>'<p><strong>'+s.journal+'</strong> · '+s.completed_papers+' papers · '+s.cohort+'<small>'+esc(s.archive)+'</small></p>').join('');
+$('scope').textContent=D.papers.length+' papers from APSR and AJPS, 2016–2025. The analysis includes primary, supporting and diagnostic experiments, including list experiments.';
 for(const id of ['journal','role','checks'])$(id).onchange=render;
 $('search').oninput=()=>renderPapers();
 $('reset').onclick=()=>{for(const id of ['journal','role','checks'])$(id).value='all';$('search').value='';render()};
