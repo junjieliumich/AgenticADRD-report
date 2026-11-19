@@ -1,20 +1,20 @@
 {
   "journal": "AJPS",
-  "scope_history": "All sessions received the list-measurement scope restriction.",
-  "generated_at": "2026-11-18T22:44:58.156306+00:00",
+  "scope_history": "List experiments are included. Completed assessments are retained, and papers with previously excluded embedded list experiments are reassessed in fresh sessions.",
+  "generated_at": "2026-11-19T06:25:46.970236+00:00",
   "catalog_papers": 87,
-  "excluded_papers": 1,
-  "completed_papers": 86,
-  "scored_experiments": 181,
+  "excluded_papers": 0,
+  "completed_papers": 87,
+  "scored_experiments": 183,
   "experiment_classes": {
     "1": 123,
-    "5": 115,
-    "2": 41,
-    "3": 17,
-    "4": 15
+    "5": 116,
+    "2": 42,
+    "3": 18,
+    "4": 14
   },
   "papers_with_structural_items": 17,
-  "assessment_scope": "Exclude list-experiment measurement designs from scoring. For papers with substantive treatment-effect experiments and embedded list measurements, assess the substantive experiments. Record the list measurement designs separately in a top-level scope_exclusions array with name, reason and source pages, and summarize these exclusions in the HTML. This scope restriction takes precedence over the shared prompt's list-experiment scoring section; retain the shared criteria for eligible experiments.",
+  "assessment_scope": "Include primary and embedded list experiments. Apply the list-experiment instructions and experiment classification rules in the shared research prompt.",
   "papers": [
     {
       "paper_id": "AJPS001",
@@ -56,6 +56,13 @@
       "scored_experiments": 3,
       "structural_items": 0,
       "anchor_items": 152,
+      "errors": []
+    },
+    {
+      "paper_id": "AJPS007",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 62,
       "errors": []
     },
     {
@@ -1299,9 +1306,9 @@
     },
     {
       "paper_id": "AJPS038",
-      "scored_experiments": 1,
+      "scored_experiments": 2,
       "structural_items": 0,
-      "anchor_items": 102,
+      "anchor_items": 219,
       "errors": []
     },
     {
@@ -3801,140 +3808,140 @@
       "id": 1,
       "wording": "Population and recruitment: Target population, eligibility, recruitment, and major exclusions are fully reported.",
       "met": 20,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 2,
       "wording": "Experimental conditions: Treatment and comparator, or all randomized attributes and levels, are reported precisely enough to reproduce.",
       "met": 69,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 3,
       "wording": "Randomization: Unit, probabilities or ratio, sequence-generation process, and restrictions are fully reported.",
       "met": 1,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 4,
       "wording": "Outcome measurement: Outcomes, coding, timing, and primary or secondary status are fully reported.",
       "met": 10,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 5,
       "wording": "Participant flow: Numbers recruited, randomized, exposed, followed, and analyzed are reported as applicable.",
       "met": 3,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 6,
       "wording": "Estimand: The causal or descriptive quantity being estimated is explicitly defined.",
-      "met": 127,
-      "applicable": 181,
+      "met": 128,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 7,
       "wording": "Estimator/model: The statistical operation used to estimate the estimand is reconstructable from the text, table, or table notes.",
-      "met": 58,
-      "applicable": 181,
+      "met": 59,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 8,
       "wording": "Analysis unit: The reader can determine whether observations are participants, profiles, choices, sessions, or another unit.",
-      "met": 158,
-      "applicable": 181,
+      "met": 159,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 9,
       "wording": "Coding and reference categories: Treatment coding, outcome coding, omitted categories, and reference levels are explicit.",
       "met": 42,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 10,
       "wording": "Specification: Covariates, fixed effects, weights, transformations, and column-to-column specification changes are explicit.",
       "met": 17,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 11,
       "wording": "Dependence and inference: Standard errors, clustering, repeated-observation dependence, bootstrap or permutation procedures, and confidence-interval construction are explicit.",
       "met": 8,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 12,
       "wording": "Missingness and attrition: Inclusion rules, missing outcomes, exclusions, attrition, and corresponding adjustments are explicit.",
       "met": 4,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 13,
       "wording": "Multiplicity and analysis status: Multiple-testing procedures and prespecified versus exploratory analyses are distinguished.",
       "met": 1,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 14,
       "wording": "Analysis sample: The number of observations used in each focal analysis is reported.",
       "met": 58,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 15,
       "wording": "Group quantities: Relevant control means, treatment means, marginal means, or other raw quantities are reported.",
       "met": 51,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 16,
       "wording": "Effect and uncertainty: Effect estimates and standard errors or confidence intervals are reported.",
       "met": 102,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 17,
       "wording": "Model-to-result traceability: Each focal numerical result can be connected directly to a particular outcome, contrast, specification, sample, and inference procedure.",
       "met": 28,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 18,
       "wording": "Robustness analyses: Alternative specifications and sensitivity analyses are explained sufficiently to understand what changed.",
       "met": 53,
-      "applicable": 180,
+      "applicable": 182,
       "na": 1
     },
     {
       "id": 19,
       "wording": "Internal-validity threats: Attrition, noncompliance, spillovers, demand effects, measurement problems, and other relevant threats are discussed.",
       "met": 7,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     },
     {
       "id": 20,
       "wording": "Inferential scope: The paper distinguishes the randomized contrast from broader claims about mechanisms, populations, and settings.",
       "met": 101,
-      "applicable": 181,
+      "applicable": 183,
       "na": 0
     }
   ]
