@@ -1,0 +1,306 @@
+{
+  "journal": "BLATTMAN",
+  "publication_years": null,
+  "scope_history": "Each cohort retains its original submissions, execution records and source evidence. List experiments are included.",
+  "generated_at": "2026-11-20T20:30:43.295860+00:00",
+  "catalog_papers": 20,
+  "excluded_papers": 0,
+  "completed_papers": 20,
+  "scored_experiments": 27,
+  "experiment_classes": {
+    "1": 21,
+    "5": 25,
+    "3": 3,
+    "4": 6,
+    "2": 3
+  },
+  "papers_with_structural_items": 0,
+  "assessment_scope": "Assess the supplied article version using the shared prompt and main-article evidence only. Include primary and embedded list experiments when described in the main article. Classify each design from the supplied article; retain observational designs as unscored inventories under the shared prompt. Exclude online appendices and publisher-added citing-article lists from assessment evidence. Verify and record main-article page boundaries. Source version notes are available in source.json.",
+  "papers": [
+    {
+      "paper_id": "BLATT001",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 17,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT002",
+      "scored_experiments": 2,
+      "structural_items": 0,
+      "anchor_items": 38,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT003",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 0,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT005",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 7,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT006",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 11,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT007",
+      "scored_experiments": 2,
+      "structural_items": 0,
+      "anchor_items": 74,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT008",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 13,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT009",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 1,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT010",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 19,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT011",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 5,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT012",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 71,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT013",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 8,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT015",
+      "scored_experiments": 2,
+      "structural_items": 0,
+      "anchor_items": 35,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT016",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 65,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT017",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 98,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT018",
+      "scored_experiments": 2,
+      "structural_items": 0,
+      "anchor_items": 42,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT019",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 20,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT020",
+      "scored_experiments": 3,
+      "structural_items": 0,
+      "anchor_items": 86,
+      "errors": []
+    },
+    {
+      "paper_id": "BLATT021",
+      "scored_experiments": 1,
+      "structural_items": 0,
+      "anchor_items": 23,
+      "errors": []
+    },
+    {
+      "paper_id": "P100",
+      "scored_experiments": 2,
+      "structural_items": 0,
+      "anchor_items": 69,
+      "errors": []
+    }
+  ],
+  "criteria": [
+    {
+      "id": 1,
+      "wording": "Population and recruitment: Target population, eligibility, recruitment, and major exclusions are fully reported.",
+      "met": 0,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 2,
+      "wording": "Experimental conditions: Treatment and comparator, or all randomized attributes and levels, are reported precisely enough to reproduce.",
+      "met": 13,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 3,
+      "wording": "Randomization: Unit, probabilities or ratio, sequence-generation process, and restrictions are fully reported.",
+      "met": 2,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 4,
+      "wording": "Outcome measurement: Outcomes, coding, timing, and primary or secondary status are fully reported.",
+      "met": 5,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 5,
+      "wording": "Participant flow: Numbers recruited, randomized, exposed, followed, and analyzed are reported as applicable.",
+      "met": 7,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 6,
+      "wording": "Estimand: The causal or descriptive quantity being estimated is explicitly defined.",
+      "met": 24,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 7,
+      "wording": "Estimator/model: The statistical operation used to estimate the estimand is reconstructable from the text, table, or table notes.",
+      "met": 13,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 8,
+      "wording": "Analysis unit: The reader can determine whether observations are participants, profiles, choices, sessions, or another unit.",
+      "met": 26,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 9,
+      "wording": "Coding and reference categories: Treatment coding, outcome coding, omitted categories, and reference levels are explicit.",
+      "met": 5,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 10,
+      "wording": "Specification: Covariates, fixed effects, weights, transformations, and column-to-column specification changes are explicit.",
+      "met": 4,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 11,
+      "wording": "Dependence and inference: Standard errors, clustering, repeated-observation dependence, bootstrap or permutation procedures, and confidence-interval construction are explicit.",
+      "met": 10,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 12,
+      "wording": "Missingness and attrition: Inclusion rules, missing outcomes, exclusions, attrition, and corresponding adjustments are explicit.",
+      "met": 1,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 13,
+      "wording": "Multiplicity and analysis status: Multiple-testing procedures and prespecified versus exploratory analyses are distinguished.",
+      "met": 8,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 14,
+      "wording": "Analysis sample: The number of observations used in each focal analysis is reported.",
+      "met": 13,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 15,
+      "wording": "Group quantities: Relevant control means, treatment means, marginal means, or other raw quantities are reported.",
+      "met": 18,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 16,
+      "wording": "Effect and uncertainty: Effect estimates and standard errors or confidence intervals are reported.",
+      "met": 21,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 17,
+      "wording": "Model-to-result traceability: Each focal numerical result can be connected directly to a particular outcome, contrast, specification, sample, and inference procedure.",
+      "met": 9,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 18,
+      "wording": "Robustness analyses: Alternative specifications and sensitivity analyses are explained sufficiently to understand what changed.",
+      "met": 10,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 19,
+      "wording": "Internal-validity threats: Attrition, noncompliance, spillovers, demand effects, measurement problems, and other relevant threats are discussed.",
+      "met": 13,
+      "applicable": 27,
+      "na": 0
+    },
+    {
+      "id": 20,
+      "wording": "Inferential scope: The paper distinguishes the randomized contrast from broader claims about mechanisms, populations, and settings.",
+      "met": 19,
+      "applicable": 27,
+      "na": 0
+    }
+  ],
+  "reused_paper_ids": [
+    "P100"
+  ]
+}
