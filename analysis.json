@@ -31,6 +31,14 @@
       "cohort": "2016-2020",
       "excluded_papers": 0,
       "assessment_scope": "Include primary and embedded list experiments. Apply the list-experiment instructions and experiment classification rules in the shared research prompt."
+    },
+    {
+      "journal": "ECONOMICS",
+      "archive": "data/runs/core/economics",
+      "completed_papers": 5,
+      "cohort": "selected sample",
+      "excluded_papers": 0,
+      "assessment_scope": "Assess the supplied article version. Include primary and embedded list experiments. Apply the shared prompt criteria to main-article evidence only. Source metadata identifies manuscript versions and PDF boundaries; verify these against the supplied PDF."
     }
   ],
   "papers": [
@@ -2448,6 +2456,46 @@
       "journal": "AJPS",
       "cohort": "2016-2020",
       "url": "ajps/AJPS155.html",
+      "structural_items": 0
+    },
+    {
+      "id": "ECON001",
+      "title": "Misperceived Social Norms: Women Working Outside the Home in Saudi Arabia",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "url": "economics/ECON001.html",
+      "structural_items": 0
+    },
+    {
+      "id": "ECON002",
+      "title": "Status Goods: Experimental Evidence from Platinum Credit Cards",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "url": "economics/ECON002.html",
+      "structural_items": 0
+    },
+    {
+      "id": "ECON003",
+      "title": "Cool to be Smart or Smart to be Cool? Understanding Peer Pressure in Education",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "url": "economics/ECON003.html",
+      "structural_items": 0
+    },
+    {
+      "id": "ECON004",
+      "title": "The Impact of Secondary School Subsidies on Skills, Education and Labor Market Outcomes: Experimental Evidence from Ghana",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "url": "economics/ECON004.html",
+      "structural_items": 0
+    },
+    {
+      "id": "ECON005",
+      "title": "The Negligible Effect of Free Contraception on Fertility: Experimental Evidence from Burkina Faso",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "url": "economics/ECON005.html",
       "structural_items": 0
     }
   ],
@@ -438207,6 +438255,5377 @@
           }
         ]
       }
+    },
+    {
+      "paper_id": "ECON001",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E1",
+      "name": "Riyadh information-provision experiment with follow-up",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Randomization restrictions",
+            "detail": true,
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": true,
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Confidence-interval construction",
+            "detail": true,
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": true,
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": true,
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": true,
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON001",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E2",
+      "name": "First national survey embedded list experiment",
+      "category": 2,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 0,
+        "11": 1,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 1,
+        "17": 0,
+        "18": 1,
+        "19": 0,
+        "20": 1
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Recruitment procedure",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Major exclusions",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Sequence-generation process",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number randomized",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Number analyzed",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Weights",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Adjustments for missingness/attrition",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "14": [
+          {
+            "label": "Sample size for each focal analysis",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "15": [
+          {
+            "label": "Control/reference quantity",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          },
+          {
+            "label": "Treatment/other group quantity",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "17": [
+          {
+            "label": "Sample mapping",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": true,
+            "pages": [
+              23,
+              24,
+              25,
+              26,
+              27
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON001",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E3",
+      "name": "Surveyor recruitment information experiment",
+      "category": 2,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 0,
+        "20": 1
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Major exclusions",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Sequence-generation process",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number recruited",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Clustering/dependence adjustment",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          },
+          {
+            "label": "Adjustments for missingness/attrition",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": true,
+            "pages": [
+              29,
+              30,
+              31
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON001",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E4",
+      "name": "Second national survey question-wording randomization",
+      "category": 3,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 1,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 1,
+        "14": 0,
+        "15": 1,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 1,
+        "20": 1
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Recruitment procedure",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Major exclusions",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Sequence-generation process",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Outcome coding",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Primary/secondary status",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number randomized",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Number analyzed",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "6": [
+          {
+            "label": "Target quantity",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Experimental contrast",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Target population/time horizon",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "7": [
+          {
+            "label": "Estimator/model family",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Computational operation",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Model-to-estimand link",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "9": [
+          {
+            "label": "Treatment coding",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Outcome coding",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Omitted/reference category",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Other reference levels",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Covariates",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Fixed effects",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Weights",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Transformations",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Column-to-column changes",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Standard-error procedure",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Clustering/dependence adjustment",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Adjustments for missingness/attrition",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "14": [
+          {
+            "label": "Sample size for each focal analysis",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "16": [
+          {
+            "label": "Effect estimate",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Uncertainty measure",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "17": [
+          {
+            "label": "Contrast mapping",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Specification mapping",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Sample mapping",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Inference mapping",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ],
+        "18": [
+          {
+            "label": "Alternative specifications",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "Sensitivity/robustness procedures",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          },
+          {
+            "label": "What changed is explicit",
+            "detail": true,
+            "pages": [
+              27,
+              28
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON002",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E1",
+      "name": "Demand for status: platinum versus benefits upgrade (including merit arm)",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "the preassignment probability or ratio for each of the three arms"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          },
+          {
+            "label": "Sequence-generation process",
+            "detail": [
+              "how the random assignment sequence was generated"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": [
+              "an explicit primary/secondary designation for take-up and the merit-arm contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Resampling procedure",
+            "detail": [
+              "the permutation-test algorithm, permutation set or draw count, and treatment-assignment restrictions used in resampling"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "how the 95% confidence intervals in Figure II were constructed"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "whether any reached client had a missing take-up outcome"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          },
+          {
+            "label": "Corresponding adjustments",
+            "detail": [
+              "whether any adjustment for nonreach or missing outcomes was used"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": [
+              "a multiple-testing procedure for the several arm contrasts and heterogeneity analyses"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": [
+              "discussion of attrition as a threat to the randomized contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": [
+              "discussion of noncompliance as a threat to the randomized contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          },
+          {
+            "label": "Spillovers",
+            "detail": [
+              "discussion of spillovers as a threat to the randomized contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Population scope",
+            "detail": [
+              "an explicit limitation separating the experiment from broader population claims"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": [
+              "an explicit limitation separating the experiment from broader setting claims"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B, Figure II, Table I and notes, footnotes 6–11"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON002",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E1D",
+      "name": "Embedded merit-framing diagnostic randomization",
+      "category": 3,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "the preassignment probability or ratio for each of the three arms"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          },
+          {
+            "label": "Sequence-generation process",
+            "detail": [
+              "how the random assignment sequence was generated"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Resampling procedure",
+            "detail": [
+              "the permutation-test algorithm, permutation set or draw count, and treatment-assignment restrictions used in resampling"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "how the 95% confidence intervals in Figure II were constructed"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "whether any reached client had a missing take-up outcome"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          },
+          {
+            "label": "Corresponding adjustments",
+            "detail": [
+              "whether any adjustment for nonreach or missing outcomes was used"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": [
+              "a multiple-testing procedure for the several arm contrasts and heterogeneity analyses"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": [
+              "discussion of attrition as a threat to the randomized contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": [
+              "discussion of noncompliance as a threat to the randomized contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          },
+          {
+            "label": "Spillovers",
+            "detail": [
+              "discussion of spillovers as a threat to the randomized contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Population scope",
+            "detail": [
+              "an explicit limitation separating the experiment from broader population claims"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": [
+              "an explicit limitation separating the experiment from broader setting claims"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "9–16",
+                "displays": "Sections III.A–III.B and Figure II; especially printed pp. 1572–1573"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON002",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E2",
+      "name": "Positional externalities: eligibility information and diamond-card demand",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 1,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "the allocation probability or ratio"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Sequence-generation process",
+            "detail": [
+              "the sequence-generation process"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": [
+              "whether assignment was restricted, blocked, or stratified"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": [
+              "an explicit primary/secondary designation"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Resampling procedure",
+            "detail": [
+              "the permutation-test algorithm, draw count, and assignment restrictions"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "how Figure IV's 95% confidence intervals were constructed"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "whether any reached client had a missing take-up outcome"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Corresponding adjustments",
+            "detail": [
+              "whether nonreach or missing outcomes were adjusted for"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": [
+              "a multiple-testing policy across raw and adjusted specifications"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": [
+              "whether the analysis was prespecified or exploratory"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": [
+              "discussion of attrition as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": [
+              "discussion of noncompliance as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Spillovers",
+            "detail": [
+              "discussion of spillovers as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": [
+              "discussion of demand effects as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Population scope",
+            "detail": [
+              "an explicit limitation on broader population inference"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": [
+              "an explicit limitation on broader setting inference"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "22–26",
+                "displays": "Section V, Figure IV, Table III and notes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON002",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E3",
+      "name": "Bank self-affirmation × platinum/benefits-upgrade factorial experiment",
+      "category": 2,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 1,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 0,
+        "16": 0,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Target population",
+            "detail": [
+              "a defined target population beyond an unspecified sample of bank customers"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Eligibility criteria",
+            "detail": [
+              "eligibility criteria"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Recruitment procedure",
+            "detail": [
+              "how the 167 customers were selected or recruited"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Major exclusions",
+            "detail": [
+              "major exclusions"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "2": [
+          {
+            "label": "Treatment condition or randomized attributes and levels",
+            "detail": [
+              "the exact phone self-affirmation and placebo scripts"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Comparator condition",
+            "detail": [
+              "the complete placebo implementation"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Unit of randomization",
+            "detail": [
+              "an explicit unit for each factorial randomization"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "allocation probabilities for the 2×2 cells"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Sequence-generation process",
+            "detail": [
+              "the sequence-generation process"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": [
+              "randomization restrictions"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Outcome definition",
+            "detail": [
+              "a complete operational definition of the factorial take-up outcomes"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Outcome coding",
+            "detail": [
+              "outcome coding"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Outcome timing",
+            "detail": [
+              "exact outcome timing"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Primary/secondary status",
+            "detail": [
+              "primary/secondary status"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number recruited",
+            "detail": [
+              "number approached before the n=167 sample"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Number randomized",
+            "detail": [
+              "numbers randomized overall and by cell"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": [
+              "numbers exposed by cell"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": [
+              "numbers followed"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Number analyzed",
+            "detail": [
+              "analysis N for each factorial contrast"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "6": [
+          {
+            "label": "Causal or descriptive quantity",
+            "detail": [
+              "an exact factorial main effect or interaction estimand"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "7": [
+          {
+            "label": "Statistical operation or model implementation",
+            "detail": [
+              "the estimator/model for the self-affirmation effects"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "9": [
+          {
+            "label": "Treatment coding",
+            "detail": [
+              "factor coding"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Outcome coding",
+            "detail": [
+              "outcome coding"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Omitted category",
+            "detail": [
+              "omitted category"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Reference levels",
+            "detail": [
+              "reference levels"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Covariates",
+            "detail": [
+              "main-article reporting of covariates for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Fixed effects",
+            "detail": [
+              "main-article reporting of fixed effects for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Weights",
+            "detail": [
+              "main-article reporting of weights for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Transformations",
+            "detail": [
+              "main-article reporting of transformations for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Column-to-column specification changes",
+            "detail": [
+              "main-article reporting of column-to-column specification changes for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Standard-error procedure",
+            "detail": [
+              "main-article reporting of standard-error procedure for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Clustering",
+            "detail": [
+              "main-article reporting of clustering for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Repeated-observation handling",
+            "detail": [
+              "main-article reporting of repeated-observation handling for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Resampling procedure",
+            "detail": [
+              "main-article reporting of resampling procedure for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "main-article reporting of confidence-interval construction for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": [
+              "main-article reporting of inclusion rules for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "main-article reporting of missing outcomes for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": [
+              "main-article reporting of exclusions for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": [
+              "main-article reporting of attrition for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Corresponding adjustments",
+            "detail": [
+              "main-article reporting of corresponding adjustments for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": [
+              "main-article reporting of multiplicity procedure for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": [
+              "main-article reporting of prespecified versus exploratory status for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "14": [
+          {
+            "label": "Observations in each focal analysis",
+            "detail": [
+              "main-article reporting of observations in each focal analysis for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "15": [
+          {
+            "label": "Relevant raw group quantities",
+            "detail": [
+              "main-article reporting of relevant raw group quantities for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "16": [
+          {
+            "label": "Effect estimate",
+            "detail": [
+              "main-article reporting of effect estimate for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Uncertainty measure",
+            "detail": [
+              "main-article reporting of uncertainty measure for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "17": [
+          {
+            "label": "Outcome mapping",
+            "detail": [
+              "main-article reporting of outcome mapping for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Contrast mapping",
+            "detail": [
+              "main-article reporting of contrast mapping for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Specification mapping",
+            "detail": [
+              "main-article reporting of specification mapping for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Sample mapping",
+            "detail": [
+              "main-article reporting of sample mapping for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Inference-procedure mapping",
+            "detail": [
+              "main-article reporting of inference-procedure mapping for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "18": [
+          {
+            "label": "Alternative specifications",
+            "detail": [
+              "main-article reporting of alternative specifications for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Sensitivity analyses",
+            "detail": [
+              "main-article reporting of sensitivity analyses for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Explanation of what changed",
+            "detail": [
+              "main-article reporting of explanation of what changed for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": [
+              "main-article reporting of attrition for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": [
+              "main-article reporting of noncompliance for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Spillovers",
+            "detail": [
+              "main-article reporting of spillovers for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": [
+              "main-article reporting of demand effects for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Measurement problems",
+            "detail": [
+              "main-article reporting of measurement problems for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Other relevant threats",
+            "detail": [
+              "main-article reporting of other relevant threats for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Randomized contrast",
+            "detail": [
+              "main-article reporting of randomized contrast for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Mechanism scope",
+            "detail": [
+              "main-article reporting of mechanism scope for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Population scope",
+            "detail": [
+              "main-article reporting of population scope for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": [
+              "main-article reporting of setting scope for the factorial self-affirmation analysis"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "27",
+                "displays": "Section VI.A and footnotes 17–18"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON002",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E4",
+      "name": "MTurk self-affirmation and luxury gift-card demand",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 1,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 0,
+        "18": 1,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Eligibility criteria",
+            "detail": [
+              "MTurk eligibility criteria"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Major exclusions",
+            "detail": [
+              "exclusion criteria and exclusions"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "the treatment allocation probability or ratio"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Sequence-generation process",
+            "detail": [
+              "the random-sequence generation process"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": [
+              "whether assignment was restricted"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Outcome definition",
+            "detail": [
+              "the complete Rosenberg scale and the exact construction of willingness to pay from the choice list"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Outcome coding",
+            "detail": [
+              "complete Rosenberg scoring and rank-outcome coding"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number randomized",
+            "detail": [
+              "arm-specific randomized counts"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": [
+              "arm-specific exposure counts"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": [
+              "follow-up/completion counts by arm"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "6": [
+          {
+            "label": "Causal or descriptive quantity",
+            "detail": [
+              "a definition of the summary-index estimand and of the Figure V willingness-to-pay estimand"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "7": [
+          {
+            "label": "Statistical operation or model implementation",
+            "detail": [
+              "the computation of the summary index, willingness-to-pay distribution, and joint tests"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "9": [
+          {
+            "label": "Outcome coding",
+            "detail": [
+              "complete Rosenberg-score coding and the WTP transformation"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Transformations",
+            "detail": [
+              "the transformation used to construct the summary index and WTP shown in Figure V"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Resampling procedure",
+            "detail": [
+              "permutation algorithms, draw counts, assignment restrictions, and the joint-test implementation"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "a confidence-interval construction (no confidence intervals are reported for focal effects)"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": [
+              "reporting of inclusion rules among the 405 MTurk participants"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "reporting of missing outcomes among the 405 MTurk participants"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": [
+              "reporting of exclusions among the 405 MTurk participants"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": [
+              "reporting of attrition among the 405 MTurk participants"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Corresponding adjustments",
+            "detail": [
+              "reporting of corresponding adjustments among the 405 MTurk participants"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": [
+              "a reconstructable summary-index/mean-effect-size/joint-test computation rather than citations alone"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": [
+              "prespecified versus exploratory status of the several outcomes and robustness tests"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "17": [
+          {
+            "label": "Inference-procedure mapping",
+            "detail": [
+              "a direct reconstructable mapping for the summary-index p-value, alternative joint tests, and Figure V"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": [
+              "discussion of attrition as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": [
+              "discussion of noncompliance as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Spillovers",
+            "detail": [
+              "discussion of spillovers as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": [
+              "discussion of demand effects as a threat"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Population scope",
+            "detail": [
+              "an explicit boundary on broader population inference from MTurk"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": [
+              "an explicit boundary on broader setting inference from MTurk"
+            ],
+            "pages": [
+              {
+                "pdf_pages": "28–33",
+                "displays": "Section VI.B, Table IV and notes, Figure V, footnotes 19–24"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON003",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E1",
+      "name": "Primary 2×2 classroom field experiment: privacy × lottery probability",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Target population",
+            "detail": "A broader target population beyond selected 11th-grade classes is not defined.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Recruitment procedure",
+            "detail": "The exact school/class sampling and student approach/consent procedure are not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Major exclusions",
+            "detail": "A complete accounting of exclusions before the 511-student sample is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": "Near-equal arm counts are shown, but intended probabilities/ratio within each classroom are not stated.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Sequence generation",
+            "detail": "Alternation is stated, but how the starting form/order was generated is absent; assignment was not a pure random draw.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number recruited",
+            "detail": "The number recruited as a distinct participant-flow stage is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Number randomized",
+            "detail": "The number randomized as a distinct participant-flow stage is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": "The number exposed as a distinct participant-flow stage is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": "Only a 77% follow-up rate and analysis N are given; a complete stage-by-stage count is absent.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Weights",
+            "detail": "The article does not state whether analytic weights were used or explicitly state that regressions were unweighted.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Bootstrap or permutation procedure",
+            "detail": "Wild bootstrap and permutation tests are named, but algorithms, draws, and exact reassignment scheme are not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": "Figures label 95% confidence intervals but their construction is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": "Complete-case/inclusion rules for changing Ns are not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": "Counts and handling of missing baseline/follow-up outcomes are not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": "Reasons and counts for analysis exclusions are not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Missingness or attrition adjustments",
+            "detail": "No adjustment or explicit no-adjustment rule for attrition/missingness is reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": "No multiple-testing adjustment or explicit decision not to adjust is reported despite many outcomes, subgroups, and contrasts.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": "The article mentions preregistered school selection, but does not distinguish prespecified from exploratory analyses for the reported outcomes and heterogeneity tests.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": "The 23% follow-up loss is disclosed but not assessed as a selection threat.",
+            "pages": [
+              "PDF pp. 14–15, 28–35; footnotes 29–30, 44–54"
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": "Whether students read/believed privacy and probability manipulations is not measured or analyzed as noncompliance.",
+            "pages": [
+              "PDF pp. 14–15, 28–35; footnotes 29–30, 44–54"
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": "Potential experimenter-demand or hypothesis-guessing effects are not discussed.",
+            "pages": [
+              "PDF pp. 14–15, 28–35; footnotes 29–30, 44–54"
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Population scope",
+            "detail": "The paper does not explicitly delimit generalization from selected classes/schools to a defined population.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": "The paper does not explicitly delimit generalization beyond these Los Angeles classroom/SAT-offer settings.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON003",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E2",
+      "name": "Embedded SAT-prep lottery-winner randomization",
+      "category": 2,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 0,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 0,
+        "16": 1,
+        "17": 0,
+        "18": 1,
+        "19": 0,
+        "20": 0
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Target population",
+            "detail": "The target is not consistently defined: narrative says Private-condition signups, table says all signups.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Eligibility criteria",
+            "detail": "Signup is required, but the text and Table 8 conflict on whether only Private-condition signups are eligible.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Recruitment procedure",
+            "detail": "No separate recruitment or complete post-signup selection procedure is reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Major exclusions",
+            "detail": "Exclusions from signups to the 269 analyzed students are not enumerated.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "2": [
+          {
+            "label": "Reproducible condition content",
+            "detail": "Actual winner-draw implementation is absent, and upstream privacy/probability composition of Panel C is unclear.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Sequence generation",
+            "detail": "No actual lottery draw/sequence-generation procedure is reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Randomization restrictions",
+            "detail": "No restrictions, blocking, or independence implementation for choosing winners are reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Number randomized",
+            "detail": "The number randomized at the embedded lottery stage is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Number exposed",
+            "detail": "The number exposed at the embedded lottery stage is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Number followed",
+            "detail": "The number followed at the embedded lottery stage is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "6": [
+          {
+            "label": "Contrast and scale",
+            "detail": "The pooled estimand is not fully defined with respect to the 25%/75% upstream assignment and the conflicting Private-only versus all-signup sample.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Weights",
+            "detail": "Weights are not reported, nor is an explicit unweighted specification.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Bootstrap or permutation procedure",
+            "detail": "Wild-bootstrap and permutation p-values are shown, but algorithms, draws, and reassignment scheme are absent.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": "The narrative says Private-condition signups while the table note says signups; inclusion is inconsistent.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": "Missing follow-up outcome counts and handling are not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": "The flow from eligible signups to N=269 is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": "A 77% overall follow-up rate is given, but lottery-arm attrition is not reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Missingness or attrition adjustments",
+            "detail": "No attrition/missingness adjustment or explicit no-adjustment rule is reported.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedure",
+            "detail": "No adjustment or explicit no-adjustment decision is reported for two outcomes and multiple specifications.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": "The lottery follow-up analysis is not identified as prespecified versus exploratory.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "15": [
+          {
+            "label": "Relevant raw group quantities",
+            "detail": "The reference-mean row is mislabeled “Mean of public take-up”; it does not unambiguously identify the lottery-loser mean.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "17": [
+          {
+            "label": "Sample",
+            "detail": "The narrative says Private-condition signups, whereas the Table 8 note says signups generally; the focal sample cannot be traced unambiguously.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Attrition",
+            "detail": "Overall follow-up loss is disclosed but differential winner/loser attrition is not assessed.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Noncompliance",
+            "detail": "Package uptake/use among winners is not reported or analyzed.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": "Demand or hypothesis-guessing effects in self-reported follow-up are not discussed.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ],
+        "20": [
+          {
+            "label": "Population scope",
+            "detail": "No explicit population-generalization boundary is stated for the selected signup/follow-up sample.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          },
+          {
+            "label": "Setting scope",
+            "detail": "No explicit boundary is stated for extrapolation beyond these schools and the SAT-prep offer.",
+            "pages": [
+              "PDF pp. 12–32; Tables 1–8; Figures 2–7"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON004",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "EXP1",
+      "name": "2008 Ghana secondary-school scholarship-offer lottery",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 0,
+        "15": 1,
+        "16": 1,
+        "17": 0,
+        "18": 0,
+        "19": 0,
+        "20": 1
+      },
+      "missing": {
+        "1": [
+          {
+            "label": "Recruitment",
+            "detail": "Complete eligible-population denominator and reproducible sampling rule are absent.",
+            "pages": [
+              11,
+              12
+            ]
+          }
+        ],
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": "Exact within-stratum rounding rule and resulting probability where stratum size was not divisible by three are absent.",
+            "pages": [
+              15
+            ]
+          },
+          {
+            "label": "Sequence generation",
+            "detail": "Computer algorithm/draw procedure and seed or equivalent reproducible sequence detail are absent.",
+            "pages": [
+              15
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Outcome definitions",
+            "detail": "Complete main-article definitions for every focal tertiary/employment/earnings outcome are absent.",
+            "pages": [
+              17,
+              41,
+              42,
+              43,
+              44,
+              46
+            ]
+          },
+          {
+            "label": "Coding",
+            "detail": "Exact coding rules for all focal tertiary and employment outcomes are absent.",
+            "pages": [
+              41,
+              42,
+              43,
+              44,
+              46
+            ]
+          },
+          {
+            "label": "Primary/secondary status",
+            "detail": "Primary versus secondary outcome status is absent.",
+            "pages": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              34,
+              35,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Exposed",
+            "detail": "Exact number successfully exposed/notified is absent.",
+            "pages": [
+              13,
+              15
+            ]
+          }
+        ],
+        "9": [
+          {
+            "label": "Outcome coding",
+            "detail": "Exact coding for all focal tertiary and employment outcomes is absent.",
+            "pages": [
+              17,
+              41,
+              42,
+              43,
+              44,
+              46
+            ]
+          }
+        ],
+        "10": [
+          {
+            "label": "Weights",
+            "detail": "Weighting status for the main ITT models is absent.",
+            "pages": [
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Standard errors",
+            "detail": "Standard-error estimator is absent.",
+            "pages": [
+              17,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          },
+          {
+            "label": "Clustering/dependence adjustment",
+            "detail": "Clustering or other dependence adjustment is absent.",
+            "pages": [
+              17,
+              25,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          },
+          {
+            "label": "Bootstrap/permutation/resampling",
+            "detail": "Resampling algorithm, replication count, and implementation details are absent.",
+            "pages": [
+              17,
+              41,
+              42,
+              43,
+              44,
+              46
+            ]
+          },
+          {
+            "label": "Confidence-interval construction",
+            "detail": "Confidence-interval construction method is absent.",
+            "pages": [
+              47,
+              48
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Inclusion rules",
+            "detail": "Outcome-specific analytic inclusion rules are absent.",
+            "pages": [
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          },
+          {
+            "label": "Missing outcomes",
+            "detail": "Outcome-specific missing counts and reasons are absent.",
+            "pages": [
+              41,
+              42,
+              43,
+              44,
+              45,
+              46
+            ]
+          },
+          {
+            "label": "Adjustments",
+            "detail": "Reconstructable attrition-adjustment procedure and numerical results are absent from the main article.",
+            "pages": [
+              16
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiple-testing procedure",
+            "detail": "Exhaustive test-family membership and implementation details are absent.",
+            "pages": [
+              17,
+              41,
+              42,
+              43,
+              44,
+              46
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": "Prespecified versus exploratory status is absent.",
+            "pages": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35,
+              36,
+              37,
+              38,
+              39,
+              40,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48,
+              49,
+              50,
+              51,
+              52,
+              53,
+              54
+            ]
+          }
+        ],
+        "14": [
+          {
+            "label": "Figure analysis samples",
+            "detail": "Figure-specific analysis sample sizes are absent.",
+            "pages": [
+              47,
+              48
+            ]
+          }
+        ],
+        "17": [
+          {
+            "label": "Specification",
+            "detail": "Complete figure specification and main-model weighting status are absent.",
+            "pages": [
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48
+            ]
+          },
+          {
+            "label": "Sample",
+            "detail": "Figure-specific sample sizes are absent.",
+            "pages": [
+              47,
+              48
+            ]
+          },
+          {
+            "label": "Inference procedure",
+            "detail": "Reconstructable inference procedure is absent.",
+            "pages": [
+              17,
+              41,
+              42,
+              43,
+              44,
+              45,
+              46,
+              47,
+              48
+            ]
+          }
+        ],
+        "18": [
+          {
+            "label": "Alternative specifications",
+            "detail": "Exact DML/weight construction and complete alternative ITT specifications are absent.",
+            "pages": [
+              24,
+              25,
+              26,
+              45
+            ]
+          },
+          {
+            "label": "Sensitivity analyses",
+            "detail": "Variables balanced, weight construction, specifications, and numerical sensitivity results are absent.",
+            "pages": [
+              16
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Demand effects",
+            "detail": "Assessment of treatment-aware survey demand/reporting bias is absent.",
+            "pages": [
+              14,
+              29,
+              30,
+              46
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON005",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E1",
+      "name": "Three-year full-contraception-subsidy randomization",
+      "category": 1,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 0,
+        "20": 1
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Restrictions",
+            "detail": [
+              "The exact ten balance variables and all assignment restrictions are not listed in the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": [
+              "The article does not assign every Table 2/Table 6 outcome and analysis a complete primary-versus-secondary status."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Randomized",
+            "detail": [
+              "Exact numbers randomized to each relevant arm are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Exposed",
+            "detail": [
+              "Exact arm-specific numbers actually receiving/accepting the intervention are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Followed",
+            "detail": [
+              "Exact arm-specific follow-up counts are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "No confidence-interval construction rule or critical-value convention is stated."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "No complete per-arm missing-outcome accounting or explicit complete-case rule is reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": [
+              "Analysis-stage exclusions are not fully enumerated by arm and outcome."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": [
+              "Attrition is discussed, but exact arm-specific disposition for this experiment is not reported in the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Adjustments",
+            "detail": [
+              "No attrition/missing-outcome weighting, bounds, or other adjustment rule is stated."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedures",
+            "detail": [
+              "Subgroup q-values are reported, but no complete multiplicity procedure covers the full primary/interacted outcome family."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": [
+              "The main article says core hypotheses were preregistered but does not label each reported analysis as prespecified or exploratory."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Spillovers",
+            "detail": [
+              "Potential cross-household or cross-village spillovers are not assessed in the reviewed main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": [
+              "Survey/intervention demand effects are not explicitly assessed."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Measurement problems",
+            "detail": [
+              "Potential bias in self-reported fertility/contraception outcomes and mode differences is not fully assessed."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON005",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E2",
+      "name": "Village social-norms meetings randomization",
+      "category": 2,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 0,
+        "19": 0,
+        "20": 1
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "The allocation probability or arm count for the analyzed treatment level is not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Restrictions",
+            "detail": [
+              "The exact ten balance variables and all assignment restrictions are not listed in the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": [
+              "The article does not assign every Table 2/Table 6 outcome and analysis a complete primary-versus-secondary status."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Randomized",
+            "detail": [
+              "Exact numbers randomized to each relevant arm are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Followed",
+            "detail": [
+              "Exact arm-specific follow-up counts are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "No confidence-interval construction rule or critical-value convention is stated."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "No complete per-arm missing-outcome accounting or explicit complete-case rule is reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": [
+              "Analysis-stage exclusions are not fully enumerated by arm and outcome."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": [
+              "Attrition is discussed, but exact arm-specific disposition for this experiment is not reported in the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Adjustments",
+            "detail": [
+              "No attrition/missing-outcome weighting, bounds, or other adjustment rule is stated."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedures",
+            "detail": [
+              "Subgroup q-values are reported, but no complete multiplicity procedure covers the full primary/interacted outcome family."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": [
+              "The main article says core hypotheses were preregistered but does not label each reported analysis as prespecified or exploratory."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "18": [
+          {
+            "label": "Alternative specifications",
+            "detail": [
+              "The controlled supporting-experiment specification is only said to be similar and is displayed in the excluded appendix, so its numerical result is not reconstructable from the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Sensitivity analyses",
+            "detail": [
+              "No main-article sensitivity display isolates how this supporting-experiment result changes under alternatives."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Spillovers",
+            "detail": [
+              "Potential cross-household or cross-village spillovers are not assessed in the reviewed main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": [
+              "Survey/intervention demand effects are not explicitly assessed."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Measurement problems",
+            "detail": [
+              "Potential bias in self-reported fertility/contraception outcomes and mode differences is not fully assessed."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "paper_id": "ECON005",
+      "journal": "ECONOMICS",
+      "cohort": "selected sample",
+      "id": "E3",
+      "name": "Household edutainment and mortality-information randomization",
+      "category": 2,
+      "structural_items": 0,
+      "scores": {
+        "1": 1,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 0,
+        "19": 0,
+        "20": 1
+      },
+      "missing": {
+        "3": [
+          {
+            "label": "Allocation probability or ratio",
+            "detail": [
+              "The allocation probability or arm count for the analyzed treatment level is not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Restrictions",
+            "detail": [
+              "The exact ten balance variables and all assignment restrictions are not listed in the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "4": [
+          {
+            "label": "Primary/secondary status",
+            "detail": [
+              "The article does not assign every Table 2/Table 6 outcome and analysis a complete primary-versus-secondary status."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "5": [
+          {
+            "label": "Randomized",
+            "detail": [
+              "Exact numbers randomized to each relevant arm are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Exposed",
+            "detail": [
+              "Exact arm-specific numbers actually receiving/accepting the intervention are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Followed",
+            "detail": [
+              "Exact arm-specific follow-up counts are not reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "11": [
+          {
+            "label": "Confidence-interval construction",
+            "detail": [
+              "No confidence-interval construction rule or critical-value convention is stated."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "12": [
+          {
+            "label": "Missing outcomes",
+            "detail": [
+              "No complete per-arm missing-outcome accounting or explicit complete-case rule is reported."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Exclusions",
+            "detail": [
+              "Analysis-stage exclusions are not fully enumerated by arm and outcome."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Attrition",
+            "detail": [
+              "Attrition is discussed, but exact arm-specific disposition for this experiment is not reported in the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Adjustments",
+            "detail": [
+              "No attrition/missing-outcome weighting, bounds, or other adjustment rule is stated."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "13": [
+          {
+            "label": "Multiplicity procedures",
+            "detail": [
+              "Subgroup q-values are reported, but no complete multiplicity procedure covers the full primary/interacted outcome family."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Prespecified versus exploratory status",
+            "detail": [
+              "The main article says core hypotheses were preregistered but does not label each reported analysis as prespecified or exploratory."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "18": [
+          {
+            "label": "Alternative specifications",
+            "detail": [
+              "The controlled supporting-experiment specification is only said to be similar and is displayed in the excluded appendix, so its numerical result is not reconstructable from the main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Sensitivity analyses",
+            "detail": [
+              "No main-article sensitivity display isolates how this supporting-experiment result changes under alternatives."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ],
+        "19": [
+          {
+            "label": "Spillovers",
+            "detail": [
+              "Potential cross-household or cross-village spillovers are not assessed in the reviewed main article."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Demand effects",
+            "detail": [
+              "Survey/intervention demand effects are not explicitly assessed."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          },
+          {
+            "label": "Measurement problems",
+            "detail": [
+              "Potential bias in self-reported fertility/contraception outcomes and mode differences is not fully assessed."
+            ],
+            "pages": [
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              15,
+              18,
+              20,
+              21,
+              23,
+              27,
+              29,
+              30,
+              31,
+              32,
+              33,
+              34,
+              35
+            ]
+          }
+        ]
+      }
     }
   ],
   "criteria": [
@@ -438343,142 +443762,142 @@
   "criterion_totals": [
     {
       "id": 1,
-      "met": 63,
-      "applicable": 864,
-      "missing": 801,
+      "met": 70,
+      "applicable": 879,
+      "missing": 809,
       "na": 0
     },
     {
       "id": 2,
-      "met": 250,
-      "applicable": 864,
-      "missing": 614,
+      "met": 263,
+      "applicable": 879,
+      "missing": 616,
       "na": 0
     },
     {
       "id": 3,
       "met": 7,
-      "applicable": 864,
-      "missing": 857,
+      "applicable": 879,
+      "missing": 872,
       "na": 0
     },
     {
       "id": 4,
-      "met": 52,
-      "applicable": 864,
-      "missing": 812,
+      "met": 56,
+      "applicable": 879,
+      "missing": 823,
       "na": 0
     },
     {
       "id": 5,
-      "met": 15,
-      "applicable": 864,
-      "missing": 849,
+      "met": 19,
+      "applicable": 879,
+      "missing": 860,
       "na": 0
     },
     {
       "id": 6,
-      "met": 685,
-      "applicable": 864,
-      "missing": 179,
+      "met": 696,
+      "applicable": 879,
+      "missing": 183,
       "na": 0
     },
     {
       "id": 7,
-      "met": 234,
-      "applicable": 864,
-      "missing": 630,
+      "met": 246,
+      "applicable": 879,
+      "missing": 633,
       "na": 0
     },
     {
       "id": 8,
-      "met": 792,
-      "applicable": 864,
+      "met": 807,
+      "applicable": 879,
       "missing": 72,
       "na": 0
     },
     {
       "id": 9,
-      "met": 374,
-      "applicable": 864,
-      "missing": 490,
+      "met": 385,
+      "applicable": 879,
+      "missing": 494,
       "na": 0
     },
     {
       "id": 10,
-      "met": 64,
-      "applicable": 863,
-      "missing": 799,
+      "met": 72,
+      "applicable": 878,
+      "missing": 806,
       "na": 1
     },
     {
       "id": 11,
-      "met": 37,
-      "applicable": 864,
-      "missing": 827,
+      "met": 38,
+      "applicable": 879,
+      "missing": 841,
       "na": 0
     },
     {
       "id": 12,
       "met": 17,
-      "applicable": 864,
-      "missing": 847,
+      "applicable": 879,
+      "missing": 862,
       "na": 0
     },
     {
       "id": 13,
-      "met": 10,
-      "applicable": 864,
-      "missing": 854,
+      "met": 11,
+      "applicable": 879,
+      "missing": 868,
       "na": 0
     },
     {
       "id": 14,
-      "met": 235,
-      "applicable": 864,
-      "missing": 629,
+      "met": 246,
+      "applicable": 879,
+      "missing": 633,
       "na": 0
     },
     {
       "id": 15,
-      "met": 239,
-      "applicable": 864,
-      "missing": 625,
+      "met": 251,
+      "applicable": 879,
+      "missing": 628,
       "na": 0
     },
     {
       "id": 16,
-      "met": 379,
-      "applicable": 864,
-      "missing": 485,
+      "met": 392,
+      "applicable": 879,
+      "missing": 487,
       "na": 0
     },
     {
       "id": 17,
-      "met": 101,
-      "applicable": 864,
-      "missing": 763,
+      "met": 110,
+      "applicable": 879,
+      "missing": 769,
       "na": 0
     },
     {
       "id": 18,
-      "met": 318,
-      "applicable": 861,
-      "missing": 543,
+      "met": 328,
+      "applicable": 876,
+      "missing": 548,
       "na": 3
     },
     {
       "id": 19,
-      "met": 174,
-      "applicable": 864,
-      "missing": 690,
+      "met": 176,
+      "applicable": 879,
+      "missing": 703,
       "na": 0
     },
     {
       "id": 20,
-      "met": 498,
-      "applicable": 862,
-      "missing": 364,
+      "met": 506,
+      "applicable": 877,
+      "missing": 371,
       "na": 2
     }
   ]
