@@ -67,7 +67,7 @@ C19 percentages divide experiments earning 1 by applicable experiments.
 Journal comparisons report APSR, AJPS, AER, QJE, Econometrica, REStud, JPE,
 PNAS, Science and Nature separately. Nature has no sampled papers and displays
 missing values. The eight-panel journal charts use the same values as the tables.
-Annual trends use publication years for APSR and AJPS. No observations are filled
+Annual trends use publication years for all ten journals. No observations are filled
 in for empty years. SVG figures and the companion CSV files use identical values.
 
 List, conjoint and survey labels reproduce the model output. Field is a separate
@@ -96,3 +96,10 @@ sections. Individual paper reports return to the searchable paper directory.
 The former `comparisons/index.html` entry redirects to this dashboard; the
 comparison data and figure files retain their download URLs. Query parameters
 used to refresh browser caches do not identify different report versions.
+
+The annual-trend view supports journal selection, a single-measure selector,
+and both experiment scopes. Its CSV and SVG downloads follow the current
+selection; annual sample-size downloads use the same selected journals and scope.
+`journal-table-primary.csv` and `journal-table-all.csv` reproduce the displayed
+eight-measure tables, including paper and experiment counts. Experiment-type
+tables also have scope-specific CSV and SVG downloads beside the table.
