@@ -84,3 +84,15 @@ Rebuild tables and figures with:
 ```bash
 PYTHONPATH=src python3 -m agenticadrd.reporting.sample_comparisons
 ```
+
+## Report navigation
+
+`reports/current/random-pilot/index.html` is the single entry point for current
+sample results. Its five sections are journal comparisons (`#journals`), annual
+trends (`#trends`), experiment types (`#types`), paper reports (`#papers`), and data
+and methods (`#methods`). The experiment-scope control applies to all statistical
+sections. Individual paper reports return to the searchable paper directory.
+
+The former `comparisons/index.html` entry redirects to this dashboard; the
+comparison data and figure files retain their download URLs. Query parameters
+used to refresh browser caches do not identify different report versions.
