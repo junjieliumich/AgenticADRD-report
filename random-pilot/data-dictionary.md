@@ -52,3 +52,33 @@ summaries and 0 for those 182 entries and unscored studies. All original model
 scores are retained in the tables. P041's six named conjoint experiments are
 included. Coauthors can review the inventory decision and reproduce alternative
 summaries by changing this filter.
+
+## Eight-measure comparisons
+
+`comparisons/analysis-experiments.csv` contains the 266 included experiments,
+publication years, original design labels, a supplementary field classification,
+and all 20 criterion scores. `journal-comparison.csv`, `annual-trends.csv` and
+`experiment-types.csv` provide both all-scored and Primary-only summaries.
+Each aggregate includes papers, experiments, points earned and denominator.
+Mean total/results scores divide earned points by the number of experiments;
+domain percentages divide pooled earned points by applicable points. C16 and
+C19 percentages divide experiments earning 1 by applicable experiments.
+
+Economics combines AER, QJE, Econometrica, REStud and JPE within the random sample.
+Annual trends use publication years for APSR and AJPS. No observations are filled
+in for empty years. SVG figures and the companion CSV files use identical values.
+
+List, conjoint and survey labels reproduce the model output. Field is a separate
+analyst classification using archived experiment descriptions and page-linked
+article evidence. It covers real-world interventions, including online field
+interventions and randomized operational procedures; artificial laboratory tasks,
+hypothetical vignettes and elicitation-only tasks are excluded. A natural setting
+alone does not establish this label. Classification records and publication-year
+sources are in `classification-and-years.json`, generated from
+`data/annotations/random-pilot-analysis.json`. Labels overlap.
+
+Rebuild tables and figures with:
+
+```bash
+PYTHONPATH=src python3 -m agenticadrd.reporting.sample_comparisons
+```

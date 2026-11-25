@@ -1,0 +1,65 @@
+scope,group,metric,label,unit,value,earned,denominator,applicable_points,papers,experiments
+All scored experiments,APSR,total,All reporting items (out of 20),mean,5.273972602739726,385,73,1460,33,73
+All scored experiments,APSR,results_score,Results items (out of 5),mean,1.452054794520548,106,73,365,33,73
+All scored experiments,APSR,design,Experimental design (5 items),percent,16.164383561643834,59,365,365,33,73
+All scored experiments,APSR,methods,Statistical methods (8 items),percent,30.136986301369863,176,584,584,33,73
+All scored experiments,APSR,results,Results (5 items),percent,29.041095890410958,106,365,365,33,73
+All scored experiments,APSR,validity,Validity (2 items),percent,30.136986301369863,44,146,146,33,73
+All scored experiments,APSR,effect,Effect estimate and uncertainty,percent,38.35616438356164,28,73,73,33,73
+All scored experiments,APSR,threats,Threats to causal interpretation,percent,6.8493150684931505,5,73,73,33,73
+All scored experiments,AJPS,total,All reporting items (out of 20),mean,5.111111111111111,460,90,1800,37,90
+All scored experiments,AJPS,results_score,Results items (out of 5),mean,1.711111111111111,154,90,450,37,90
+All scored experiments,AJPS,design,Experimental design (5 items),percent,10.222222222222223,46,450,450,37,90
+All scored experiments,AJPS,methods,Statistical methods (8 items),percent,29.166666666666668,210,720,720,37,90
+All scored experiments,AJPS,results,Results (5 items),percent,34.22222222222222,154,450,450,37,90
+All scored experiments,AJPS,validity,Validity (2 items),percent,27.77777777777778,50,180,180,37,90
+All scored experiments,AJPS,effect,Effect estimate and uncertainty,percent,61.111111111111114,55,90,90,37,90
+All scored experiments,AJPS,threats,Threats to causal interpretation,percent,1.1111111111111112,1,90,90,37,90
+All scored experiments,APSR and AJPS,total,All reporting items (out of 20),mean,5.184049079754601,845,163,3260,70,163
+All scored experiments,APSR and AJPS,results_score,Results items (out of 5),mean,1.5950920245398772,260,163,815,70,163
+All scored experiments,APSR and AJPS,design,Experimental design (5 items),percent,12.883435582822086,105,815,815,70,163
+All scored experiments,APSR and AJPS,methods,Statistical methods (8 items),percent,29.601226993865033,386,1304,1304,70,163
+All scored experiments,APSR and AJPS,results,Results (5 items),percent,31.901840490797547,260,815,815,70,163
+All scored experiments,APSR and AJPS,validity,Validity (2 items),percent,28.834355828220858,94,326,326,70,163
+All scored experiments,APSR and AJPS,effect,Effect estimate and uncertainty,percent,50.920245398773,83,163,163,70,163
+All scored experiments,APSR and AJPS,threats,Threats to causal interpretation,percent,3.6809815950920246,6,163,163,70,163
+All scored experiments,Economics,total,All reporting items (out of 20),mean,6.852459016393443,418,61,1220,25,61
+All scored experiments,Economics,results_score,Results items (out of 5),mean,2.262295081967213,138,61,305,25,61
+All scored experiments,Economics,design,Experimental design (5 items),percent,20.655737704918035,63,305,305,25,61
+All scored experiments,Economics,methods,Statistical methods (8 items),percent,37.09016393442623,181,488,488,25,61
+All scored experiments,Economics,results,Results (5 items),percent,45.24590163934426,138,305,305,25,61
+All scored experiments,Economics,validity,Validity (2 items),percent,29.508196721311474,36,122,122,25,61
+All scored experiments,Economics,effect,Effect estimate and uncertainty,percent,52.459016393442624,32,61,61,25,61
+All scored experiments,Economics,threats,Threats to causal interpretation,percent,14.754098360655737,9,61,61,25,61
+Primary experiments,APSR,total,All reporting items (out of 20),mean,5.913043478260869,272,46,920,32,46
+Primary experiments,APSR,results_score,Results items (out of 5),mean,1.673913043478261,77,46,230,32,46
+Primary experiments,APSR,design,Experimental design (5 items),percent,18.26086956521739,42,230,230,32,46
+Primary experiments,APSR,methods,Statistical methods (8 items),percent,33.15217391304348,122,368,368,32,46
+Primary experiments,APSR,results,Results (5 items),percent,33.47826086956522,77,230,230,32,46
+Primary experiments,APSR,validity,Validity (2 items),percent,33.69565217391305,31,92,92,32,46
+Primary experiments,APSR,effect,Effect estimate and uncertainty,percent,43.47826086956522,20,46,46,32,46
+Primary experiments,APSR,threats,Threats to causal interpretation,percent,8.695652173913043,4,46,46,32,46
+Primary experiments,AJPS,total,All reporting items (out of 20),mean,5.763636363636364,317,55,1100,34,55
+Primary experiments,AJPS,results_score,Results items (out of 5),mean,1.9454545454545455,107,55,275,34,55
+Primary experiments,AJPS,design,Experimental design (5 items),percent,12.363636363636363,34,275,275,34,55
+Primary experiments,AJPS,methods,Statistical methods (8 items),percent,32.04545454545455,141,440,440,34,55
+Primary experiments,AJPS,results,Results (5 items),percent,38.90909090909091,107,275,275,34,55
+Primary experiments,AJPS,validity,Validity (2 items),percent,31.818181818181817,35,110,110,34,55
+Primary experiments,AJPS,effect,Effect estimate and uncertainty,percent,69.0909090909091,38,55,55,34,55
+Primary experiments,AJPS,threats,Threats to causal interpretation,percent,1.8181818181818181,1,55,55,34,55
+Primary experiments,APSR and AJPS,total,All reporting items (out of 20),mean,5.8316831683168315,589,101,2020,66,101
+Primary experiments,APSR and AJPS,results_score,Results items (out of 5),mean,1.8217821782178218,184,101,505,66,101
+Primary experiments,APSR and AJPS,design,Experimental design (5 items),percent,15.049504950495049,76,505,505,66,101
+Primary experiments,APSR and AJPS,methods,Statistical methods (8 items),percent,32.54950495049505,263,808,808,66,101
+Primary experiments,APSR and AJPS,results,Results (5 items),percent,36.43564356435643,184,505,505,66,101
+Primary experiments,APSR and AJPS,validity,Validity (2 items),percent,32.67326732673268,66,202,202,66,101
+Primary experiments,APSR and AJPS,effect,Effect estimate and uncertainty,percent,57.42574257425742,58,101,101,66,101
+Primary experiments,APSR and AJPS,threats,Threats to causal interpretation,percent,4.9504950495049505,5,101,101,66,101
+Primary experiments,Economics,total,All reporting items (out of 20),mean,9.73076923076923,253,26,520,25,26
+Primary experiments,Economics,results_score,Results items (out of 5),mean,3.4615384615384617,90,26,130,25,26
+Primary experiments,Economics,design,Experimental design (5 items),percent,32.30769230769231,42,130,130,25,26
+Primary experiments,Economics,methods,Statistical methods (8 items),percent,45.67307692307692,95,208,208,25,26
+Primary experiments,Economics,results,Results (5 items),percent,69.23076923076923,90,130,130,25,26
+Primary experiments,Economics,validity,Validity (2 items),percent,50.0,26,52,52,25,26
+Primary experiments,Economics,effect,Effect estimate and uncertainty,percent,84.61538461538461,22,26,26,25,26
+Primary experiments,Economics,threats,Threats to causal interpretation,percent,34.61538461538461,9,26,26,25,26

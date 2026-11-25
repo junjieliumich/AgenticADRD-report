@@ -1,0 +1,267 @@
+paper_id,experiment_id,journal,year,study_category,design_labels,field_experiment,criterion_01,criterion_02,criterion_03,criterion_04,criterion_05,criterion_06,criterion_07,criterion_08,criterion_09,criterion_10,criterion_11,criterion_12,criterion_13,criterion_14,criterion_15,criterion_16,criterion_17,criterion_18,criterion_19,criterion_20
+AJPS077,E1,AJPS,2025,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+P046,study-1,APSR,2024,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,1
+P046,study-2,APSR,2024,Supporting,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1
+P046,study-2-timing,APSR,2024,Diagnostic,completely randomized experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS155,E1,AJPS,2020,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+AJPS155,E2,AJPS,2020,Supporting,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1
+EXP369,E1,American Economic Review,2023,Primary,cluster-randomized experiment; factorial experiment,False,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1
+EXP369,E2,American Economic Review,2023,Diagnostic,cluster-randomized experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P101,S1,APSR,2016,Primary,completely randomized experiment,True,1,0,1,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,0,1
+P101,S2,APSR,2016,Primary,completely randomized experiment,True,1,1,1,0,1,1,0,1,1,1,0,1,0,1,1,0,0,0,0,1
+P101,S3,APSR,2016,Primary,completely randomized experiment,True,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,1,0,0,1
+P122,E1,APSR,2018,Primary,completely randomized experiment,True,1,0,1,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0,1
+P122,E2,APSR,2018,Supporting,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0
+AJPS001,AJPS001-E1,AJPS,2021,Primary,survey experiment,True,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1
+AJPS063,E1,AJPS,2024,Primary,Unclear,False,0,1,0,0,0,1,0,1,1,1,0,0,0,0,1,0,0,1,0,1
+AJPS063,E2,AJPS,2024,Primary,Unclear,False,0,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,1,0,1
+AJPS010,E1,AJPS,2022,Primary,completely randomized experiment; factorial experiment; conjoint experiment; survey experiment,False,0,1,0,1,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1
+AJPS010,E2,AJPS,2022,Diagnostic,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+AJPS010,E3,AJPS,2022,Supporting,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1
+AJPS010,E4,AJPS,2022,Supporting,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,1,0,1,0,1
+P079,E1,APSR,2022,Supporting,survey experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+EXP297,EXP297-E1,American Economic Review,2017,Primary,factorial experiment,False,1,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,1,1
+AJPS121,S1E1,AJPS,2018,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+AJPS121,S1E2,AJPS,2018,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+AJPS121,S2E1,AJPS,2018,Supporting,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+AJPS121,S2E2,AJPS,2018,Supporting,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+AJPS121,S2E3,AJPS,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+EXP129,EXP129-E1,Journal of Political Economy,2017,Primary,cluster-randomized experiment; factorial experiment,False,1,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,0
+EXP161,EXP161-E1,Journal of Political Economy,2024,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1
+EXP161,EXP161-E2,Journal of Political Economy,2024,Supporting,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1
+EXP360,EXP360-E1,American Economic Review,2022,Primary,cluster-randomized experiment; factorial experiment,False,1,0,1,1,0,1,0,1,1,0,0,0,0,1,1,1,1,1,0,1
+EXP360,EXP360-E2,American Economic Review,2022,Diagnostic,cluster-randomized experiment,False,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+P038,E1,APSR,2023,Primary,survey experiment; list experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P038,E2,APSR,2023,Supporting,survey experiment; list experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P038,E3,APSR,2023,Diagnostic,survey experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P038,E4,APSR,2023,Diagnostic,survey experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS045,AJPS045-E1,AJPS,2024,Primary,factorial experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+EXP103,EXP103-FIELD,Proceedings of the National Academy of Sciences,2023,Primary,completely randomized experiment,False,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,0
+EXP095,EXP095-E1,Proceedings of the National Academy of Sciences,2023,Primary,factorial experiment,False,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,0,0,1
+AJPS053,E4,AJPS,2024,Supporting,factorial experiment; conjoint experiment; survey experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0
+AJPS053,E5,AJPS,2024,Supporting,factorial experiment; conjoint experiment; survey experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+AJPS084,EXP1,AJPS,2025,Primary,completely randomized experiment; survey experiment,False,0,1,1,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,0,1
+AJPS102,E1,AJPS,2017,Primary,completely randomized experiment,True,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+P040,P040-E1,APSR,2025,Primary,cluster-randomized experiment; factorial experiment,True,0,1,0,0,0,1,1,1,1,1,0,0,0,1,1,1,1,0,0,1
+P138,E1,APSR,2020,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,1,0,0
+AJPS065,E1,AJPS,2024,Primary,factorial experiment; survey experiment,False,0,1,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1
+AJPS065,E2,AJPS,2024,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,0,0,1
+AJPS065,E3,AJPS,2024,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1
+AJPS065,E4,AJPS,2024,Supporting,factorial experiment; survey experiment,False,0,1,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,0,0,1
+AJPS065,E5,AJPS,2024,Supporting,factorial experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+AJPS065,E6,AJPS,2024,Supporting,factorial experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+AJPS027,E1,AJPS,2021,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+P100,E1,APSR,2016,Primary,Unclear,True,0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,1,0,0,1,1
+P100,E2,APSR,2016,Diagnostic,completely randomized experiment,True,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS109,S1,AJPS,2017,Primary,Unclear,False,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0
+AJPS109,S2,AJPS,2017,Supporting,Unclear,False,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,1,0,0,0
+AJPS098,S1,AJPS,2017,Supporting,completely randomized experiment,True,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1
+AJPS098,S2,AJPS,2017,Primary,completely randomized experiment,True,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1
+EXP306,E1,American Economic Review,2018,Primary,completely randomized experiment,False,1,1,1,0,0,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1
+EXP306,E2,American Economic Review,2018,Supporting,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,1,1,1,0,0
+EXP306,E3,American Economic Review,2018,Supporting,completely randomized experiment; survey experiment; list experiment,False,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0
+EXP306,E4,American Economic Review,2018,Supporting,completely randomized experiment; survey experiment; list experiment,False,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,0,0,0
+P129,P129-E1,APSR,2019,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P062,P062-E1,APSR,2022,Primary,cluster-randomized experiment,True,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0,1,0
+P062,P062-E2,APSR,2022,Supporting,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS137,IND-PRIMARY,AJPS,2019,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS137,ISR-PRIMARY,AJPS,2019,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS137,ARG-PRIMARY,AJPS,2019,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS137,IND-ORDER,AJPS,2019,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS137,ISR-ORDER,AJPS,2019,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS137,ARG-ORDER,AJPS,2019,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXP113,EXP113-E1,Proceedings of the National Academy of Sciences,2025,Primary,completely randomized experiment; factorial experiment,False,1,0,0,0,1,1,1,1,1,0,0,0,0,1,0,1,1,0,0,1
+EXP013,EXP013-E1,Proceedings of the National Academy of Sciences,2016,Primary,Unclear,False,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP013,EXP013-E2,Proceedings of the National Academy of Sciences,2016,Diagnostic,Unclear,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP298,EXP298-E1,American Economic Review,2016,Primary,cluster-randomized experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0,1
+P113,P113-E1,APSR,2018,Primary,completely randomized experiment; survey experiment,False,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+AJPS043,E1,AJPS,2023,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+AJPS043,E2,AJPS,2023,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+AJPS043,E3,AJPS,2023,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+AJPS061,EXP-UK,AJPS,2024,Primary,factorial experiment; survey experiment,False,0,1,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1
+AJPS061,EXP-US,AJPS,2024,Primary,factorial experiment; survey experiment,False,0,1,0,1,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1
+AJPS016,E1,AJPS,2021,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS016,E2,AJPS,2021,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,0
+AJPS016,E3,AJPS,2021,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1,0,0
+AJPS016,E4,AJPS,2021,Supporting,Unclear,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS088,E1,AJPS,2016,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,1,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,1
+AJPS088,E2,AJPS,2016,Diagnostic,Unclear,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP052,EXP052-E1,Proceedings of the National Academy of Sciences,2020,Primary,completely randomized experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+AJPS112,E1,AJPS,2017,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E2,AJPS,2017,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E3,AJPS,2017,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+AJPS112,E4,AJPS,2017,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E5,AJPS,2017,Supporting,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E6,AJPS,2017,Supporting,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E7,AJPS,2017,Supporting,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E8,AJPS,2017,Supporting,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS112,E9,AJPS,2017,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+P032,E1,APSR,2025,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+P137,E1,APSR,2019,Primary,cluster-randomized experiment,True,0,1,0,0,1,1,1,1,0,1,0,0,0,1,1,1,0,0,0,1
+P137,E2,APSR,2019,Supporting,factorial experiment,True,0,0,0,0,1,1,1,1,0,1,0,0,0,1,1,1,1,0,0,1
+EXP350,E1,American Economic Review,2023,Primary,completely randomized experiment,False,0,1,0,0,0,1,1,1,1,1,0,0,0,1,0,1,1,0,0,1
+EXP350,E2,American Economic Review,2023,Supporting,completely randomized experiment,False,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1
+EXP350,E3,American Economic Review,2023,Supporting,Unclear,False,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,1
+EXP350,E4,American Economic Review,2023,Supporting,Unclear,False,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0
+EXP350,E5,American Economic Review,2023,Diagnostic,Unclear,False,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+EXP350,E6,American Economic Review,2023,Diagnostic,Unclear,False,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+EXP350,E7,American Economic Review,2023,Diagnostic,completely randomized experiment; factorial experiment,False,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+EXP350,E8,American Economic Review,2023,Diagnostic,Unclear,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP233,E1,The Review of Economic Studies,2019,Primary,factorial experiment; completely randomized experiment,False,0,1,0,1,0,1,1,1,1,0,0,0,0,1,1,1,1,1,0,0
+EXP233,E2,The Review of Economic Studies,2019,Supporting,completely randomized experiment,False,0,1,0,1,0,0,1,1,1,0,0,0,0,1,0,1,0,1,0,0
+P071,E1,APSR,2025,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0
+P071,E2,APSR,2025,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0
+P071,E3,APSR,2025,Primary,survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,0
+P071,E4,APSR,2025,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+P071,E5,APSR,2025,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+AJPS080,E1,AJPS,2025,Supporting,survey experiment,False,0,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0,1,0,0
+AJPS140,E1,AJPS,2019,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+AJPS140,E2,AJPS,2019,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+AJPS140,E3,AJPS,2019,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+AJPS140,E4,AJPS,2019,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP365,E1,American Economic Review,2024,Primary,factorial experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,1
+EXP365,E2,American Economic Review,2024,Supporting,survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+EXP365,E3,American Economic Review,2024,Supporting,survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+EXP365,E4,American Economic Review,2024,Diagnostic,Unclear,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXP112,EXP112-E1,Proceedings of the National Academy of Sciences,2024,Primary,completely randomized experiment,False,0,1,0,0,0,1,1,1,0,1,0,0,0,1,1,1,0,0,0,1
+AJPS091,E1,AJPS,2017,Primary,completely randomized experiment; survey experiment,False,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1
+AJPS091,E2,AJPS,2017,Supporting,completely randomized experiment; survey experiment,False,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1
+AJPS035,S1,AJPS,2023,Primary,cluster-randomized experiment,True,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+AJPS035,S2,AJPS,2023,Primary,cluster-randomized experiment,True,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1
+AJPS035,D1,AJPS,2023,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS035,D2,AJPS,2023,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS035,S4,AJPS,2023,Supporting,factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+EXP034,EXP034-E1,Proceedings of the National Academy of Sciences,2018,Primary,completely randomized experiment,False,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1
+P055,S1,APSR,2025,Supporting,completely randomized experiment; factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+P055,S2,APSR,2025,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+EXP324,EXP324-E1,American Economic Review,2020,Primary,cluster-randomized experiment,False,1,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,1,1,1,0
+P050,P050-E1,APSR,2025,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+P050,P050-E2,APSR,2025,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+EXP318,EXP318-E1,American Economic Review,2019,Primary,factorial experiment,False,1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1
+EXP318,EXP318-E2,American Economic Review,2019,Supporting,completely randomized experiment; survey experiment; list experiment,False,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,1
+EXP318,EXP318-E3,American Economic Review,2019,Diagnostic,completely randomized experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,1
+EXP396,EXP396-E1,Econometrica,2020,Primary,completely randomized experiment,False,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,1,0,0
+EXP396,EXP396-E2,Econometrica,2020,Primary,completely randomized experiment,False,0,1,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,1,0,0
+P081,P081-E1,APSR,2025,Primary,factorial experiment,True,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+P081,P081-E2,APSR,2025,Diagnostic,factorial experiment,True,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+P041,P041-E37,APSR,2025,Primary,factorial experiment; conjoint experiment; survey experiment,False,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+P041,P041-E38,APSR,2025,Primary,factorial experiment; conjoint experiment; survey experiment,False,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+P041,P041-E39,APSR,2025,Supporting,factorial experiment; conjoint experiment; survey experiment,False,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+P041,P041-E40,APSR,2025,Supporting,factorial experiment; conjoint experiment; survey experiment,False,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+P041,P041-E41,APSR,2025,Supporting,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+P041,P041-E42,APSR,2025,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+EXP058,EXP058-E1,Proceedings of the National Academy of Sciences,2021,Primary,survey experiment,False,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+AJPS068,E1,AJPS,2024,Primary,completely randomized experiment; survey experiment,False,1,0,0,0,0,1,1,1,0,1,0,0,0,1,0,1,1,0,0,1
+AJPS105,E1,AJPS,2017,Supporting,survey experiment; list experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,1,1,0,1,0,0
+AJPS105,E2,AJPS,2017,Diagnostic,survey experiment; list experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+P016,EXP-1,APSR,2022,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+P016,EXP-2,APSR,2022,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+P016,EXP-3,APSR,2022,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+P016,EXP-4,APSR,2022,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+P016,EXP-5,APSR,2022,Primary,factorial experiment; conjoint experiment; survey experiment,False,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+EXP198,EXP198-E1,The Quarterly Journal of Economics,2018,Primary,cluster-randomized experiment,False,0,1,1,0,0,1,0,1,0,1,0,0,0,0,1,1,1,1,0,1
+EXP040,EXP040-E1,Proceedings of the National Academy of Sciences,2019,Primary,completely randomized experiment,False,0,0,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1
+P115,E1,APSR,2018,Primary,cluster-randomized experiment,True,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+EXP019,EXP019-E1,Proceedings of the National Academy of Sciences,2017,Primary,completely randomized experiment,False,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+EXP019,EXP019-E2,Proceedings of the National Academy of Sciences,2017,Primary,completely randomized experiment; factorial experiment,False,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+EXP399,EXP399-E1,Econometrica,2023,Primary,cluster-randomized experiment,False,0,1,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,1
+EXP399,EXP399-E2,Econometrica,2023,Supporting,cluster-randomized experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP399,EXP399-E3,Econometrica,2023,Diagnostic,Unclear,False,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0
+P018,P018-E1,APSR,2023,Primary,survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,1,0,1,0,1
+P018,P018-E2,APSR,2023,Diagnostic,survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXP327,E1,American Economic Review,2019,Primary,completely randomized experiment; factorial experiment,False,1,1,0,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1
+EXP327,E2,American Economic Review,2019,Diagnostic,completely randomized experiment,False,0,1,0,1,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+P044,E1,APSR,2025,Primary,cluster-randomized experiment,True,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,1
+P044,E2,APSR,2025,Diagnostic,completely randomized experiment; survey experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP210,EXP210-E1,The Review of Economic Studies,2022,Primary,completely randomized experiment,False,1,1,1,0,0,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1
+AJPS055,E1,AJPS,2023,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,1
+EXP136,E1,Journal of Political Economy,2018,Primary,Unclear,False,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,1,0,0,0,0
+EXP136,E2,Journal of Political Economy,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+EXP136,E3,Journal of Political Economy,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+EXP136,E4,Journal of Political Economy,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+EXP136,E5,Journal of Political Economy,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+EXP136,E6,Journal of Political Economy,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+EXP136,E7,Journal of Political Economy,2018,Diagnostic,completely randomized experiment; survey experiment,False,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+AJPS056,E1,AJPS,2024,Primary,Unclear,True,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+EXP080,E1,Proceedings of the National Academy of Sciences,2022,Primary,completely randomized experiment,False,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1
+EXP080,E2,Proceedings of the National Academy of Sciences,2022,Supporting,completely randomized experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1
+EXP080,E3,Proceedings of the National Academy of Sciences,2022,Supporting,completely randomized experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1
+EXP080,E4,Proceedings of the National Academy of Sciences,2022,Supporting,completely randomized experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,1
+EXP147,EXP147-E1,Journal of Political Economy,2021,Primary,completely randomized experiment,False,1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,1,1
+EXP081,EXP081-S1,Proceedings of the National Academy of Sciences,2021,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+EXP081,EXP081-S2,Proceedings of the National Academy of Sciences,2021,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+AJPS033,E1,AJPS,2022,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+AJPS122,E1,AJPS,2018,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+AJPS122,E2,AJPS,2018,Supporting,cluster-randomized experiment; factorial experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+EXP208,E1,The Review of Economic Studies,2021,Primary,completely randomized experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0
+EXP208,E2,The Review of Economic Studies,2021,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS146,E1,AJPS,2020,Primary,completely randomized experiment; factorial experiment; conjoint experiment; survey experiment,False,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+EXP096,exp1,Proceedings of the National Academy of Sciences,2023,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,1,1
+P065,P065-E1,APSR,2024,Primary,survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP031,EXP031-S1,Proceedings of the National Academy of Sciences,2018,Primary,Unclear,False,0,1,0,0,0,1,0,1,1,0,1,0,0,1,0,1,1,1,0,0
+EXP031,EXP031-S2,Proceedings of the National Academy of Sciences,2018,Supporting,survey experiment,False,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0
+EXP031,EXP031-S3,Proceedings of the National Academy of Sciences,2018,Diagnostic,Unclear,False,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+P056,EXP1,APSR,2024,Primary,cluster-randomized experiment,True,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,1,1,0,0,1
+EXP394,EXP394-E1,Econometrica,2019,Primary,cluster-randomized experiment; factorial experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1
+P073,E1,APSR,2024,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+P073,E2,APSR,2024,Supporting,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+P020,S1-US,APSR,2022,Primary,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+P020,S1-IL,APSR,2022,Supporting,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+P020,S2-US,APSR,2022,Supporting,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+P020,S2-IL,APSR,2022,Supporting,factorial experiment; survey experiment,False,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+P010,E1,APSR,2024,Primary,cluster-randomized experiment,True,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,1
+P010,E2,APSR,2024,Supporting,completely randomized experiment,True,0,1,1,0,0,1,1,1,1,0,0,0,0,1,1,1,1,0,0,1
+EXP166,E1,Journal of Political Economy,2024,Primary,cluster-randomized experiment,False,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,0,1
+EXP166,E2,Journal of Political Economy,2024,Supporting,cluster-randomized experiment,False,0,1,0,0,0,1,0,1,1,0,0,0,0,1,1,1,0,1,0,1
+EXP166,E3,Journal of Political Economy,2024,Diagnostic,Unclear,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS139,EXP1,AJPS,2019,Primary,completely randomized experiment,True,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1
+EXP258,E1,Science,2019,Primary,completely randomized experiment,False,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+EXP258,E2,Science,2019,Supporting,completely randomized experiment,False,0,1,0,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+EXP258,E3,Science,2019,Supporting,completely randomized experiment,False,0,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+EXP258,E4,Science,2019,Supporting,completely randomized experiment; survey experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+EXP281,EXP281-E1,Science,2025,Primary,cluster-randomized experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+P139,P139-S2,APSR,2020,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0,0,0
+EXP090,EXP090-E1,Proceedings of the National Academy of Sciences,2022,Primary,cluster-randomized experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,0,0
+EXP090,EXP090-E2,Proceedings of the National Academy of Sciences,2022,Supporting,Unclear,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P037,E1,APSR,2023,Primary,completely randomized experiment; survey experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0
+P037,E2,APSR,2023,Supporting,completely randomized experiment; survey experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0
+AJPS115,study-1,AJPS,2018,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+AJPS115,study-2,AJPS,2018,Supporting,completely randomized experiment; factorial experiment; survey experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+EXP099,S1,Proceedings of the National Academy of Sciences,2023,Supporting,cluster-randomized experiment,False,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,1,0,0,0,1
+EXP099,S2,Proceedings of the National Academy of Sciences,2023,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+EXP073,EXP073-E1,Proceedings of the National Academy of Sciences,2022,Primary,factorial experiment,False,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+EXP160,E1,Journal of Political Economy,2023,Primary,completely randomized experiment,False,0,0,0,0,0,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0
+EXP160,E2,Journal of Political Economy,2023,Diagnostic,completely randomized experiment,False,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+P080,E1,APSR,2021,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0,1,0,1
+EXP119,EXP119-S1,Proceedings of the National Academy of Sciences,2025,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+EXP119,EXP119-S2,Proceedings of the National Academy of Sciences,2025,Primary,completely randomized experiment; survey experiment,False,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+P116,E1,APSR,2018,Primary,conjoint experiment; survey experiment,False,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP326,E1,American Economic Review,2020,Primary,completely randomized experiment,False,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1
+EXP326,E2,American Economic Review,2020,Supporting,completely randomized experiment; survey experiment; list experiment,False,0,1,0,0,0,1,1,1,1,0,0,0,0,0,0,1,0,1,0,0
+EXP326,E3,American Economic Review,2020,Diagnostic,completely randomized experiment; survey experiment,False,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+EXP326,E4,American Economic Review,2020,Supporting,completely randomized experiment,False,0,1,0,1,0,1,1,1,1,1,0,0,0,1,1,1,1,1,0,1
+EXP088,EXP088-E1,Proceedings of the National Academy of Sciences,2022,Primary,factorial experiment,False,1,1,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,1
+EXP088,EXP088-E2,Proceedings of the National Academy of Sciences,2022,Primary,factorial experiment,False,1,1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,1
+AJPS103,E1,AJPS,2017,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,1,0,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1
+AJPS042,E1,AJPS,2024,Primary,conjoint experiment; survey experiment,False,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+AJPS042,E2,AJPS,2024,Primary,conjoint experiment; survey experiment,False,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+AJPS042,E3,AJPS,2024,Primary,conjoint experiment; survey experiment,False,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+AJPS042,E4,AJPS,2024,Primary,conjoint experiment; survey experiment,False,0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+P149,US-FAC,APSR,2020,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+P149,CA-FAC,APSR,2020,Primary,completely randomized experiment; factorial experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+P149,US-ORDER,APSR,2020,Diagnostic,survey experiment,False,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P149,CA-ORDER,APSR,2020,Diagnostic,survey experiment,False,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P117,E1,APSR,2018,Primary,factorial experiment,True,1,0,0,0,0,1,1,1,0,0,1,0,0,1,0,1,1,0,0,1
+P117,E2,APSR,2018,Supporting,survey experiment,False,0,0,0,0,0,1,1,1,1,0,1,0,0,1,1,1,1,0,0,1
+P117,E3,APSR,2018,Supporting,survey experiment,False,0,0,0,0,0,1,1,1,1,0,1,0,0,1,0,1,1,0,0,1
+AJPS067,E1,AJPS,2024,Primary,completely randomized experiment; factorial experiment; conjoint experiment; survey experiment,False,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0
+AJPS067,E2,AJPS,2024,Diagnostic,completely randomized experiment; survey experiment,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AJPS096,E1,AJPS,2017,Primary,survey experiment,False,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,1,0,1
+AJPS096,E2,AJPS,2017,Primary,survey experiment,False,1,1,0,0,0,1,1,1,0,0,0,0,0,1,0,1,0,1,0,1
+EXP264,BRA,Science,2021,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP264,COL,Science,2021,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP264,LBR,Science,2021,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP264,PAK,Science,2021,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP264,PHL,Science,2021,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP264,UGA,Science,2021,Primary,cluster-randomized experiment,False,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+EXP169,EXP169-E1,Journal of Political Economy,2025,Primary,cluster-randomized experiment,False,0,1,1,0,0,1,1,1,1,0,0,0,0,1,0,1,1,1,1,0
