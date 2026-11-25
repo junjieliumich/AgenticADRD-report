@@ -1,0 +1,792 @@
+paper_id,experiment_id,design_label
+AJPS077,E1,survey experiment
+AJPS077,O1,N/A
+AJPS077,O2,N/A
+P046,study-1,completely randomized experiment
+P046,study-1,factorial experiment
+P046,study-1,survey experiment
+P046,study-2,completely randomized experiment
+P046,study-2,factorial experiment
+P046,study-2,survey experiment
+P046,study-2-timing,completely randomized experiment
+P046,study-2-timing,survey experiment
+P046,pilot,Unclear
+P046,content-analysis,N/A
+AJPS155,E1,completely randomized experiment
+AJPS155,E1,survey experiment
+AJPS155,E2,completely randomized experiment
+AJPS155,E2,survey experiment
+AJPS155,O1,N/A
+AJPS155,O2,N/A
+AJPS155,O3,N/A
+EXP369,E1,cluster-randomized experiment
+EXP369,E1,factorial experiment
+EXP369,E2,cluster-randomized experiment
+EXP369,O1,N/A
+EXP369,O2,N/A
+EXP369,O3,N/A
+EXP369,O4,N/A
+P101,S1,completely randomized experiment
+P101,S2,completely randomized experiment
+P101,S3,completely randomized experiment
+P122,E1,completely randomized experiment
+P122,E2,completely randomized experiment
+P122,E2,survey experiment
+AJPS001,AJPS001-E1,survey experiment
+AJPS001,AJPS001-O1,N/A
+AJPS063,E1,Unclear
+AJPS063,E2,Unclear
+AJPS010,E1,completely randomized experiment
+AJPS010,E1,factorial experiment
+AJPS010,E1,conjoint experiment
+AJPS010,E1,survey experiment
+AJPS010,E2,factorial experiment
+AJPS010,E2,conjoint experiment
+AJPS010,E2,survey experiment
+AJPS010,E3,factorial experiment
+AJPS010,E3,conjoint experiment
+AJPS010,E3,survey experiment
+AJPS010,E4,factorial experiment
+AJPS010,E4,conjoint experiment
+AJPS010,E4,survey experiment
+P079,E1,survey experiment
+P079,O1,N/A
+P079,O2,N/A
+EXP297,EXP297-E1,factorial experiment
+EXP297,EXP297-E2,factorial experiment
+EXP297,EXP297-O1,N/A
+EXP297,EXP297-O2,N/A
+AJPS121,S1E1,completely randomized experiment
+AJPS121,S1E1,factorial experiment
+AJPS121,S1E1,survey experiment
+AJPS121,S1E2,completely randomized experiment
+AJPS121,S1E2,factorial experiment
+AJPS121,S1E2,survey experiment
+AJPS121,S2E1,completely randomized experiment
+AJPS121,S2E1,survey experiment
+AJPS121,S2E2,completely randomized experiment
+AJPS121,S2E2,survey experiment
+AJPS121,S2E3,completely randomized experiment
+AJPS121,S2E3,survey experiment
+EXP129,EXP129-E1,cluster-randomized experiment
+EXP129,EXP129-E1,factorial experiment
+EXP129,EXP129-O1,N/A
+EXP161,EXP161-E1,factorial experiment
+EXP161,EXP161-E1,conjoint experiment
+EXP161,EXP161-E1,survey experiment
+EXP161,EXP161-E2,factorial experiment
+EXP161,EXP161-E2,conjoint experiment
+EXP161,EXP161-E2,survey experiment
+EXP161,EXP161-O1,N/A
+EXP161,EXP161-O2,N/A
+EXP161,EXP161-O3,N/A
+EXP161,EXP161-O4,N/A
+EXP360,EXP360-E1,cluster-randomized experiment
+EXP360,EXP360-E1,factorial experiment
+EXP360,EXP360-E2,cluster-randomized experiment
+EXP360,EXP360-E3,Unclear
+EXP360,EXP360-O1,N/A
+EXP360,EXP360-O2,N/A
+P038,E1,survey experiment
+P038,E1,list experiment
+P038,E2,survey experiment
+P038,E2,list experiment
+P038,E3,survey experiment
+P038,E4,survey experiment
+AJPS045,AJPS045-E1,factorial experiment
+EXP103,EXP103-S1A,N/A
+EXP103,EXP103-S2A,N/A
+EXP103,EXP103-GEN,Unclear
+EXP103,EXP103-PRE,N/A
+EXP103,EXP103-FIELD,completely randomized experiment
+EXP095,EXP095-E1,factorial experiment
+EXP095,EXP095-E2,Unclear
+EXP095,EXP095-E3,N/A
+EXP095,EXP095-E4,N/A
+EXP095,EXP095-E5,N/A
+AJPS053,E1,N/A
+AJPS053,E2,N/A
+AJPS053,E3,N/A
+AJPS053,E4,factorial experiment
+AJPS053,E4,conjoint experiment
+AJPS053,E4,survey experiment
+AJPS053,E5,factorial experiment
+AJPS053,E5,conjoint experiment
+AJPS053,E5,survey experiment
+AJPS053,E6,N/A
+AJPS084,EXP1,completely randomized experiment
+AJPS084,EXP1,survey experiment
+AJPS084,OBS1,N/A
+AJPS084,OBS2,N/A
+AJPS102,E1,completely randomized experiment
+P040,P040-E1,cluster-randomized experiment
+P040,P040-E1,factorial experiment
+P138,E1,completely randomized experiment
+P138,E1,survey experiment
+P138,O1,N/A
+AJPS065,E1,factorial experiment
+AJPS065,E1,survey experiment
+AJPS065,E2,factorial experiment
+AJPS065,E2,survey experiment
+AJPS065,E3,factorial experiment
+AJPS065,E3,survey experiment
+AJPS065,E4,factorial experiment
+AJPS065,E4,survey experiment
+AJPS065,E5,factorial experiment
+AJPS065,E5,survey experiment
+AJPS065,E6,factorial experiment
+AJPS065,E6,survey experiment
+AJPS027,E1,completely randomized experiment
+AJPS027,E1,factorial experiment
+AJPS027,E1,survey experiment
+AJPS027,O1,N/A
+AJPS027,O2,N/A
+AJPS027,O3,N/A
+P100,E1,Unclear
+P100,E2,completely randomized experiment
+P100,O1,N/A
+P100,O2,N/A
+AJPS109,S1,Unclear
+AJPS109,S2,Unclear
+AJPS109,S3,N/A
+AJPS098,S1,completely randomized experiment
+AJPS098,S2,completely randomized experiment
+AJPS098,P1,Unclear
+EXP306,E1,completely randomized experiment
+EXP306,E2,completely randomized experiment
+EXP306,E2,survey experiment
+EXP306,E3,completely randomized experiment
+EXP306,E3,survey experiment
+EXP306,E3,list experiment
+EXP306,E4,completely randomized experiment
+EXP306,E4,survey experiment
+EXP306,E4,list experiment
+EXP306,O1,N/A
+P129,P129-E1,survey experiment
+P129,P129-E2,Unclear
+P129,P129-O1,N/A
+P062,P062-E1,cluster-randomized experiment
+P062,P062-E2,survey experiment
+P062,P062-O1,N/A
+P062,P062-O2,N/A
+AJPS137,IND-PRIMARY,factorial experiment
+AJPS137,IND-PRIMARY,survey experiment
+AJPS137,ISR-PRIMARY,factorial experiment
+AJPS137,ISR-PRIMARY,survey experiment
+AJPS137,ARG-PRIMARY,factorial experiment
+AJPS137,ARG-PRIMARY,survey experiment
+AJPS137,IND-ORDER,survey experiment
+AJPS137,ISR-ORDER,survey experiment
+AJPS137,ARG-ORDER,survey experiment
+EXP113,EXP113-E1,completely randomized experiment
+EXP113,EXP113-E1,factorial experiment
+EXP013,EXP013-E1,Unclear
+EXP013,EXP013-E2,Unclear
+EXP298,EXP298-E1,cluster-randomized experiment
+P113,P113-E1,completely randomized experiment
+P113,P113-E1,survey experiment
+AJPS043,E1,factorial experiment
+AJPS043,E1,survey experiment
+AJPS043,E2,factorial experiment
+AJPS043,E2,survey experiment
+AJPS043,E3,factorial experiment
+AJPS043,E3,survey experiment
+AJPS043,E4,Unclear
+AJPS061,EXP-UK,factorial experiment
+AJPS061,EXP-UK,survey experiment
+AJPS061,EXP-US,factorial experiment
+AJPS061,EXP-US,survey experiment
+AJPS061,OBS-MEDIA,N/A
+AJPS016,E1,factorial experiment
+AJPS016,E1,survey experiment
+AJPS016,E2,factorial experiment
+AJPS016,E2,survey experiment
+AJPS016,E3,factorial experiment
+AJPS016,E3,survey experiment
+AJPS016,E4,Unclear
+AJPS088,E1,completely randomized experiment
+AJPS088,E1,factorial experiment
+AJPS088,E1,survey experiment
+AJPS088,E2,Unclear
+AJPS088,U1,N/A
+AJPS088,U2,N/A
+AJPS088,U3,N/A
+EXP052,EXP052-E1,completely randomized experiment
+EXP052,EXP052-O1,N/A
+AJPS112,E1,factorial experiment
+AJPS112,E1,survey experiment
+AJPS112,E2,factorial experiment
+AJPS112,E2,survey experiment
+AJPS112,E3,factorial experiment
+AJPS112,E3,survey experiment
+AJPS112,E4,factorial experiment
+AJPS112,E4,survey experiment
+AJPS112,E5,survey experiment
+AJPS112,E6,survey experiment
+AJPS112,E7,survey experiment
+AJPS112,E8,survey experiment
+AJPS112,E9,survey experiment
+AJPS112,O1,N/A
+AJPS112,O2,N/A
+AJPS112,O3,N/A
+P032,E1,factorial experiment
+P032,E1,conjoint experiment
+P032,E1,survey experiment
+P137,E1,cluster-randomized experiment
+P137,E2,factorial experiment
+EXP350,E1,completely randomized experiment
+EXP350,E2,completely randomized experiment
+EXP350,E3,Unclear
+EXP350,E4,Unclear
+EXP350,E5,Unclear
+EXP350,E6,Unclear
+EXP350,E7,completely randomized experiment
+EXP350,E7,factorial experiment
+EXP350,E8,Unclear
+EXP350,E9,Unclear
+EXP233,E1,factorial experiment
+EXP233,E1,completely randomized experiment
+EXP233,E2,completely randomized experiment
+EXP233,O1,N/A
+P071,E1,factorial experiment
+P071,E1,survey experiment
+P071,E2,factorial experiment
+P071,E2,survey experiment
+P071,E3,survey experiment
+P071,E4,survey experiment
+P071,E5,survey experiment
+P071,O1,N/A
+P071,O2,N/A
+AJPS080,E1,survey experiment
+AJPS080,O1,N/A
+AJPS080,O2,N/A
+AJPS080,O3,N/A
+AJPS140,E1,survey experiment
+AJPS140,E2,survey experiment
+AJPS140,E3,survey experiment
+AJPS140,E4,survey experiment
+AJPS140,O1,N/A
+EXP365,E1,factorial experiment
+EXP365,E2,survey experiment
+EXP365,E3,survey experiment
+EXP365,E4,Unclear
+EXP365,E5,N/A
+EXP365,E6,N/A
+EXP365,E7,N/A
+EXP365,E8,N/A
+EXP365,E9,N/A
+EXP365,E10,N/A
+EXP365,E11,N/A
+EXP112,EXP112-E1,completely randomized experiment
+AJPS091,E1,completely randomized experiment
+AJPS091,E1,survey experiment
+AJPS091,E2,completely randomized experiment
+AJPS091,E2,survey experiment
+AJPS091,O1,N/A
+AJPS091,O2,N/A
+AJPS091,O3,N/A
+AJPS035,S1,cluster-randomized experiment
+AJPS035,S2,cluster-randomized experiment
+AJPS035,O1,N/A
+AJPS035,O2,N/A
+AJPS035,O3,N/A
+AJPS035,O4,N/A
+AJPS035,D1,survey experiment
+AJPS035,D2,survey experiment
+AJPS035,S4,factorial experiment
+AJPS035,S4,survey experiment
+EXP034,EXP034-E1,completely randomized experiment
+EXP034,EXP034-P1,Unclear
+P055,S1,completely randomized experiment
+P055,S1,factorial experiment
+P055,S1,survey experiment
+P055,S2,completely randomized experiment
+P055,S2,factorial experiment
+P055,S2,survey experiment
+EXP324,EXP324-E1,cluster-randomized experiment
+EXP324,EXP324-O1,N/A
+P050,P050-E1,survey experiment
+P050,P050-E2,survey experiment
+P050,P050-O1,N/A
+EXP318,EXP318-E1,factorial experiment
+EXP318,EXP318-E2,completely randomized experiment
+EXP318,EXP318-E2,survey experiment
+EXP318,EXP318-E2,list experiment
+EXP318,EXP318-E3,completely randomized experiment
+EXP318,EXP318-O1,N/A
+EXP396,EXP396-E1,completely randomized experiment
+EXP396,EXP396-E2,completely randomized experiment
+EXP396,EXP396-O1,N/A
+P081,P081-E1,factorial experiment
+P081,P081-E2,factorial experiment
+P081,P081-E3,Unclear
+P041,P041-E01,survey experiment
+P041,P041-E02,survey experiment
+P041,P041-E03,survey experiment
+P041,P041-E04,survey experiment
+P041,P041-E05,survey experiment
+P041,P041-E06,survey experiment
+P041,P041-E07,survey experiment
+P041,P041-E08,survey experiment
+P041,P041-E09,survey experiment
+P041,P041-E10,survey experiment
+P041,P041-E11,survey experiment
+P041,P041-E12,survey experiment
+P041,P041-E13,survey experiment
+P041,P041-E14,survey experiment
+P041,P041-E15,survey experiment
+P041,P041-E16,survey experiment
+P041,P041-E17,survey experiment
+P041,P041-E18,survey experiment
+P041,P041-E19,survey experiment
+P041,P041-E20,survey experiment
+P041,P041-E21,survey experiment
+P041,P041-E22,survey experiment
+P041,P041-E23,survey experiment
+P041,P041-E24,survey experiment
+P041,P041-E25,survey experiment
+P041,P041-E26,survey experiment
+P041,P041-E27,survey experiment
+P041,P041-E28,survey experiment
+P041,P041-E29,survey experiment
+P041,P041-E30,survey experiment
+P041,P041-E31,survey experiment
+P041,P041-E32,survey experiment
+P041,P041-E33,survey experiment
+P041,P041-E34,survey experiment
+P041,P041-E35,survey experiment
+P041,P041-E36,survey experiment
+P041,P041-E37,factorial experiment
+P041,P041-E37,conjoint experiment
+P041,P041-E37,survey experiment
+P041,P041-E38,factorial experiment
+P041,P041-E38,conjoint experiment
+P041,P041-E38,survey experiment
+P041,P041-E39,factorial experiment
+P041,P041-E39,conjoint experiment
+P041,P041-E39,survey experiment
+P041,P041-E40,factorial experiment
+P041,P041-E40,conjoint experiment
+P041,P041-E40,survey experiment
+P041,P041-E41,factorial experiment
+P041,P041-E41,conjoint experiment
+P041,P041-E41,survey experiment
+P041,P041-E42,factorial experiment
+P041,P041-E42,conjoint experiment
+P041,P041-E42,survey experiment
+P041,P041-O01,N/A
+EXP058,EXP058-E1,survey experiment
+AJPS068,E1,completely randomized experiment
+AJPS068,E1,survey experiment
+AJPS068,O1,N/A
+AJPS105,E1,survey experiment
+AJPS105,E1,list experiment
+AJPS105,E2,survey experiment
+AJPS105,E2,list experiment
+AJPS105,O1,N/A
+AJPS105,O2,N/A
+AJPS105,O3,N/A
+P016,EXP-1,factorial experiment
+P016,EXP-1,conjoint experiment
+P016,EXP-1,survey experiment
+P016,EXP-2,factorial experiment
+P016,EXP-2,conjoint experiment
+P016,EXP-2,survey experiment
+P016,EXP-3,factorial experiment
+P016,EXP-3,conjoint experiment
+P016,EXP-3,survey experiment
+P016,EXP-4,factorial experiment
+P016,EXP-4,conjoint experiment
+P016,EXP-4,survey experiment
+P016,EXP-5,factorial experiment
+P016,EXP-5,conjoint experiment
+P016,EXP-5,survey experiment
+EXP198,EXP198-E1,cluster-randomized experiment
+EXP198,EXP198-O1,N/A
+EXP040,EXP040-E1,completely randomized experiment
+P115,E1,cluster-randomized experiment
+P115,O1,N/A
+EXP019,EXP019-E1,completely randomized experiment
+EXP019,EXP019-E2,completely randomized experiment
+EXP019,EXP019-E2,factorial experiment
+EXP019,EXP019-O1,N/A
+EXP399,EXP399-E1,cluster-randomized experiment
+EXP399,EXP399-E2,cluster-randomized experiment
+EXP399,EXP399-E3,Unclear
+EXP399,EXP399-O1,N/A
+P018,P018-E1,survey experiment
+P018,P018-E2,survey experiment
+P018,P018-E3,Unclear
+EXP327,E1,completely randomized experiment
+EXP327,E1,factorial experiment
+EXP327,E2,completely randomized experiment
+EXP327,O1,N/A
+EXP327,O2,N/A
+EXP327,O3,N/A
+EXP327,O4,N/A
+P044,E1,cluster-randomized experiment
+P044,E2,completely randomized experiment
+P044,E2,survey experiment
+P044,O1,N/A
+EXP210,EXP210-E1,completely randomized experiment
+EXP210,EXP210-O1,N/A
+AJPS055,E1,completely randomized experiment
+AJPS055,E1,factorial experiment
+AJPS055,E1,survey experiment
+AJPS055,O1,N/A
+AJPS055,O2,N/A
+EXP136,E1,Unclear
+EXP136,E2,completely randomized experiment
+EXP136,E2,survey experiment
+EXP136,E3,completely randomized experiment
+EXP136,E3,survey experiment
+EXP136,E4,completely randomized experiment
+EXP136,E4,survey experiment
+EXP136,E5,completely randomized experiment
+EXP136,E5,survey experiment
+EXP136,E6,completely randomized experiment
+EXP136,E6,survey experiment
+EXP136,E7,completely randomized experiment
+EXP136,E7,survey experiment
+EXP136,E8,completely randomized experiment
+EXP136,E9,N/A
+EXP136,E10,N/A
+AJPS056,E1,Unclear
+EXP080,E1,completely randomized experiment
+EXP080,E2,completely randomized experiment
+EXP080,E3,completely randomized experiment
+EXP080,E4,completely randomized experiment
+EXP080,O1,N/A
+EXP147,EXP147-E1,completely randomized experiment
+EXP147,EXP147-O1,N/A
+EXP081,EXP081-S1,survey experiment
+EXP081,EXP081-S2,survey experiment
+EXP081,EXP081-PILOT,Unclear
+EXP081,EXP081-CLASS,N/A
+AJPS033,E1,survey experiment
+AJPS033,O1,N/A
+AJPS122,E1,completely randomized experiment
+AJPS122,E1,survey experiment
+AJPS122,E2,cluster-randomized experiment
+AJPS122,E2,factorial experiment
+AJPS122,O1,N/A
+EXP208,E1,completely randomized experiment
+EXP208,E2,completely randomized experiment
+EXP208,E2,survey experiment
+EXP208,O1,N/A
+EXP208,O2,N/A
+AJPS146,E1,completely randomized experiment
+AJPS146,E1,factorial experiment
+AJPS146,E1,conjoint experiment
+AJPS146,E1,survey experiment
+AJPS146,O1,N/A
+AJPS146,O2,N/A
+AJPS146,O3,N/A
+EXP096,exp1,cluster-randomized experiment
+EXP096,obs1,N/A
+EXP096,obs2,N/A
+P065,P065-O1,N/A
+P065,P065-O2,N/A
+P065,P065-O3,N/A
+P065,P065-E1,survey experiment
+P065,P065-O4,N/A
+P065,P065-O5,N/A
+EXP031,EXP031-S1,Unclear
+EXP031,EXP031-S2,survey experiment
+EXP031,EXP031-S3,Unclear
+EXP031,EXP031-S4,N/A
+P056,EXP1,cluster-randomized experiment
+P056,OBS1,N/A
+P056,OBS2,N/A
+P056,OBS3,N/A
+P056,OBS4,N/A
+EXP394,EXP394-E1,cluster-randomized experiment
+EXP394,EXP394-E1,factorial experiment
+EXP394,EXP394-O1,N/A
+P073,E1,completely randomized experiment
+P073,E1,survey experiment
+P073,E2,completely randomized experiment
+P073,E2,survey experiment
+P073,O1,N/A
+P020,S1-US,factorial experiment
+P020,S1-US,survey experiment
+P020,S1-IL,factorial experiment
+P020,S1-IL,survey experiment
+P020,S2-US,factorial experiment
+P020,S2-US,survey experiment
+P020,S2-IL,factorial experiment
+P020,S2-IL,survey experiment
+P020,OBS-1,N/A
+P010,E1,cluster-randomized experiment
+P010,E2,completely randomized experiment
+P010,E3,Unclear
+EXP166,E1,cluster-randomized experiment
+EXP166,E2,cluster-randomized experiment
+EXP166,E3,Unclear
+AJPS139,EXP1,completely randomized experiment
+AJPS139,OBS1,N/A
+EXP077,OBS1,N/A
+EXP077,OBS2,N/A
+EXP258,E1,completely randomized experiment
+EXP258,E2,completely randomized experiment
+EXP258,E3,completely randomized experiment
+EXP258,E4,completely randomized experiment
+EXP258,E4,survey experiment
+EXP258,O1,N/A
+EXP258,O2,N/A
+EXP258,O3,N/A
+EXP258,O4,N/A
+EXP258,O5,N/A
+EXP258,O6,N/A
+EXP281,EXP281-E1,cluster-randomized experiment
+P139,P139-S1,N/A
+P139,P139-S2,completely randomized experiment
+P139,P139-S2,survey experiment
+EXP090,EXP090-E1,cluster-randomized experiment
+EXP090,EXP090-E2,Unclear
+EXP090,EXP090-O1,N/A
+P037,E1,completely randomized experiment
+P037,E1,survey experiment
+P037,E2,completely randomized experiment
+P037,E2,survey experiment
+P037,O1,N/A
+P037,O2,N/A
+P037,O3,N/A
+AJPS115,study-1,completely randomized experiment
+AJPS115,study-1,factorial experiment
+AJPS115,study-1,survey experiment
+AJPS115,study-2,completely randomized experiment
+AJPS115,study-2,factorial experiment
+AJPS115,study-2,survey experiment
+EXP099,S1,cluster-randomized experiment
+EXP099,S2,cluster-randomized experiment
+EXP073,EXP073-E1,factorial experiment
+EXP073,EXP073-O1,N/A
+EXP073,EXP073-O2,N/A
+EXP160,E1,completely randomized experiment
+EXP160,E2,completely randomized experiment
+EXP160,E3,Unclear
+EXP160,E4,N/A
+P080,E1,completely randomized experiment
+P080,E1,survey experiment
+P080,O1,N/A
+EXP119,EXP119-S1,completely randomized experiment
+EXP119,EXP119-S1,survey experiment
+EXP119,EXP119-S2,completely randomized experiment
+EXP119,EXP119-S2,survey experiment
+P116,E1,conjoint experiment
+P116,E1,survey experiment
+P116,O1,N/A
+P116,O2,N/A
+P116,P1,Unclear
+EXP156,EXP156-E1,N/A
+EXP156,EXP156-E2,N/A
+EXP156,EXP156-E3,Unclear
+EXP326,E1,completely randomized experiment
+EXP326,E2,completely randomized experiment
+EXP326,E2,survey experiment
+EXP326,E2,list experiment
+EXP326,E3,completely randomized experiment
+EXP326,E3,survey experiment
+EXP326,E4,completely randomized experiment
+EXP326,U1,Unclear
+EXP326,U2,Unclear
+EXP326,O1,N/A
+EXP326,O2,N/A
+EXP326,O3,N/A
+EXP326,O4,N/A
+EXP088,EXP088-E1,factorial experiment
+EXP088,EXP088-E2,factorial experiment
+EXP088,EXP088-P1,Unclear
+EXP088,EXP088-O1,N/A
+AJPS103,E1,completely randomized experiment
+AJPS103,E1,factorial experiment
+AJPS103,E1,survey experiment
+AJPS103,O1,N/A
+AJPS042,E1,conjoint experiment
+AJPS042,E1,survey experiment
+AJPS042,E2,conjoint experiment
+AJPS042,E2,survey experiment
+AJPS042,E3,conjoint experiment
+AJPS042,E3,survey experiment
+AJPS042,E4,conjoint experiment
+AJPS042,E4,survey experiment
+P149,US-FAC,completely randomized experiment
+P149,US-FAC,factorial experiment
+P149,US-FAC,survey experiment
+P149,CA-FAC,completely randomized experiment
+P149,CA-FAC,factorial experiment
+P149,CA-FAC,survey experiment
+P149,US-ORDER,survey experiment
+P149,CA-ORDER,survey experiment
+P149,MTURK-PILOT,survey experiment
+P149,PRE-OBS,N/A
+P117,E1,factorial experiment
+P117,E2,survey experiment
+P117,E3,survey experiment
+AJPS067,E1,completely randomized experiment
+AJPS067,E1,factorial experiment
+AJPS067,E1,conjoint experiment
+AJPS067,E1,survey experiment
+AJPS067,E2,completely randomized experiment
+AJPS067,E2,survey experiment
+P082,E001,survey experiment
+P082,E002,survey experiment
+P082,E003,survey experiment
+P082,E004,survey experiment
+P082,E005,survey experiment
+P082,E006,survey experiment
+P082,E007,survey experiment
+P082,E008,survey experiment
+P082,E009,survey experiment
+P082,E010,survey experiment
+P082,E011,survey experiment
+P082,E012,survey experiment
+P082,E013,survey experiment
+P082,E014,survey experiment
+P082,E015,survey experiment
+P082,E016,survey experiment
+P082,E017,survey experiment
+P082,E018,survey experiment
+P082,E019,survey experiment
+P082,E020,survey experiment
+P082,E021,survey experiment
+P082,E022,survey experiment
+P082,E023,survey experiment
+P082,E024,survey experiment
+P082,E025,survey experiment
+P082,E026,survey experiment
+P082,E027,survey experiment
+P082,E028,survey experiment
+P082,E029,survey experiment
+P082,E030,survey experiment
+P082,E031,survey experiment
+P082,E032,survey experiment
+P082,E033,survey experiment
+P082,E034,survey experiment
+P082,E035,survey experiment
+P082,E036,survey experiment
+P082,E037,survey experiment
+P082,E038,survey experiment
+P082,E039,survey experiment
+P082,E040,survey experiment
+P082,E041,survey experiment
+P082,E042,survey experiment
+P082,E043,survey experiment
+P082,E044,survey experiment
+P082,E045,survey experiment
+P082,E046,survey experiment
+P082,E047,survey experiment
+P082,E048,survey experiment
+P082,E049,survey experiment
+P082,E050,survey experiment
+P082,E051,survey experiment
+P082,E052,survey experiment
+P082,E053,survey experiment
+P082,E054,survey experiment
+P082,E055,survey experiment
+P082,E056,survey experiment
+P082,E057,survey experiment
+P082,E058,survey experiment
+P082,E059,survey experiment
+P082,E060,survey experiment
+P082,E061,survey experiment
+P082,E062,survey experiment
+P082,E063,survey experiment
+P082,E064,survey experiment
+P082,E065,survey experiment
+P082,E066,survey experiment
+P082,E067,survey experiment
+P082,E068,survey experiment
+P082,E069,survey experiment
+P082,E070,survey experiment
+P082,E071,survey experiment
+P082,E072,survey experiment
+P082,E073,survey experiment
+P082,E074,survey experiment
+P082,E075,survey experiment
+P082,E076,survey experiment
+P082,E077,survey experiment
+P082,E078,survey experiment
+P082,E079,survey experiment
+P082,E080,survey experiment
+P082,E081,survey experiment
+P082,E082,survey experiment
+P082,E083,survey experiment
+P082,E084,survey experiment
+P082,E085,survey experiment
+P082,E086,survey experiment
+P082,E087,survey experiment
+P082,E088,survey experiment
+P082,E089,survey experiment
+P082,E090,survey experiment
+P082,E091,survey experiment
+P082,E092,survey experiment
+P082,E093,survey experiment
+P082,E094,survey experiment
+P082,E095,survey experiment
+P082,E096,survey experiment
+P082,E097,survey experiment
+P082,E098,survey experiment
+P082,E099,survey experiment
+P082,E100,survey experiment
+P082,E101,survey experiment
+P082,E102,survey experiment
+P082,E103,survey experiment
+P082,E104,survey experiment
+P082,E105,survey experiment
+P082,E106,survey experiment
+P082,E107,survey experiment
+P082,E108,survey experiment
+P082,E109,survey experiment
+P082,E110,survey experiment
+P082,E111,survey experiment
+P082,E112,survey experiment
+P082,E113,survey experiment
+P082,E114,survey experiment
+P082,E115,survey experiment
+P082,E116,survey experiment
+P082,E117,survey experiment
+P082,E118,survey experiment
+P082,E119,survey experiment
+P082,E120,survey experiment
+P082,E121,survey experiment
+P082,E122,survey experiment
+P082,E123,survey experiment
+P082,E124,survey experiment
+P082,E125,survey experiment
+P082,E126,survey experiment
+P082,E127,survey experiment
+P082,E128,survey experiment
+P082,E129,survey experiment
+P082,E130,survey experiment
+P082,E131,survey experiment
+P082,E132,survey experiment
+P082,E133,survey experiment
+P082,E134,survey experiment
+P082,E135,survey experiment
+P082,E136,survey experiment
+P082,E137,survey experiment
+P082,E138,survey experiment
+P082,E139,survey experiment
+P082,E140,survey experiment
+P082,E141,survey experiment
+P082,E142,survey experiment
+P082,E143,survey experiment
+P082,E144,survey experiment
+P082,E145,survey experiment
+P082,E146,survey experiment
+P082,O001,N/A
+P082,O002,N/A
+AJPS096,E1,survey experiment
+AJPS096,E2,survey experiment
+EXP264,BRA,cluster-randomized experiment
+EXP264,COL,cluster-randomized experiment
+EXP264,LBR,cluster-randomized experiment
+EXP264,PAK,cluster-randomized experiment
+EXP264,PHL,cluster-randomized experiment
+EXP264,UGA,cluster-randomized experiment
+EXP264,QUAL,N/A
+EXP169,EXP169-E1,cluster-randomized experiment
+EXP169,EXP169-O1,N/A
+EXP169,EXP169-O2,N/A

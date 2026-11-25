@@ -1,0 +1,775 @@
+[
+  {
+    "paper_id": "AJPS077",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 119
+  },
+  {
+    "paper_id": "P046",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 198
+  },
+  {
+    "paper_id": "AJPS155",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 27
+  },
+  {
+    "paper_id": "EXP369",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 29
+  },
+  {
+    "paper_id": "P101",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 128
+  },
+  {
+    "paper_id": "P122",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 154
+  },
+  {
+    "paper_id": "AJPS001",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 130
+  },
+  {
+    "paper_id": "AJPS063",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 154
+  },
+  {
+    "paper_id": "AJPS010",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 71
+  },
+  {
+    "paper_id": "P079",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 31
+  },
+  {
+    "paper_id": "EXP297",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 20
+  },
+  {
+    "paper_id": "AJPS121",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 149
+  },
+  {
+    "paper_id": "EXP129",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 0
+  },
+  {
+    "paper_id": "EXP161",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 30
+  },
+  {
+    "paper_id": "EXP360",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 61
+  },
+  {
+    "paper_id": "P038",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 208
+  },
+  {
+    "paper_id": "AJPS045",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 37
+  },
+  {
+    "paper_id": "EXP103",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 60
+  },
+  {
+    "paper_id": "EXP095",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 65
+  },
+  {
+    "paper_id": "AJPS053",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 120
+  },
+  {
+    "paper_id": "AJPS084",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 68
+  },
+  {
+    "paper_id": "AJPS102",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 114
+  },
+  {
+    "paper_id": "P040",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 34
+  },
+  {
+    "paper_id": "P138",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 62
+  },
+  {
+    "paper_id": "AJPS065",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 250
+  },
+  {
+    "paper_id": "AJPS027",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 132
+  },
+  {
+    "paper_id": "P100",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 129
+  },
+  {
+    "paper_id": "AJPS109",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 69
+  },
+  {
+    "paper_id": "AJPS098",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 138
+  },
+  {
+    "paper_id": "EXP306",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 24
+  },
+  {
+    "paper_id": "P129",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 79
+  },
+  {
+    "paper_id": "P062",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 124
+  },
+  {
+    "paper_id": "AJPS137",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 162
+  },
+  {
+    "paper_id": "EXP113",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 13
+  },
+  {
+    "paper_id": "EXP013",
+    "changes": [
+      "Read explicit pdf page list"
+    ],
+    "errors": [],
+    "anchor_flags": 39
+  },
+  {
+    "paper_id": "EXP298",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 35
+  },
+  {
+    "paper_id": "P113",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 74
+  },
+  {
+    "paper_id": "AJPS043",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 58
+  },
+  {
+    "paper_id": "AJPS061",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 23
+  },
+  {
+    "paper_id": "AJPS016",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 157
+  },
+  {
+    "paper_id": "AJPS088",
+    "changes": [
+      "Extract article.pdf hash from source-hash mapping"
+    ],
+    "errors": [],
+    "anchor_flags": 66
+  },
+  {
+    "paper_id": "EXP052",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 75
+  },
+  {
+    "paper_id": "AJPS112",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 242
+  },
+  {
+    "paper_id": "P032",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 72
+  },
+  {
+    "paper_id": "P137",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 146
+  },
+  {
+    "paper_id": "EXP350",
+    "changes": [
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage",
+      "Separate table locators from numeric PDF-page coverage"
+    ],
+    "errors": [],
+    "anchor_flags": 143
+  },
+  {
+    "paper_id": "EXP233",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 60
+  },
+  {
+    "paper_id": "P071",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 239
+  },
+  {
+    "paper_id": "AJPS080",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 39
+  },
+  {
+    "paper_id": "AJPS140",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 163
+  },
+  {
+    "paper_id": "EXP365",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 26
+  },
+  {
+    "paper_id": "EXP112",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 68
+  },
+  {
+    "paper_id": "AJPS091",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 86
+  },
+  {
+    "paper_id": "AJPS035",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 151
+  },
+  {
+    "paper_id": "EXP034",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 45
+  },
+  {
+    "paper_id": "P055",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 52
+  },
+  {
+    "paper_id": "EXP324",
+    "changes": [
+      "Read explicit included_pdf_pages range"
+    ],
+    "errors": [],
+    "anchor_flags": 33
+  },
+  {
+    "paper_id": "P050",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 35
+  },
+  {
+    "paper_id": "EXP318",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 172
+  },
+  {
+    "paper_id": "EXP396",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 8
+  },
+  {
+    "paper_id": "P081",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 110
+  },
+  {
+    "paper_id": "P041",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 2528
+  },
+  {
+    "paper_id": "EXP058",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 71
+  },
+  {
+    "paper_id": "AJPS068",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 40
+  },
+  {
+    "paper_id": "AJPS105",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 143
+  },
+  {
+    "paper_id": "P016",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 380
+  },
+  {
+    "paper_id": "EXP198",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 3
+  },
+  {
+    "paper_id": "EXP040",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 137
+  },
+  {
+    "paper_id": "P115",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 79
+  },
+  {
+    "paper_id": "EXP019",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 166
+  },
+  {
+    "paper_id": "EXP399",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 81
+  },
+  {
+    "paper_id": "P018",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 90
+  },
+  {
+    "paper_id": "EXP327",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 0
+  },
+  {
+    "paper_id": "P044",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 92
+  },
+  {
+    "paper_id": "EXP210",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 68
+  },
+  {
+    "paper_id": "AJPS055",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 79
+  },
+  {
+    "paper_id": "EXP136",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 101
+  },
+  {
+    "paper_id": "AJPS056",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 82
+  },
+  {
+    "paper_id": "EXP080",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 148
+  },
+  {
+    "paper_id": "EXP147",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 16
+  },
+  {
+    "paper_id": "EXP081",
+    "changes": [
+      "Normalize design-label capitalization",
+      "Normalize design-label capitalization"
+    ],
+    "errors": [],
+    "anchor_flags": 49
+  },
+  {
+    "paper_id": "AJPS033",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 60
+  },
+  {
+    "paper_id": "AJPS122",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 55
+  },
+  {
+    "paper_id": "EXP208",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement",
+      "Normalize design-label capitalization",
+      "Normalize design-label capitalization"
+    ],
+    "errors": [],
+    "anchor_flags": 18
+  },
+  {
+    "paper_id": "AJPS146",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 38
+  },
+  {
+    "paper_id": "EXP096",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 40
+  },
+  {
+    "paper_id": "P065",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 103
+  },
+  {
+    "paper_id": "EXP031",
+    "changes": [
+      "Normalize design-label capitalization"
+    ],
+    "errors": [],
+    "anchor_flags": 168
+  },
+  {
+    "paper_id": "P056",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 24
+  },
+  {
+    "paper_id": "EXP394",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 58
+  },
+  {
+    "paper_id": "P073",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 79
+  },
+  {
+    "paper_id": "P020",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 53
+  },
+  {
+    "paper_id": "P010",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 135
+  },
+  {
+    "paper_id": "EXP166",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 98
+  },
+  {
+    "paper_id": "AJPS139",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 100
+  },
+  {
+    "paper_id": "EXP077",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 0
+  },
+  {
+    "paper_id": "EXP258",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 303
+  },
+  {
+    "paper_id": "EXP281",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 39
+  },
+  {
+    "paper_id": "P139",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 58
+  },
+  {
+    "paper_id": "EXP090",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 60
+  },
+  {
+    "paper_id": "P037",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 46
+  },
+  {
+    "paper_id": "AJPS115",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 108
+  },
+  {
+    "paper_id": "EXP099",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 103
+  },
+  {
+    "paper_id": "EXP073",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 88
+  },
+  {
+    "paper_id": "EXP160",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 13
+  },
+  {
+    "paper_id": "P080",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 69
+  },
+  {
+    "paper_id": "EXP119",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 54
+  },
+  {
+    "paper_id": "P116",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 62
+  },
+  {
+    "paper_id": "EXP156",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 0
+  },
+  {
+    "paper_id": "EXP326",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 14
+  },
+  {
+    "paper_id": "EXP088",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 65
+  },
+  {
+    "paper_id": "AJPS103",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 160
+  },
+  {
+    "paper_id": "AJPS042",
+    "changes": [
+      "Expand article page bounds using original explicit boundary statement"
+    ],
+    "errors": [],
+    "anchor_flags": 452
+  },
+  {
+    "paper_id": "P149",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 118
+  },
+  {
+    "paper_id": "P117",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 55
+  },
+  {
+    "paper_id": "AJPS067",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 153
+  },
+  {
+    "paper_id": "P082",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 12410
+  },
+  {
+    "paper_id": "AJPS096",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 74
+  },
+  {
+    "paper_id": "EXP264",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 453
+  },
+  {
+    "paper_id": "EXP169",
+    "changes": [],
+    "errors": [],
+    "anchor_flags": 18
+  }
+]

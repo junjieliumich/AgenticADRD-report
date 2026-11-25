@@ -1,0 +1,16 @@
+{
+  "summary_experiments": 266,
+  "inventory_flagged_experiments": 182,
+  "papers": 120,
+  "scored_experiments": 448,
+  "study_categories": {
+    "Primary": 304,
+    "Observational": 156,
+    "Supporting": 101,
+    "Diagnostic": 43,
+    "Pilot without outcome": 22
+  },
+  "papers_with_flags": 0,
+  "sampling_frame": 501,
+  "seed": 20261124
+}

@@ -1,0 +1,61 @@
+study_category,criterion_id,criterion,met,applicable,na,share
+Diagnostic,1,"Population and recruitment: Target population, eligibility, recruitment, and major exclusions are fully reported.",2,43,0,0.046511627906976744
+Diagnostic,2,"Experimental conditions: Treatment and comparator, or all randomized attributes and levels, are reported precisely enough to reproduce.",15,43,0,0.3488372093023256
+Diagnostic,3,"Randomization: The unit of random assignment, whether assignment was stratified, and any restrictions on treatment assignment probabilities are clear. Details specified by the definition of the named design count unless the paper describes a conflicting procedure.",0,43,0,0.0
+Diagnostic,4,"Outcome measurement: Outcomes, coding, timing, and primary or secondary status are fully reported.",3,43,0,0.06976744186046512
+Diagnostic,5,"Participant flow: Numbers recruited, randomized, exposed, followed, and analyzed are reported as applicable.",1,43,0,0.023255813953488372
+Diagnostic,6,"Estimand: The causal or descriptive quantity being estimated is explicitly defined, whether presented as an estimand, a target parameter, a parameter of interest, or a well-defined causal effect.",11,43,0,0.2558139534883721
+Diagnostic,7,"Estimator/model: The statistical operation used to estimate the estimand is reconstructable from the text, table, or table notes.",2,43,0,0.046511627906976744
+Diagnostic,8,"Analysis unit: The reader can determine whether observations are participants, profiles, choices, sessions, or another unit.",30,43,0,0.6976744186046512
+Diagnostic,9,"Coding and reference categories: Treatment coding, outcome coding, omitted categories, and reference levels are explicit.",4,43,0,0.09302325581395349
+Diagnostic,10,"Specification: Covariates, fixed effects, weights, transformations, and column-to-column specification changes are explicit.",2,43,0,0.046511627906976744
+Diagnostic,11,"Dependence and inference: Standard errors, clustering, repeated-observation dependence, bootstrap or permutation procedures, and confidence-interval construction are explicit.",5,43,0,0.11627906976744186
+Diagnostic,12,"Missingness and attrition: Inclusion rules, missing outcomes, exclusions, attrition, and corresponding adjustments are explicit.",0,43,0,0.0
+Diagnostic,13,Multiplicity and analysis status: Multiple-testing procedures and prespecified versus exploratory analyses are distinguished.,2,43,0,0.046511627906976744
+Diagnostic,14,Analysis sample: The number of observations used in each focal analysis is reported.,6,43,0,0.13953488372093023
+Diagnostic,15,"Group quantities: Relevant control means, treatment means, marginal means, or other raw quantities are reported.",5,43,0,0.11627906976744186
+Diagnostic,16,Effect and uncertainty: Effect estimates and standard errors or confidence intervals are reported.,1,43,0,0.023255813953488372
+Diagnostic,17,"Model-to-result traceability: Each focal numerical result can be connected directly to a particular outcome, contrast, specification, sample, and inference procedure.",0,43,0,0.0
+Diagnostic,18,Robustness analyses: Alternative specifications and sensitivity analyses are explained sufficiently to understand what changed.,1,43,0,0.023255813953488372
+Diagnostic,19,"Internal-validity threats: Attrition, noncompliance, spillovers, demand effects, measurement problems, and other relevant threats are discussed.",1,43,0,0.023255813953488372
+Diagnostic,20,"Inferential scope: The paper distinguishes the randomized contrast from broader claims about mechanisms, populations, and settings.",3,43,0,0.06976744186046512
+Primary,1,"Population and recruitment: Target population, eligibility, recruitment, and major exclusions are fully reported.",31,158,0,0.1962025316455696
+Primary,2,"Experimental conditions: Treatment and comparator, or all randomized attributes and levels, are reported precisely enough to reproduce.",60,158,0,0.379746835443038
+Primary,3,"Randomization: The unit of random assignment, whether assignment was stratified, and any restrictions on treatment assignment probabilities are clear. Details specified by the definition of the named design count unless the paper describes a conflicting procedure.",20,158,0,0.12658227848101267
+Primary,4,"Outcome measurement: Outcomes, coding, timing, and primary or secondary status are fully reported.",20,158,0,0.12658227848101267
+Primary,5,"Participant flow: Numbers recruited, randomized, exposed, followed, and analyzed are reported as applicable.",9,158,0,0.056962025316455694
+Primary,6,"Estimand: The causal or descriptive quantity being estimated is explicitly defined, whether presented as an estimand, a target parameter, a parameter of interest, or a well-defined causal effect.",136,158,0,0.8607594936708861
+Primary,7,"Estimator/model: The statistical operation used to estimate the estimand is reconstructable from the text, table, or table notes.",59,158,0,0.37341772151898733
+Primary,8,"Analysis unit: The reader can determine whether observations are participants, profiles, choices, sessions, or another unit.",146,158,0,0.9240506329113924
+Primary,9,"Coding and reference categories: Treatment coding, outcome coding, omitted categories, and reference levels are explicit.",49,158,0,0.310126582278481
+Primary,10,"Specification: Covariates, fixed effects, weights, transformations, and column-to-column specification changes are explicit.",22,158,0,0.13924050632911392
+Primary,11,"Dependence and inference: Standard errors, clustering, repeated-observation dependence, bootstrap or permutation procedures, and confidence-interval construction are explicit.",13,158,0,0.08227848101265822
+Primary,12,"Missingness and attrition: Inclusion rules, missing outcomes, exclusions, attrition, and corresponding adjustments are explicit.",6,158,0,0.0379746835443038
+Primary,13,Multiplicity and analysis status: Multiple-testing procedures and prespecified versus exploratory analyses are distinguished.,6,158,0,0.0379746835443038
+Primary,14,Analysis sample: The number of observations used in each focal analysis is reported.,55,158,0,0.34810126582278483
+Primary,15,"Group quantities: Relevant control means, treatment means, marginal means, or other raw quantities are reported.",70,158,0,0.4430379746835443
+Primary,16,Effect and uncertainty: Effect estimates and standard errors or confidence intervals are reported.,99,158,0,0.6265822784810127
+Primary,17,"Model-to-result traceability: Each focal numerical result can be connected directly to a particular outcome, contrast, specification, sample, and inference procedure.",29,158,0,0.18354430379746836
+Primary,18,Robustness analyses: Alternative specifications and sensitivity analyses are explained sufficiently to understand what changed.,64,158,0,0.4050632911392405
+Primary,19,"Internal-validity threats: Attrition, noncompliance, spillovers, demand effects, measurement problems, and other relevant threats are discussed.",15,158,0,0.0949367088607595
+Primary,20,"Inferential scope: The paper distinguishes the randomized contrast from broader claims about mechanisms, populations, and settings.",100,158,0,0.6329113924050633
+Supporting,1,"Population and recruitment: Target population, eligibility, recruitment, and major exclusions are fully reported.",4,65,0,0.06153846153846154
+Supporting,2,"Experimental conditions: Treatment and comparator, or all randomized attributes and levels, are reported precisely enough to reproduce.",22,65,0,0.3384615384615385
+Supporting,3,"Randomization: The unit of random assignment, whether assignment was stratified, and any restrictions on treatment assignment probabilities are clear. Details specified by the definition of the named design count unless the paper describes a conflicting procedure.",1,65,0,0.015384615384615385
+Supporting,4,"Outcome measurement: Outcomes, coding, timing, and primary or secondary status are fully reported.",7,65,0,0.1076923076923077
+Supporting,5,"Participant flow: Numbers recruited, randomized, exposed, followed, and analyzed are reported as applicable.",1,65,0,0.015384615384615385
+Supporting,6,"Estimand: The causal or descriptive quantity being estimated is explicitly defined, whether presented as an estimand, a target parameter, a parameter of interest, or a well-defined causal effect.",51,65,0,0.7846153846153846
+Supporting,7,"Estimator/model: The statistical operation used to estimate the estimand is reconstructable from the text, table, or table notes.",27,65,0,0.4153846153846154
+Supporting,8,"Analysis unit: The reader can determine whether observations are participants, profiles, choices, sessions, or another unit.",59,65,0,0.9076923076923077
+Supporting,9,"Coding and reference categories: Treatment coding, outcome coding, omitted categories, and reference levels are explicit.",24,65,0,0.36923076923076925
+Supporting,10,"Specification: Covariates, fixed effects, weights, transformations, and column-to-column specification changes are explicit.",8,65,0,0.12307692307692308
+Supporting,11,"Dependence and inference: Standard errors, clustering, repeated-observation dependence, bootstrap or permutation procedures, and confidence-interval construction are explicit.",7,65,0,0.1076923076923077
+Supporting,12,"Missingness and attrition: Inclusion rules, missing outcomes, exclusions, attrition, and corresponding adjustments are explicit.",0,65,0,0.0
+Supporting,13,Multiplicity and analysis status: Multiple-testing procedures and prespecified versus exploratory analyses are distinguished.,0,65,0,0.0
+Supporting,14,Analysis sample: The number of observations used in each focal analysis is reported.,23,65,0,0.35384615384615387
+Supporting,15,"Group quantities: Relevant control means, treatment means, marginal means, or other raw quantities are reported.",26,65,0,0.4
+Supporting,16,Effect and uncertainty: Effect estimates and standard errors or confidence intervals are reported.,39,65,0,0.6
+Supporting,17,"Model-to-result traceability: Each focal numerical result can be connected directly to a particular outcome, contrast, specification, sample, and inference procedure.",14,65,0,0.2153846153846154
+Supporting,18,Robustness analyses: Alternative specifications and sensitivity analyses are explained sufficiently to understand what changed.,19,65,0,0.2923076923076923
+Supporting,19,"Internal-validity threats: Attrition, noncompliance, spillovers, demand effects, measurement problems, and other relevant threats are discussed.",0,65,0,0.0
+Supporting,20,"Inferential scope: The paper distinguishes the randomized contrast from broader claims about mechanisms, populations, and settings.",38,65,0,0.5846153846153846
