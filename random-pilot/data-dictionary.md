@@ -103,3 +103,15 @@ selection; annual sample-size downloads use the same selected journals and scope
 `journal-table-primary.csv` and `journal-table-all.csv` reproduce the displayed
 eight-measure tables, including paper and experiment counts. Experiment-type
 tables also have scope-specific CSV and SVG downloads beside the table.
+
+Table images are available as editable SVGs and high-resolution PNGs. Rebuild
+PNG files from the same SVG tables after regenerating comparisons:
+
+```bash
+pip install -e '.[figures]'
+PYTHONPATH=src python3 -m agenticadrd.reporting.table_images
+```
+
+The table image renderer uses Georgia where installed, with DejaVu Serif as a
+fallback. PNGs use twice the SVG pixel dimensions. Direct table download buttons
+are available for each experiment scope.
