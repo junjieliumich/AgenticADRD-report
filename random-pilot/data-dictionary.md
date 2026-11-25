@@ -64,7 +64,9 @@ Mean total/results scores divide earned points by the number of experiments;
 domain percentages divide pooled earned points by applicable points. C16 and
 C19 percentages divide experiments earning 1 by applicable experiments.
 
-Economics combines AER, QJE, Econometrica, REStud and JPE within the random sample.
+Journal comparisons report APSR, AJPS, AER, QJE, Econometrica, REStud, JPE,
+PNAS, Science and Nature separately. Nature has no sampled papers and displays
+missing values. The eight-panel journal charts use the same values as the tables.
 Annual trends use publication years for APSR and AJPS. No observations are filled
 in for empty years. SVG figures and the companion CSV files use identical values.
 
