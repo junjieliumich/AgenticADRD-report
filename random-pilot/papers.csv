@@ -1,121 +1,502 @@
-paper_id,doi,journal,title,scored_experiments,structural_flags
-AJPS077,10.1111/ajps.12887,AJPS,Chinese state media persuades a global audience that the “China model” is superior: Evidence from a 19-country experiment,1,0
-P046,10.1017/s0003055423000084,APSR,Se Habla Español: Spanish-Language Appeals and Candidate Evaluations in the United States,3,0
-AJPS155,10.1111/ajps.12519,AJPS,"If They Endorse It, I Can’t Trust It: How Outgroup Leader Endorsements Undercut Public Support for Civil War Peace Settlements",2,0
-EXP369,10.1257/aer.20220720,American Economic Review,A Signal to End Child Marriage: Theory and Experimental Evidence from Bangladesh,2,0
-P101,10.1017/s000305541600006x,APSR,The Organizational Roots of Political Activism: Field Experiments on Creating a Relational Context,3,0
-P122,10.1017/s0003055418000473,APSR,On the Limits of Officials’ Ability to Change Citizens’ Priorities: A Field Experiment in Local Politics,2,0
-AJPS001,10.1111/ajps.12517,AJPS,How Markets Shape Values and Political Preferences: A Field Experiment,1,0
-AJPS063,10.1111/ajps.12810,AJPS,Bilateral Conflict: An Experimental Study of Strategic Effectiveness and Equilibrium,2,0
-AJPS010,10.1111/ajps.12558,AJPS,Executive Accountability Beyond Outcomes: Experimental Evidence on Public Evaluations of Powerful Prime Ministers,4,0
-P079,10.1017/s0003055421001350,APSR,Changing In-Group Boundaries: The Effect of Immigration on Race Relations in the United States,1,0
-EXP297,10.1257/aer.20150503,American Economic Review,Reducing Crime and Violence: Experimental Evidence from Cognitive Behavioral Therapy in Liberia,1,0
-AJPS121,10.1111/ajps.12354,AJPS,"Tell Me Who Is Your Leader, and I Will Tell You Who You Are: Foreign Leaders’ Perceived Personality and Public Attitudes toward Their Countries and Citizenry",5,0
-EXP129,10.1086/691703,Journal of Political Economy,"Avoiding the Ask: A Field Experiment on Altruism, Empathy, and Charitable Giving",1,0
-EXP161,10.1086/726237,Journal of Political Economy,Investing with the Government: A Field Experiment in China,2,0
-EXP360,10.1257/aer.20210778,American Economic Review,All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity,2,0
-P038,10.1017/s0003055422000946,APSR,Making the List: Reevaluating Political Trust and Social Desirability in China,4,0
-AJPS045,10.1111/ajps.12722,AJPS,"Campaign Messages, Polling, and Elections: Theory and Experimental Evidence",1,0
-EXP103,10.1073/pnas.2308129120,Proceedings of the National Academy of Sciences,Crowdsourcing as a tool for creating effective nudges: An example for financial oversubscription,1,0
-EXP095,10.1073/pnas.2213824120,Proceedings of the National Academy of Sciences,Unraveling controversies over civic honesty measurement: An extended field replication in China,1,0
-AJPS053,10.1111/ajps.12758,AJPS,"How Patronage Delivers: Political Appointments, Bureaucratic Accountability, and Service Delivery in Brazil",2,0
-AJPS084,10.1111/ajps.12925,AJPS,Economic risk perceptions and willingness to learn about globalization: A field experiment with migrants and other underprivileged groups in Vietnam,1,0
-AJPS102,10.1111/ajps.12270,AJPS,All in the Family: Partisan Disagreement and Electoral Mobilization in Intimate Networks—A Spillover Experiment,1,0
-P040,10.1017/s0003055424000649,APSR,Can Party Elites Shape the Rank and File? Evidence from a Recruitment Campaign in India,1,0
-P138,10.1017/s0003055419000492,APSR,Spatial Voting Meets Spatial Policy Positions: An Experimental Appraisal,1,0
-AJPS065,10.1111/ajps.12815,AJPS,The Personal Vote in a Polarized Era,6,0
-AJPS027,10.1111/ajps.12619,AJPS,Partisan-Motivated Evaluations of Sexual Misconduct and the Mitigating Role of the #MeToo Movement,1,0
-P100,10.1017/s0003055415000520,APSR,Can Employment Reduce Lawlessness and Rebellion? A Field Experiment with High-Risk Men in a Fragile State,2,0
-AJPS109,10.1111/ajps.12307,AJPS,How Do Indifferent Voters Decide? The Political Importance of Implicit Attitudes,2,0
-AJPS098,10.1111/ajps.12243,AJPS,The Causal Effects of Elite Position-Taking on Voter Attitudes: Field Experiments with Elite Communication,2,0
-EXP306,10.1257/aer.20170404,American Economic Review,Enfranchising Your Own? Experimental Evidence on Bureaucrat Diversity and Election Bias in India,4,0
-P129,10.1017/s000305541800076x,APSR,The Psychology of State Repression: Fear and Dissent Decisions in Zimbabwe,1,0
-P062,10.1017/s0003055422000181,APSR,Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from a Dominant Party Regime,2,0
-AJPS137,10.1111/ajps.12416,AJPS,"Violence, Nonviolence, and the Effects of International Human Rights Law",6,0
-EXP113,10.1073/pnas.2416708122,Proceedings of the National Academy of Sciences,Behavioral nudges prevent loan delinquencies at scale: A 13-million-person field experiment,1,0
-EXP013,10.1073/pnas.1509740113,Proceedings of the National Academy of Sciences,Conditional cooperation and confusion in public-goods experiments,2,0
-EXP298,10.1257/aer.20150572,American Economic Review,The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment,1,0
-P113,10.1017/s0003055417000478,APSR,Seeing the World Through the Other’s Eye: An Online Intervention Reducing Ethnic Prejudice,1,0
-AJPS043,10.1111/ajps.12710,AJPS,Abstraction and Detail in Experimental Design,3,0
-AJPS061,10.1111/ajps.12790,AJPS,No Entry in a Pandemic: Public Support for Border Closures,2,0
-AJPS016,10.1111/ajps.12582,AJPS,"Thinking about Government Authority: Constitutional Rules and Political Context in Citizens’ Assessments of Judicial, Legislative, and Executive Action",4,0
-AJPS088,10.1111/ajps.12181,AJPS,Opinion Backlash and Public Attitudes: Are Political Advances in Gay Rights Counterproductive?,2,0
-EXP052,10.1073/pnas.1921653117,Proceedings of the National Academy of Sciences,Parent coaching increases conversational turns and advances infant language development,1,0
-AJPS112,10.1111/ajps.12315,AJPS,Do Rural Migrants Divide Ethnically in the City? Evidence from an Ethnographic Experiment in India,9,0
-P032,10.1017/s0003055424000789,APSR,Out-Competing Rivals: Armed Group Governance and Civilian Attitudes in Colombia,1,0
-P137,10.1017/s0003055419000479,APSR,Do Fairer Elections Increase the Responsiveness of Politicians?,2,0
-EXP350,10.1257/aer.20201333,American Economic Review,Enabling or Limiting Cognitive Flexibility? Evidence of Demand for Moral Commitment,8,0
-EXP233,10.1093/restud/rdy026,The Review of Economic Studies,Cool to be Smart or Smart to be Cool? Understanding Peer Pressure in Education,2,0
-P071,10.1017/s0003055424000819,APSR,Confronting Core Issues: A Critical Assessment of Attitude Polarization Using Tailored Experiments,5,0
-AJPS080,10.1111/ajps.12907,AJPS,"Losing on the home front? Battlefield casualties, media, and public support for foreign interventions",1,0
-AJPS140,10.1111/ajps.12430,AJPS,On the Meaning of Survey Reports of Roll-Call “Votes”,4,0
-EXP365,10.1257/aer.20220582,American Economic Review,Breaking Gender Barriers: Experimental Evidence on Men in Pink-Collar Jobs,4,0
-EXP112,10.1073/pnas.2415066121,Proceedings of the National Academy of Sciences,The long-term impact of debt relief for indigent defendants in a misdemeanor court,1,0
-AJPS091,10.1111/ajps.12203,AJPS,When Are Monetary Policy Preferences Egocentric? Evidence from American Surveys and an Experiment,2,0
-AJPS035,10.1111/ajps.12657,AJPS,Which Narrative Strategies Durably Reduce Prejudice? Evidence from Field and Survey Experiments Supporting the Efficacy of Perspective-Getting,5,0
-EXP034,10.1073/pnas.1805450115,Proceedings of the National Academy of Sciences,Serious games may improve physician heuristics in trauma triage,1,0
-P055,10.1017/s0003055424000182,APSR,"Leaders but Not Authorities? Gender, Veterans, and Messages about National Security",2,0
-EXP324,10.1257/aer.20180511,American Economic Review,"Maternal Depression, Women’s Empowerment, and Parental Investment: Evidence from a Randomized Controlled Trial",1,0
-P050,10.1017/s0003055424000996,APSR,Legitimize or Delegitimize? Mainstream Party Strategy toward (Former) Pariah Parties and How Voters Respond,2,0
-EXP318,10.1257/aer.20171765,American Economic Review,The Impact of Media Censorship: 1984 or Brave New World?,3,0
-EXP396,10.3982/ecta14407,Econometrica,Testing Models of Social Learning on Networks: Evidence From Two Experiments,2,0
-P081,10.1017/s0003055424001394,APSR,"Sustaining Exposure to Fact-Checks: Misinformation Discernment, Media Consumption, and Its Political Implications",2,0
-P041,10.1017/s0003055425000097,APSR,White Democrats’ Growing Support for Black Politicians in the Era of the “Great Awokening”,42,0
-EXP058,10.1073/pnas.2013464118,Proceedings of the National Academy of Sciences,The consequences of online partisan media,1,0
-AJPS068,10.1111/ajps.12836,AJPS,Great expectations: The effect of unmet labor market expectations after higher education on ideology,1,0
-AJPS105,10.1111/ajps.12286,AJPS,Racial Inequality in Democratic Accountability: Evidence from Retrospective Voting in Local Elections,2,0
-P016,10.1017/s0003055422000119,APSR,Does Competence Make Citizens Tolerate Undemocratic Behavior?,5,0
-EXP198,10.1093/qje/qjx040,The Quarterly Journal of Economics,Double for Nothing? Experimental Evidence on an Unconditional Teacher Salary Increase in Indonesia,1,0
-EXP040,10.1073/pnas.1813588116,Proceedings of the National Academy of Sciences,Mindfulness training reduces loneliness and increases social contact in a randomized controlled trial,1,0
-P115,10.1017/s0003055417000648,APSR,"Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda",1,0
-EXP019,10.1073/pnas.1611898114,Proceedings of the National Academy of Sciences,Eight-minute self-regulation intervention raises educational attainment at scale in individualist but not collectivist cultures,2,0
-EXP399,10.3982/ecta15962,Econometrica,The Welfare Effects of Encouraging Rural–Urban Migration,3,0
-P018,10.1017/s000305542200051x,APSR,White Americans’ Reactions to Racial Disparities in COVID-19,2,0
-EXP327,10.1257/aer.20181446,American Economic Review,Does Diversity Matter for Health? Experimental Evidence from Oakland,2,0
-P044,10.1017/s0003055425101184,APSR,Countering Misinformation Early: Evidence from a Classroom-Based Field Experiment in India,2,0
-EXP210,10.1093/restud/rdab005,The Review of Economic Studies,Improving Management with Individual and Group-Based Consulting: Results from a Randomized Experiment in Colombia,1,0
-AJPS055,10.1111/ajps.12774,AJPS,The Preference for Reciprocity in Congress,1,0
-EXP136,10.1086/699976,Journal of Political Economy,Predicting Experimental Results: Who Knows What?,7,0
-AJPS056,10.1111/ajps.12775,AJPS,Testing the Benefits of Public Deliberation,1,0
-EXP080,10.1073/pnas.2112726119,Proceedings of the National Academy of Sciences,Experimental evidence of physician social preferences,4,0
-EXP147,10.1086/711410,Journal of Political Economy,Parent-Child Information Frictions and Human Capital Investment: Evidence from a Field Experiment,1,0
-EXP081,10.1073/pnas.2114388118,Proceedings of the National Academy of Sciences,The (minimal) persuasive advantage of political video over text,2,0
-AJPS033,10.1111/ajps.12643,AJPS,Measuring Attitudes toward Public Spending Using a Multivariate Tax Summary Experiment,1,0
-AJPS122,10.1111/ajps.12357,AJPS,How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It,2,0
-EXP208,10.1093/restud/rdaa016,The Review of Economic Studies,Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness,2,0
-AJPS146,10.1111/ajps.12470,AJPS,A Choice-Based Measure of Issue Importance in the Electorate,1,0
-EXP096,10.1073/pnas.2215465120,Proceedings of the National Academy of Sciences,Payments for ecosystem services did not crowd out pro-environmental behavior: Long-term experimental evidence from Uganda,1,0
-P065,10.1017/s0003055423001302,APSR,Testing the Robustness of the ANES Feeling Thermometer Indicators of Affective Polarization,1,0
-EXP031,10.1073/pnas.1804639115,Proceedings of the National Academy of Sciences,Cultural impediments to learning to cooperate: An experimental study of high- and low-caste men in rural India,3,0
-P056,10.1017/s0003055423000953,APSR,Representation from Below: How Women’s Grassroots Party Activism Promotes Equal Political Participation,1,0
-EXP394,10.3982/ecta13683,Econometrica,"Social Networks, Reputation, and Commitment: Evidence From a Savings Monitors Experiment",1,0
-P073,10.1017/s0003055423000370,APSR,Willing but Unable: Reassessing the Relationship between Racial Group Consciousness and Black Political Participation,2,0
-P020,10.1017/s0003055421000940,APSR,Effective for Whom? Ethnic Identity and Nonviolent Resistance,4,0
-P010,10.1017/s0003055423001107,APSR,"Refugee Networks, Cooperation, and Resource Access",2,0
-EXP166,10.1086/730546,Journal of Political Economy,Regulation of Organ Transplantation and Procurement: A Market-Design Lab Experiment,3,0
-AJPS139,10.1111/ajps.12428,AJPS,Non-Governmental Monitoring of Local Governments Increases Compliance with Central Mandates: A National-Scale Field Experiment in China,1,0
-EXP077,10.1073/pnas.2110170118,Proceedings of the National Academy of Sciences,Reduced fertility from better access to contraception may not improve women’s health,0,0
-EXP258,10.1126/science.aau8712,Science,Civic honesty around the globe,4,0
-EXP281,10.1126/science.ads5258,Science,Behaviorally designed training leads to more diverse hiring,1,0
-P139,10.1017/s0003055419000534,APSR,How Empathic Concern Fuels Political Polarization,1,0
-EXP090,10.1073/pnas.2206580119,Proceedings of the National Academy of Sciences,Virtual teams in a gig economy,2,0
-P037,10.1017/s0003055422001071,APSR,Privatizing Financial Protection: Regulatory Feedback and the Politics of Financial Reform,2,0
-AJPS115,10.1111/ajps.12335,AJPS,Leader Influence and Reputation Formation in World Politics,2,0
-EXP099,10.1073/pnas.2218621120,Proceedings of the National Academy of Sciences,Educating for inclusion: Diversity education programs can reduce prejudice toward outgroups in Israel,2,0
-EXP073,10.1073/pnas.2100719119,Proceedings of the National Academy of Sciences,Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale-field experiment in China,1,0
-EXP160,10.1086/725702,Journal of Political Economy,Reserve Prices in Internet Advertising Auctions: A Field Experiment,2,0
-P080,10.1017/s0003055421000332,APSR,Party over Pocketbook? How Party Cues Influence Opinion When Citizens Have a Stake in Policy,1,0
-EXP119,10.1073/pnas.2517067122,Proceedings of the National Academy of Sciences,Using a mental model approach to undercut the effects of exposure to mRNA vaccination misconceptions: Two randomized trials,2,0
-P116,10.1017/s0003055418000035,APSR,"When Do Renters Behave Like Homeowners? High Rent, Price Anxiety, and NIMBYism",1,0
-EXP156,10.1086/720395,Journal of Political Economy,Economic Preferences across Generations and Family Clusters: A Large-Scale Experiment in a Developing Country,0,0
-EXP326,10.1257/aer.20180975,American Economic Review,Misperceived Social Norms: Women Working Outside the Home in Saudi Arabia,4,0
-EXP088,10.1073/pnas.2202657119,Proceedings of the National Academy of Sciences,Sleep preferentially consolidates negative aspects of human memory: Well-powered evidence from two large online experiments,2,0
-AJPS103,10.1111/ajps.12276,AJPS,The Majority-Minority Divide in Attitudes toward Internal Migration: Evidence from Mumbai,1,0
-AJPS042,10.1111/ajps.12707,AJPS,"Boundaries of Solidarity: Immigrants, Economic Contributions, and Welfare Attitudes",4,0
-P149,10.1017/s0003055420000623,APSR,How Much is One American Worth? How Competition Affects Trade Preferences,4,0
-P117,10.1017/s0003055418000151,APSR,Can Social Contact Reduce Prejudice and Discrimination? Evidence from a Field Experiment in Nigeria,3,0
-AJPS067,10.1111/ajps.12832,AJPS,At Any Cost: How Ukrainians Think about Self-Defense Against Russia,2,0
-P082,10.1017/s0003055423001387,APSR,How Experiments Help Campaigns Persuade Voters: Evidence from a Large Archive of Campaigns’ Own Experiments,146,0
-AJPS096,10.1111/ajps.12213,AJPS,"Ideology, Learning, and Policy Diffusion: Experimental Evidence",2,0
-EXP264,10.1126/science.abd3446,Science,Community policing does not build citizen trust in police or reduce crime in the Global South,6,0
-EXP169,10.1086/736212,Journal of Political Economy,Religious Divisions and Production Technology: Experimental Evidence from India,1,0
+paper_id,doi,journal,title,publication_year,scored_experiments,structural_flags
+P100,10.1017/s0003055415000520,APSR,Can Employment Reduce Lawlessness and Rebellion? A Field Experiment with High-Risk Men in a Fragile State,2016,2,0
+P101,10.1017/s000305541600006x,APSR,The Organizational Roots of Political Activism: Field Experiments on Creating a Relational Context,2016,3,0
+P102,10.1017/s000305541600023x,APSR,"Reaching the Individual: EU Accession, NGOs, and Human Rights",2016,1,0
+P103,10.1017/s000305541600040x,APSR,"Turnout, Status, and Identity: Mobilizing Latinos to Vote with Group Appeals",2016,2,0
+P104,10.1017/s0003055416000551,APSR,Do Voters Dislike Working-Class Candidates? Voter Biases and the Descriptive Underrepresentation of the Working Class,2016,3,0
+P105,10.1017/s0003055416000770,APSR,The Behavioral Immune System Shapes Political Intuitions: Why and How Individual Differences in Disgust Sensitivity Underlie Opposition to Immigration,2017,2,0
+P106,10.1017/s000305541700003x,APSR,Voter Registration Costs and Disenfranchisement: Experimental Evidence from France,2017,1,0
+P107,10.1017/s0003055417000119,APSR,Childhood Skill Development and Adult Political Participation,2017,1,0
+P108,10.1017/s0003055417000120,APSR,Testing Social Science Network Theories with Online Network Data: An Evaluation of External Validity,2017,2,0
+P109,10.1017/s000305541700017x,APSR,"Economic Development, Mobility, and Political Discontent: An Experimental Test of Tocqueville’s Thesis in Pakistan",2017,1,0
+P110,10.1017/s0003055417000272,APSR,Policy Uptake as Political Behavior: Evidence from the Affordable Care Act,2017,2,0
+P111,10.1017/s0003055417000314,APSR,Digging into the Pocketbook: Evidence on Economic Voting from Income Registry Data Matched to a Voter Survey,2017,2,0
+P112,10.1017/s0003055417000363,APSR,The Minimal Persuasive Effects of Campaign Contact in General Elections: Evidence from 49 Field Experiments,2018,9,0
+P113,10.1017/s0003055417000478,APSR,Seeing the World Through the Other’s Eye: An Online Intervention Reducing Ethnic Prejudice,2018,1,0
+P114,10.1017/s0003055417000569,APSR,Nonrepresentative Representatives: An Experimental Study of the Decision Making of Elected Politicians,2018,4,0
+P115,10.1017/s0003055417000648,APSR,"Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda",2018,1,0
+P116,10.1017/s0003055418000035,APSR,"When Do Renters Behave Like Homeowners? High Rent, Price Anxiety, and NIMBYism",2018,1,0
+P117,10.1017/s0003055418000151,APSR,Can Social Contact Reduce Prejudice and Discrimination? Evidence from a Field Experiment in Nigeria,2018,3,0
+P118,10.1017/s0003055418000175,APSR,"What Makes a Good Neighbor? Race, Place, and Norms of Political Participation",2018,1,0
+P119,10.1017/s0003055418000217,APSR,The Ties That Double Bind: Social Roles and Women’s Underrepresentation in Politics,2018,3,0
+P120,10.1017/s0003055418000266,APSR,Exclusion and Cooperation in Diverse Societies: Experimental Evidence from Israel,2018,1,0
+P121,10.1017/s0003055418000382,APSR,How Internal Constraints Shape Interest Group Activities: Evidence from Access-Seeking PACs,2018,1,0
+P122,10.1017/s0003055418000473,APSR,On the Limits of Officials’ Ability to Change Citizens’ Priorities: A Field Experiment in Local Politics,2018,2,0
+P123,10.1017/s0003055418000515,APSR,Primaries and Candidate Polarization: Behavioral Theory and Experimental Evidence,2018,3,0
+P124,10.1017/s0003055418000564,APSR,"What Makes a Good Neighbor? Race, Place, and Norms of Political Participation – CORRIGENDUM",2018,1,0
+P125,10.1017/s000305541800059x,APSR,The Informational Theory of Legislative Committees: An Experimental Analysis,2019,2,0
+P126,10.1017/s0003055418000606,APSR,Legislative Staff and Representation in Congress,2019,2,0
+P127,10.1017/s0003055418000679,APSR,Does Private Regulation Preempt Public Regulation?,2019,6,0
+P128,10.1017/s0003055418000710,APSR,Public Attitudes toward Young Immigrant Men,2019,1,0
+P129,10.1017/s000305541800076x,APSR,The Psychology of State Repression: Fear and Dissent Decisions in Zimbabwe,2019,1,0
+P130,10.1017/s0003055418000837,APSR,Demand Effects in Survey Experiments: An Empirical Assessment,2019,10,0
+P131,10.1017/s0003055418000849,APSR,"Participation, Government Legitimacy, and Regulatory Compliance in Emerging Economies: A Firm-Level Field Experiment in Vietnam",2019,2,0
+P132,10.1017/s000305541900008x,APSR,Through the Grapevine: Informational Consequences of Interpersonal Political Communication,2019,2,0
+P133,10.1017/s0003055419000091,APSR,"Information Provision, Voter Coordination, and Electoral Accountability: Evidence from Mexican Social Networks",2019,1,0
+P134,10.1017/s0003055419000121,APSR,Establishing the Rule of Law in Weak and War-torn States: Evidence from a Field Experiment with the Liberian National Police,2019,1,0
+P135,10.1017/s0003055419000418,APSR,Persuading the Enemy: Estimating the Persuasive Effects of Partisan Media with the Preference-Incorporating Choice and Assignment Design,2019,4,0
+P136,10.1017/s0003055419000443,APSR,Concentrated Burdens: How Self-Interest and Partisanship Shape Opinion on Opioid Treatment Policy,2019,2,0
+P137,10.1017/s0003055419000479,APSR,Do Fairer Elections Increase the Responsiveness of Politicians?,2019,2,0
+P138,10.1017/s0003055419000492,APSR,Spatial Voting Meets Spatial Policy Positions: An Experimental Appraisal,2020,1,0
+P139,10.1017/s0003055419000534,APSR,How Empathic Concern Fuels Political Polarization,2020,1,0
+P140,10.1017/s0003055419000716,APSR,Relational State Building in Areas of Limited Statehood: Experimental Evidence on the Attitudes of the Police,2020,2,0
+P141,10.1017/s0003055419000893,APSR,The Desire for Social Status and Economic Conservatism among Affluent Americans,2020,2,0
+P142,10.1017/s0003055419000923,APSR,Reducing Exclusionary Attitudes through Interpersonal Conversation: Evidence from Three Field Experiments,2020,3,0
+P143,10.1017/s0003055420000052,APSR,"Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States",2020,1,0
+P144,10.1017/s0003055420000064,APSR,Public Opinion and Foreign Electoral Intervention,2020,1,0
+P145,10.1017/s0003055420000076,APSR,Does Trust in Government Increase Support for Redistribution? Evidence from Randomized Survey Experiments,2020,5,0
+P146,10.1017/s0003055420000131,APSR,Negativity Biases and Political Ideology: A Comparative Test across 17 Countries,2020,2,0
+P147,10.1017/s0003055420000544,APSR,Which Identity Frames Boost Support for and Mobilization in the #BlackLivesMatter Movement? An Experimental Test,2020,1,0
+P148,10.1017/s000305542000057x,APSR,Can Charter Schools Boost Civic Participation? The Impact of Democracy Prep Public Schools on Voting Behavior,2020,1,0
+P149,10.1017/s0003055420000623,APSR,How Much is One American Worth? How Competition Affects Trade Preferences,2020,4,0
+P084,10.1017/s0003055420001070,APSR,When Are Legislators Responsive to Ethnic Minorities? Testing the Role of Electoral Incentives and Candidate Selection for Mitigating Ethnocentric Responsiveness,2021,1,0
+P063,10.1017/s0003055420001082,APSR,Pride amid Prejudice: The Influence of LGBT+ Rights Activism in a Socially Conservative Society,2021,2,0
+P001,10.1017/s0003055420001094,APSR,Four Costly Signaling Mechanisms,2021,4,0
+P095,10.1017/s0003055420001124,APSR,When Unfamiliarity Breeds Contempt: How Partisan Selective Exposure Sustains Oppositional Media Hostility,2021,4,4
+P064,10.1017/s0003055421000320,APSR,Does the Meeting Style Matter? The Effects of Exposure to Participatory and Deliberative School Board Meetings,2021,1,20
+P080,10.1017/s0003055421000332,APSR,Party over Pocketbook? How Party Cues Influence Opinion When Citizens Have a Stake in Policy,2021,1,0
+P088,10.1017/s0003055421000423,APSR,Can Exposure to Celebrities Reduce Prejudice? The Effect of Mohamed Salah on Islamophobic Behaviors and Attitudes,2021,1,0
+P045,10.1017/s0003055421000459,APSR,Educative Interventions to Combat Misinformation: Evidence from a Field Experiment in India,2021,2,0
+P058,10.1017/s0003055421000587,APSR,Effectiveness of Incumbent’s Strategic Communication during Economic Crisis under Electoral Authoritarianism: Evidence from Turkey,2021,1,0
+P052,10.1017/s0003055421000605,APSR,Reconsidering the Link Between Self-Reported Personality Traits and Political Preferences,2021,2,0
+P089,10.1017/s0003055421000691,APSR,Flight to Safety: COVID-Induced Changes in the Intensity of Status Quo Preference and Voting Behavior,2022,2,1
+P049,10.1017/s0003055421000800,APSR,Do Policy Makers Listen to Experts? Evidence from a National Survey of Local and State Policy Makers,2022,3,0
+P014,10.1017/s0003055421000903,APSR,Public Reactions to Noncompliance with Judicial Orders,2022,3,0
+P020,10.1017/s0003055421000940,APSR,Effective for Whom? Ethnic Identity and Nonviolent Resistance,2022,4,0
+P048,10.1017/s0003055421001052,APSR,Authoritarian Rallying as Reputational Cascade? Evidence from Putin’s Popularity Surge after Crimea,2022,2,0
+P025,10.1017/s0003055421001131,APSR,Group Size and Protest Mobilization across Movements and Countermovements,2022,2,0
+P039,10.1017/s0003055421001143,APSR,"Sovereignty, Substance, and Public Support for European Courts’ Human Rights Rulings",2022,3,0
+P024,10.1017/s0003055421001155,APSR,Ambiguous Platforms and Correlated Preferences: Experimental Evidence,2022,1,0
+P087,10.1017/s0003055421001234,APSR,The Influence of Unknown Media on Public Opinion: Evidence from Local and Foreign News Sources,2022,10,5
+P067,10.1017/s0003055421001349,APSR,“Outside Lobbying” over the Airwaves: A Randomized Field Experiment on Televised Issue Ads,2022,1,0
+P079,10.1017/s0003055421001350,APSR,Changing In-Group Boundaries: The Effect of Immigration on Race Relations in the United States,2022,1,0
+P016,10.1017/s0003055422000119,APSR,Does Competence Make Citizens Tolerate Undemocratic Behavior?,2022,5,0
+P062,10.1017/s0003055422000181,APSR,Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from a Dominant Party Regime,2022,2,0
+P075,10.1017/s0003055422000284,APSR,Preventing Rebel Resurgence after Civil War: A Field Experiment in Security and Justice Provision in Rural Colombia,2022,3,0
+P085,10.1017/s0003055422000351,APSR,The Competing Influence of Policy Content and Political Cues: Cross-Border Evidence from the United States and Canada,2022,5,0
+P057,10.1017/s0003055422000375,APSR,Canvassing the Gatekeepers: A Field Experiment to Increase Women Voters’ Turnout in Pakistan,2023,6,0
+P035,10.1017/s0003055422000417,APSR,Land and Legibility: When Do Citizens Expect Secure Property Rights in Weak States?,2023,1,0
+P018,10.1017/s000305542200051x,APSR,White Americans’ Reactions to Racial Disparities in COVID-19,2023,2,0
+P076,10.1017/s0003055422000545,APSR,Prejudiced When Climbing Up or When Falling Down? Why Some People of Color Express Anti-Black Racism,2023,3,0
+P059,10.1017/s0003055422000582,APSR,"Greed, Envy, and Admiration: The Distinct Nature of Public Opinion about Redistribution from the Rich",2023,1,0
+P012,10.1017/s0003055422000855,APSR,The Domestic Sources of International Reputation,2023,3,0
+P074,10.1017/s0003055422000879,APSR,Can Elections Motivate Responsiveness in a Single-Party Regime? Experimental Evidence from Vietnam,2023,3,0
+P007,10.1017/s0003055422000910,APSR,Misperceptions about Refugee Policy,2023,1,0
+P038,10.1017/s0003055422000946,APSR,Making the List: Reevaluating Political Trust and Social Desirability in China,2023,4,0
+P053,10.1017/s0003055422000971,APSR,"Language, Skin Tone, and Attitudes toward Puerto Rico in the Aftermath of Hurricane Maria",2023,2,0
+P037,10.1017/s0003055422001071,APSR,Privatizing Financial Protection: Regulatory Feedback and the Politics of Financial Reform,2023,2,0
+P021,10.1017/s0003055422001083,APSR,Local News and the Electoral Incentive to Invest in Infrastructure,2023,2,0
+P094,10.1017/s0003055422001484,APSR,"Participation, Development, and Accountability: A Survey Experiment on Democratic Decision-Making in Kenya",2023,1,0
+P046,10.1017/s0003055423000084,APSR,Se Habla Español: Spanish-Language Appeals and Candidate Evaluations in the United States,2024,3,0
+P051,10.1017/s0003055423000217,APSR,The Silenced Text: Field Experiments on Gendered Experiences of Political Participation,2024,2,0
+P027,10.1017/s0003055423000345,APSR,"Imperfect Victims? Civilian Men, Vulnerability, and Policy Preferences",2024,7,0
+P068,10.1017/s0003055423000357,APSR,"Female Representation and Legitimacy: Evidence from a Harmonized Experiment in Jordan, Morocco, and Tunisia",2024,4,3
+P073,10.1017/s0003055423000370,APSR,Willing but Unable: Reassessing the Relationship between Racial Group Consciousness and Black Political Participation,2024,2,0
+P008,10.1017/s000305542300059x,APSR,Regime Support and Gender Quotas in Autocracies,2024,1,0
+P070,10.1017/s0003055423000618,APSR,Endogenous Popularity: How Perceptions of Support Affect the Popularity of Authoritarian Regimes,2024,4,0
+P086,10.1017/s0003055423000667,APSR,What Do Americans Want from (Private) Government? Experimental Evidence Demonstrates that Americans Want Workplace Democracy,2024,3,0
+P066,10.1017/s0003055423000813,APSR,Deliberation and Ethical Voting Behavior: Evidence from a Campaign Experiment in Benin,2024,1,0
+P036,10.1017/s0003055423000849,APSR,Instrumentally Inclusive: The Political Psychology of Homonationalism,2024,2,0
+P056,10.1017/s0003055423000953,APSR,Representation from Below: How Women’s Grassroots Party Activism Promotes Equal Political Participation,2024,1,0
+P002,10.1017/s0003055423000989,APSR,Bloc Voting for Electoral Accountability,2024,1,0
+P017,10.1017/s0003055423001016,APSR,International Rewards for Gender Equality Reforms in Autocracies,2024,4,0
+P042,10.1017/s0003055423001077,APSR,Going Local: Public Attitudes toward Municipal Offices of Immigration Affairs,2024,2,0
+P010,10.1017/s0003055423001107,APSR,"Refugee Networks, Cooperation, and Resource Access",2024,2,0
+P093,10.1017/s0003055423001132,APSR,What Politicians Do Not Know Can Hurt You: The Effects of Information on Politicians’ Spending Decisions,2024,2,0
+P028,10.1017/s000305542300117x,APSR,My History or Our History? Historical Revisionism and Entitlement to Lead,2024,3,2
+P011,10.1017/s0003055423001211,APSR,The Polarizing Effect of Partisan Echo Chambers,2024,1,0
+P005,10.1017/s0003055423001284,APSR,Domestic Distributional Roots of National Interest,2024,3,3
+P065,10.1017/s0003055423001302,APSR,Testing the Robustness of the ANES Feeling Thermometer Indicators of Affective Polarization,2024,1,0
+P023,10.1017/s000305542300134x,APSR,Toxic Speech and Limited Demand for Content Moderation on Social Media,2024,6,0
+P003,10.1017/s0003055423001363,APSR,Can Deliberation Have Lasting Effects?,2024,1,0
+P082,10.1017/s0003055423001387,APSR,How Experiments Help Campaigns Persuade Voters: Evidence from a Large Archive of Campaigns’ Own Experiments,2024,146,0
+P006,10.1017/s0003055423001405,APSR,Bureaucratic Quality and Electoral Accountability,2024,1,0
+P033,10.1017/s0003055423001417,APSR,Selecting Out of “Politics”: The Self-Fulfilling Role of Conflict Expectation,2025,10,147
+P004,10.1017/s0003055423001429,APSR,Measuring and Modeling Neighborhoods,2024,1,0
+P031,10.1017/s0003055423001454,APSR,The Liar’s Dividend: Can Politicians Claim Misinformation to Evade Accountability?,2025,6,2
+P030,10.1017/s0003055424000133,APSR,The Effect of Protesters’ Gender on Public Reactions to Protests and Protest Repression,2025,1,0
+P055,10.1017/s0003055424000182,APSR,"Leaders but Not Authorities? Gender, Veterans, and Messages about National Security",2025,2,0
+P034,10.1017/s0003055424000273,APSR,From Protest to Child-Rearing: How Movement Politics Shape Socialization Priorities,2025,1,0
+P091,10.1017/s0003055424000303,APSR,Reducing Prejudice toward Refugees: Evidence That Social Networks Influence Attitude Change in Uganda,2025,1,0
+P078,10.1017/s0003055424000327,APSR,Muddying the Waters: How Perceived Foreign Interference Affects Public Opinion on Protest Movements,2025,2,0
+P060,10.1017/s0003055424000339,APSR,"I’m from the Government, and I’m Here to Help: Public Perceptions of Coercive State Power",2025,1,0
+P083,10.1017/s0003055424000376,APSR,Bureaucratic Representation and Gender Mainstreaming in International Organizations: Evidence from the World Bank,2025,1,0
+P043,10.1017/s000305542400042x,APSR,"Legacies of Wartime Sexual Violence: Survivors, Psychological Harms, and Mobilization",2025,1,0
+P015,10.1017/s0003055424000443,APSR,Varieties of Values: Moral Values Are Uniquely Divisive,2025,2,0
+P096,10.1017/s0003055424000492,APSR,Liberals and Conservatives Rely on Very Similar Sets of Foundations When Comparing Moral Violations,2025,3,0
+P077,10.1017/s0003055424000522,APSR,Conditional Enfranchisement: How Partisanship Determines Support for Noncitizen Voting Rights,2025,2,0
+P040,10.1017/s0003055424000649,APSR,Can Party Elites Shape the Rank and File? Evidence from a Recruitment Campaign in India,2025,1,0
+P047,10.1017/s0003055424000753,APSR,Geo-Political Rivalry and Anti-Immigrant Sentiment: A Conjoint Experiment in 22 Countries,2025,22,0
+P032,10.1017/s0003055424000789,APSR,Out-Competing Rivals: Armed Group Governance and Civilian Attitudes in Colombia,2025,1,0
+P029,10.1017/s0003055424000807,APSR,The Influence of Partisanship on Assessments of Promise Fulfillment and Accountability,2025,2,0
+P071,10.1017/s0003055424000819,APSR,Confronting Core Issues: A Critical Assessment of Attitude Polarization Using Tailored Experiments,2025,5,0
+P019,10.1017/s0003055424000923,APSR,Who Hosts? The Correlates of Hosting the Internally Displaced,2025,1,0
+P050,10.1017/s0003055424000996,APSR,Legitimize or Delegitimize? Mainstream Party Strategy toward (Former) Pariah Parties and How Voters Respond,2025,2,0
+P092,10.1017/s0003055424001205,APSR,Gendered Perceptions and the Costs of Political Toxicity: Experimental Evidence from Politicians and Citizens in Four Democracies,2025,4,0
+P069,10.1017/s0003055424001217,APSR,Partisans of Color: Asian American and Latino Party ID in an Era of Racialization and Polarization,2025,4,2
+P081,10.1017/s0003055424001394,APSR,"Sustaining Exposure to Fact-Checks: Misinformation Discernment, Media Consumption, and Its Political Implications",2025,2,0
+P090,10.1017/s0003055425000012,APSR,Fairness According to Whom? Divergent Perceptions of Fairness among White and Black Americans and Its Effect on Trade Attitudes,2025,1,0
+P041,10.1017/s0003055425000097,APSR,White Democrats’ Growing Support for Black Politicians in the Era of the “Great Awokening”,2025,42,0
+P013,10.1017/s0003055425000176,APSR,Electoral Gender Quotas and Democratic Legitimacy,2025,12,0
+P009,10.1017/s0003055425000255,APSR,A New Measure of Affective Polarization,2025,1,0
+P054,10.1017/s0003055425100774,APSR,Marketing Taxation? Experimental Evidence on Enforcement and Bargaining in Malawian Markets,2025,3,0
+P022,10.1017/s0003055425100841,APSR,State Legitimacy and Sector-Level Claim-Making: Evidence from East Jerusalem,2025,1,0
+P026,10.1017/s0003055425100877,APSR,Smoke and Mirrors: Strategic Messaging and the Politics of Noncompliance,2025,3,0
+P072,10.1017/s0003055425100889,APSR,Institutional Recognition: Activating Representation to Build Police Responsiveness to Women,2025,1,0
+P061,10.1017/s0003055425100919,APSR,What Happens When You Can’t Check the Box? Categorization Threat and Public Opinion among Middle Eastern and North African Americans,2025,2,0
+P044,10.1017/s0003055425101184,APSR,Countering Misinformation Early: Evidence from a Classroom-Based Field Experiment in India,2025,2,0
+P097,10.1017/s0003055425101251,APSR,"Demand and Supply of Criminal Governance: Experimental Evidence from Mexico, Honduras, Guatemala, and El Salvador",2025,12,0
+EXP002,10.1038/nature22332,Nature,Locally noisy autonomous agents improve global human coordination in network experiments,2017,2,0
+EXP007,10.1038/s41586-021-04128-4,Nature,Megastudies improve the impact of applied behavioural science,2021,4,0
+EXP013,10.1073/pnas.1509740113,Proceedings of the National Academy of Sciences,Conditional cooperation and confusion in public-goods experiments,2016,2,0
+EXP014,10.1073/pnas.1510501113,Proceedings of the National Academy of Sciences,Quantity discounts on a virtual good: The results of a massive pricing experiment at King Digital Entertainment,2016,1,0
+EXP015,10.1073/pnas.1511273113,Proceedings of the National Academy of Sciences,Expert Game experiment predicts emergence of trust in professional communication networks,2016,3,0
+EXP017,10.1073/pnas.1514483113,Proceedings of the National Academy of Sciences,Changing climates of conflict: A social network experiment in 56 schools,2016,1,0
+EXP018,10.1073/pnas.1610902114,Proceedings of the National Academy of Sciences,An experimental analysis of acquired impulse control among adult humans intolerant to alcohol,2017,2,0
+EXP019,10.1073/pnas.1611898114,Proceedings of the National Academy of Sciences,Eight-minute self-regulation intervention raises educational attainment at scale in individualist but not collectivist cultures,2017,2,0
+EXP020,10.1073/pnas.1706541114,Proceedings of the National Academy of Sciences,Buying time promotes happiness,2017,1,0
+EXP021,10.1073/pnas.1706800115,Proceedings of the National Academy of Sciences,Testing the impact and durability of a group malleability intervention in the context of the Israeli–Palestinian conflict,2018,1,0
+EXP023,10.1073/pnas.1710966114,Proceedings of the National Academy of Sciences,Psychological targeting as an effective approach to digital mass persuasion,2017,3,0
+EXP024,10.1073/pnas.1714171115,Proceedings of the National Academy of Sciences,Communication in context: Interpreting promises in an experiment on competition and trust,2018,2,0
+EXP025,10.1073/pnas.1714254115,Proceedings of the National Academy of Sciences,A randomized controlled design reveals barriers to citizenship for low-income immigrants,2018,2,0
+EXP028,10.1073/pnas.1718503115,Proceedings of the National Academy of Sciences,"Citywide cluster randomized trial to restore blighted vacant land and its effects on violence, crime, and fear",2018,1,0
+EXP029,10.1073/pnas.1722306115,Proceedings of the National Academy of Sciences,SMS texts on corruption help Ugandan voters hold elected councillors accountable at the polls,2018,1,0
+EXP031,10.1073/pnas.1804639115,Proceedings of the National Academy of Sciences,Cultural impediments to learning to cooperate: An experimental study of high- and low-caste men in rural India,2018,3,0
+EXP032,10.1073/pnas.1804698115,Proceedings of the National Academy of Sciences,Diverse segments of the US public underestimate the environmental concerns of minority and low-income Americans,2018,2,0
+EXP033,10.1073/pnas.1804840115,Proceedings of the National Academy of Sciences,Exposure to opposing views on social media can increase political polarization,2018,2,0
+EXP034,10.1073/pnas.1805450115,Proceedings of the National Academy of Sciences,Serious games may improve physician heuristics in trauma triage,2018,1,0
+EXP035,10.1073/pnas.1808336116,Proceedings of the National Academy of Sciences,Measuring the impact of interaction between children of a matrilineal and a patriarchal culture on gender differences in risk aversion,2019,1,0
+EXP036,10.1073/pnas.1808589116,Proceedings of the National Academy of Sciences,Reducing socioeconomic disparities in the STEM pipeline through student emotion regulation,2019,1,0
+EXP037,10.1073/pnas.1808827116,Proceedings of the National Academy of Sciences,Experimental evidence on promotion of electric and improved biomass cookstoves,2019,1,0
+EXP038,10.1073/pnas.1809145116,Proceedings of the National Academy of Sciences,"Long-term effects of institutional rearing, foster care, and brain activity on memory and executive functioning",2019,1,0
+EXP039,10.1073/pnas.1813486116,Proceedings of the National Academy of Sciences,"Preventing harassment and increasing group participation through social norms in 2,190 online science discussions",2019,1,0
+EXP040,10.1073/pnas.1813588116,Proceedings of the National Academy of Sciences,Mindfulness training reduces loneliness and increases social contact in a randomized controlled trial,2019,1,0
+EXP041,10.1073/pnas.1814773116,Proceedings of the National Academy of Sciences,A randomized control trial evaluating the effects of police body-worn cameras,2019,1,0
+EXP042,10.1073/pnas.1816076116,Proceedings of the National Academy of Sciences,The mixed effects of online diversity training,2019,2,0
+EXP044,10.1073/pnas.1819934117,Proceedings of the National Academy of Sciences,Market integration accounts for local variation in generalized altruism in a nationwide lost-letter experiment,2020,1,0
+EXP045,10.1073/pnas.1820701116,Proceedings of the National Academy of Sciences,Objecting to experiments that compare two unobjectionable policies or treatments,2019,16,0
+EXP046,10.1073/pnas.1908779116,Proceedings of the National Academy of Sciences,A large-scale field experiment shows giving advice improves academic outcomes for the advisor,2019,1,0
+EXP047,10.1073/pnas.1909827116,Proceedings of the National Academy of Sciences,Efficient team structures in an open-ended cooperative creativity experiment,2019,0,0
+EXP048,10.1073/pnas.1910157116,Proceedings of the National Academy of Sciences,A field experiment on community policing and police legitimacy,2019,1,0
+EXP050,10.1073/pnas.1919646117,Proceedings of the National Academy of Sciences,Asking young children to “do science” instead of “be scientists” increases science engagement in a randomized field experiment,2020,1,0
+EXP052,10.1073/pnas.1921653117,Proceedings of the National Academy of Sciences,Parent coaching increases conversational turns and advances infant language development,2020,1,0
+EXP053,10.1073/pnas.2000065117,Proceedings of the National Academy of Sciences,Forgoing earned incentives to signal pure motives,2020,3,0
+EXP054,10.1073/pnas.2004428117,Proceedings of the National Academy of Sciences,Field experimental evidence shows that self-interest attracts more sunlight,2020,1,0
+EXP055,10.1073/pnas.2007230117,Proceedings of the National Academy of Sciences,Voluntary leadership and the emergence of institutions for self-governance,2020,0,0
+EXP056,10.1073/pnas.2009030117,Proceedings of the National Academy of Sciences,Objecting to experiments even while approving of the policies or treatments they compare,2020,5,0
+EXP057,10.1073/pnas.2009086118,Proceedings of the National Academy of Sciences,Using random assignment to measure court accessibility for low-income divorce seekers,2021,1,0
+EXP058,10.1073/pnas.2013464118,Proceedings of the National Academy of Sciences,The consequences of online partisan media,2021,1,0
+EXP059,10.1073/pnas.2014893118,Proceedings of the National Academy of Sciences,Predicting social tipping and norm change in controlled experiments,2021,1,0
+EXP060,10.1073/pnas.2015169118,Proceedings of the National Academy of Sciences,Citizen monitoring promotes informed and inclusive forest governance in Liberia,2021,1,0
+EXP061,10.1073/pnas.2015171118,Proceedings of the National Academy of Sciences,Satellite-based deforestation alerts with training and incentives for patrolling facilitate community monitoring in the Peruvian Amazon,2021,1,0
+EXP062,10.1073/pnas.2015172118,Proceedings of the National Academy of Sciences,Can community monitoring save the commons? Evidence on forest use and displacement,2021,1,0
+EXP063,10.1073/pnas.2015174118,Proceedings of the National Academy of Sciences,Understanding uptake of community groundwater monitoring in rural Brazil,2021,1,0
+EXP064,10.1073/pnas.2015367118,Proceedings of the National Academy of Sciences,Adoption of community monitoring improves common pool resource management across contexts,2021,6,0
+EXP065,10.1073/pnas.2016234117,Proceedings of the National Academy of Sciences,The Fast Track intervention’s impact on behaviors of despair in adolescence and young adulthood,2020,1,0
+EXP066,10.1073/pnas.2017548118,Proceedings of the National Academy of Sciences,Changing personality traits with the help of a digital personality change intervention,2021,1,0
+EXP067,10.1073/pnas.2018036118,Proceedings of the National Academy of Sciences,A scalable empathic supervision intervention to mitigate recidivism from probation and parole,2021,1,0
+EXP068,10.1073/pnas.2021022118,Proceedings of the National Academy of Sciences,Results from a 2020 field experiment encouraging voting by mail,2021,2,0
+EXP069,10.1073/pnas.2022761118,Proceedings of the National Academy of Sciences,Shared partisanship dramatically increases social tie formation in a Twitter field experiment,2021,1,0
+EXP070,10.1073/pnas.2022819118,Proceedings of the National Academy of Sciences,Testing the effects of Facebook usage in an ethnically polarized setting,2021,1,0
+EXP073,10.1073/pnas.2100719119,Proceedings of the National Academy of Sciences,Encouraging the resumption of economic activity after COVID-19: Evidence from a large scale-field experiment in China,2022,1,0
+EXP074,10.1073/pnas.2102794118,Proceedings of the National Academy of Sciences,Poverty-related bandwidth constraints reduce the value of consumption,2021,3,0
+EXP075,10.1073/pnas.2106357118,Proceedings of the National Academy of Sciences,Psychological ownership interventions increase interest in claiming government benefits,2021,6,0
+EXP076,10.1073/pnas.2109648118,Proceedings of the National Academy of Sciences,"In high school math, more instructional time helps, but the tracking dilemma remains",2021,0,0
+EXP077,10.1073/pnas.2110170118,Proceedings of the National Academy of Sciences,Reduced fertility from better access to contraception may not improve women’s health,2021,0,0
+EXP079,10.1073/pnas.2111091119,Proceedings of the National Academy of Sciences,A global experiment on motivating social distancing during the COVID-19 pandemic,2022,1,0
+EXP080,10.1073/pnas.2112726119,Proceedings of the National Academy of Sciences,Experimental evidence of physician social preferences,2022,4,0
+EXP081,10.1073/pnas.2114388118,Proceedings of the National Academy of Sciences,The (minimal) persuasive advantage of political video over text,2021,2,0
+EXP082,10.1073/pnas.2115649119,Proceedings of the National Academy of Sciences,The impact of a poverty reduction intervention on infant brain activity,2022,1,0
+EXP085,10.1073/pnas.2116310118,Proceedings of the National Academy of Sciences,Empathy-based counterspeech can reduce racist hate speech in a social media field experiment,2021,1,0
+EXP086,10.1073/pnas.2118780119,Proceedings of the National Academy of Sciences,Reforming the police through procedural justice training: A multicity randomized trial at crime hot spots,2022,2,0
+EXP087,10.1073/pnas.2120742119,Proceedings of the National Academy of Sciences,Algorithms for seeding social networks can enhance the adoption of a public health intervention in urban India,2022,1,0
+EXP088,10.1073/pnas.2202657119,Proceedings of the National Academy of Sciences,Sleep preferentially consolidates negative aspects of human memory: Well-powered evidence from two large online experiments,2022,2,0
+EXP089,10.1073/pnas.2204460119,Proceedings of the National Academy of Sciences,The streak-end rule: How past experiences shape decisions about future behaviors in a large-scale natural field experiment with volunteer crisis counselors,2022,1,0
+EXP090,10.1073/pnas.2206580119,Proceedings of the National Academy of Sciences,Virtual teams in a gig economy,2022,2,0
+EXP091,10.1073/pnas.2208871120,Proceedings of the National Academy of Sciences,Languages and future-oriented economic behavior—Experimental evidence for causal effects,2023,3,0
+EXP092,10.1073/pnas.2210704120,Proceedings of the National Academy of Sciences,A values-aligned intervention fosters growth mindset-supportive teaching and reduces inequality in educational outcomes,2023,1,0
+EXP094,10.1073/pnas.2213114120,Proceedings of the National Academy of Sciences,Directing smartphone use through the self-nudge app one sec,2023,1,0
+EXP095,10.1073/pnas.2213824120,Proceedings of the National Academy of Sciences,Unraveling controversies over civic honesty measurement: An extended field replication in China,2023,1,0
+EXP096,10.1073/pnas.2215465120,Proceedings of the National Academy of Sciences,Payments for ecosystem services did not crowd out pro-environmental behavior: Long-term experimental evidence from Uganda,2023,1,0
+EXP097,10.1073/pnas.2215572120,Proceedings of the National Academy of Sciences,Competition and moral behavior: A meta-analysis of forty-five crowd-sourced experimental designs,2023,45,0
+EXP099,10.1073/pnas.2218621120,Proceedings of the National Academy of Sciences,Educating for inclusion: Diversity education programs can reduce prejudice toward outgroups in Israel,2023,2,0
+EXP100,10.1073/pnas.2304882120,Proceedings of the National Academy of Sciences,How contact can promote societal change amid conflict: An intergroup contact field experiment in Nigeria,2023,3,0
+EXP101,10.1073/pnas.2306287121,Proceedings of the National Academy of Sciences,Residential mobility and persistently depressed voting among disadvantaged adults in a large housing experiment,2024,1,0
+EXP102,10.1073/pnas.2307804120,Proceedings of the National Academy of Sciences,Emergence and collapse of reciprocity in semiautomatic driving coordination experiments with humans,2023,2,0
+EXP103,10.1073/pnas.2308129120,Proceedings of the National Academy of Sciences,Crowdsourcing as a tool for creating effective nudges: An example for financial oversubscription,2023,1,0
+EXP106,10.1073/pnas.2318127122,Proceedings of the National Academy of Sciences,Short-term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments on YouTube,2025,5,0
+EXP107,10.1073/pnas.2320603121,Proceedings of the National Academy of Sciences,A randomized trial of behavioral interventions yielding sustained reductions in distracted driving,2024,1,0
+EXP108,10.1073/pnas.2321078121,Proceedings of the National Academy of Sciences,Effect of a cash transfer intervention on memory decline and dementia probability in older adults in rural South Africa,2024,1,0
+EXP109,10.1073/pnas.2322764121,Proceedings of the National Academy of Sciences,"People who share encounters with racism are silenced online by humans and machines, but a guideline-reframing intervention holds promise",2024,2,0
+EXP111,10.1073/pnas.2411740121,Proceedings of the National Academy of Sciences,Household reduction of gas consumption in the energy crisis is not explained by individual economic incentives,2024,3,0
+EXP112,10.1073/pnas.2415066121,Proceedings of the National Academy of Sciences,The long-term impact of debt relief for indigent defendants in a misdemeanor court,2024,1,0
+EXP113,10.1073/pnas.2416708122,Proceedings of the National Academy of Sciences,Behavioral nudges prevent loan delinquencies at scale: A 13-million-person field experiment,2025,1,0
+EXP115,10.1073/pnas.2421982122,Proceedings of the National Academy of Sciences,Listen for a change? A longitudinal field experiment on listening’s potential to enhance persuasion,2025,1,0
+EXP116,10.1073/pnas.2505694122,Proceedings of the National Academy of Sciences,How culturally wise psychological interventions can help reduce poverty,2025,3,0
+EXP117,10.1073/pnas.2506130122,Proceedings of the National Academy of Sciences,A national randomized controlled trial of the impact of public Montessori preschool at the end of kindergarten,2025,1,0
+EXP118,10.1073/pnas.2508519122,Proceedings of the National Academy of Sciences,Investigating the effects of single-dose intranasal testosterone on economic preferences in a large randomized trial of men,2025,1,0
+EXP119,10.1073/pnas.2517067122,Proceedings of the National Academy of Sciences,Using a mental model approach to undercut the effects of exposure to mRNA vaccination misconceptions: Two randomized trials,2025,2,0
+EXP124,10.1086/685299,Journal of Political Economy,Self-Targeting: Evidence from a Field Experiment in Indonesia,2016,2,0
+EXP129,10.1086/691703,Journal of Political Economy,"Avoiding the Ask: A Field Experiment on Altruism, Empathy, and Charitable Giving",2017,1,0
+EXP136,10.1086/699976,Journal of Political Economy,Predicting Experimental Results: Who Knows What?,2018,7,0
+EXP137,10.1086/700734,Journal of Political Economy,Private Outsourcing and Competition: Subsidized Food Distribution in Indonesia,2019,4,0
+EXP138,10.1086/701029,Journal of Political Economy,Is It Harder for Older Workers to Find Jobs? New and Improved Evidence from a Field Experiment,2019,1,0
+EXP141,10.1086/702238,Journal of Political Economy,The Value of Medicaid: Interpreting Results from the Oregon Health Insurance Experiment,2019,1,0
+EXP144,10.1086/705417,Journal of Political Economy,Experimental Evidence on the Economics of Rural Electrification,2020,3,3
+EXP146,10.1086/707025,Journal of Political Economy,Improving College Instruction through Incentives,2020,2,0
+EXP147,10.1086/711410,Journal of Political Economy,Parent-Child Information Frictions and Human Capital Investment: Evidence from a Field Experiment,2021,1,0
+EXP148,10.1086/712445,Journal of Political Economy,An Experimental Investigation of Price Dispersion and Cycles,2021,3,0
+EXP156,10.1086/720395,Journal of Political Economy,Economic Preferences across Generations and Family Clusters: A Large-Scale Experiment in a Developing Country,2022,0,0
+EXP159,10.1086/725174,Journal of Political Economy,Experimental Tests of Rational Inattention,2023,9,1
+EXP160,10.1086/725702,Journal of Political Economy,Reserve Prices in Internet Advertising Auctions: A Field Experiment,2023,2,0
+EXP161,10.1086/726237,Journal of Political Economy,Investing with the Government: A Field Experiment in China,2024,2,0
+EXP166,10.1086/730546,Journal of Political Economy,Regulation of Organ Transplantation and Procurement: A Market-Design Lab Experiment,2024,3,0
+EXP167,10.1086/731409,Journal of Political Economy,Detecting Drivers of Behavior at an Early Age: Evidence from a Longitudinal Field Experiment,2024,1,0
+EXP169,10.1086/736212,Journal of Political Economy,Religious Divisions and Production Technology: Experimental Evidence from India,2025,1,0
+EXP177,10.1093/qje/qjac021,The Quarterly Journal of Economics,Price Discrimination by Negotiation: A Field Experiment in Retail Electricity,2022,1,0
+EXP178,10.1093/qje/qjac025,The Quarterly Journal of Economics,Predictable Effects of Visual Salience in Experimental Decisions and Games,2022,8,0
+EXP192,10.1093/qje/qjw033,The Quarterly Journal of Economics,"Thinking, Fast and Slow? Some Field Experiments to Reduce Crime and Dropout in Chicago",2017,4,0
+EXP193,10.1093/qje/qjx002,The Quarterly Journal of Economics,Exporting and Firm Performance: Evidence from a Randomized Experiment,2017,2,0
+EXP198,10.1093/qje/qjx040,The Quarterly Journal of Economics,Double for Nothing? Experimental Evidence on an Unconditional Teacher Salary Increase in Indonesia,2018,1,0
+EXP200,10.1093/qje/qjy023,The Quarterly Journal of Economics,Moral Hazard: Experimental Evidence from Tenancy Contracts,2019,1,0
+EXP202,10.1093/qje/qjz002,The Quarterly Journal of Economics,Protests as Strategic Games: Experimental Evidence from Hong Kong’s Antiauthoritarian Movement,2019,3,0
+EXP204,10.1093/qje/qjz010,The Quarterly Journal of Economics,"Inputs, Incentives, and Complementarities in Education: Experimental Evidence from Tanzania",2019,1,0
+EXP206,10.1093/qje/qjz018,The Quarterly Journal of Economics,Liquidity Affects Job Choice: Evidence from Teach For America,2019,6,0
+EXP208,10.1093/restud/rdaa016,The Review of Economic Studies,Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness,2021,2,0
+EXP210,10.1093/restud/rdab005,The Review of Economic Studies,Improving Management with Individual and Group-Based Consulting: Results from a Randomized Experiment in Colombia,2022,1,0
+EXP211,10.1093/restud/rdab018,The Review of Economic Studies,Default Effects And Follow-On Behaviour: Evidence From An Electricity Pricing Program,2021,2,0
+EXP212,10.1093/restud/rdab021,The Review of Economic Studies,Migration and Informal Insurance: Evidence from a Randomized Controlled Trial and a Structural Model,2022,3,0
+EXP229,10.1093/restud/rdw018,The Review of Economic Studies,Electoral Rules and Political Selection: Theory and Evidence from a Field Experiment in Afghanistan,2016,1,0
+EXP230,10.1093/restud/rdw045,The Review of Economic Studies,Ability Peer Effects in University: Evidence from a Randomized Experiment,2016,3,0
+EXP232,10.1093/restud/rdy019,The Review of Economic Studies,An Experiment on Time Preference and Misprediction in Unpleasant Tasks,2019,4,0
+EXP233,10.1093/restud/rdy026,The Review of Economic Studies,Cool to be Smart or Smart to be Cool? Understanding Peer Pressure in Education,2019,2,0
+EXP234,10.1093/restud/rdy035,The Review of Economic Studies,An Experimental Test of the Lucas Asset Pricing Model,2019,2,0
+EXP235,10.1093/restud/rdy038,The Review of Economic Studies,Home Price Expectations and Behaviour: Evidence from a Randomized Information Experiment,2019,2,0
+EXP236,10.1093/restud/rdy039,The Review of Economic Studies,Social Learning and Incentives for Experimentation and Communication,2019,1,0
+EXP237,10.1093/restud/rdy046,The Review of Economic Studies,Long-Run Price Elasticities of Demand for Credit: Evidence from a Countrywide Field Experiment in Mexico,2019,2,0
+EXP241,10.1093/restud/rdz030,The Review of Economic Studies,Dynamic Inconsistency in Food Choice: Experimental Evidence from Two Food Deserts,2020,1,0
+EXP242,10.1093/restud/rdz053,The Review of Economic Studies,Does Advertising Serve as a Signal? Evidence from a Field Experiment in Mobile Search,2020,2,0
+AJPS088,10.1111/ajps.12181,AJPS,Opinion Backlash and Public Attitudes: Are Political Advances in Gay Rights Counterproductive?,2016,2,0
+AJPS089,10.1111/ajps.12186,AJPS,Greater Expectations: A Field Experiment to Improve Accountability in Mali,2016,3,0
+AJPS090,10.1111/ajps.12201,AJPS,Decomposing Audience Costs: Bringing the Audience Back into Audience Cost Theory,2016,2,0
+AJPS091,10.1111/ajps.12203,AJPS,When Are Monetary Policy Preferences Egocentric? Evidence from American Surveys and an Experiment,2017,2,0
+AJPS092,10.1111/ajps.12205,AJPS,An Empirical Validation Study of Popular Survey Methodologies for Sensitive Questions,2016,5,0
+AJPS093,10.1111/ajps.12206,AJPS,How Politicians Discount the Opinions of Constituents with Whom They Disagree,2016,3,0
+AJPS094,10.1111/ajps.12207,AJPS,Sources of Authoritarian Responsiveness: A Field Experiment in China,2016,1,0
+AJPS095,10.1111/ajps.12209,AJPS,"Policy Attitudes in Institutional Context: Rules, Uncertainty, and the Mass Politics of Public Investment",2017,5,0
+AJPS096,10.1111/ajps.12213,AJPS,"Ideology, Learning, and Policy Diffusion: Experimental Evidence",2017,2,0
+AJPS097,10.1111/ajps.12228,AJPS,Preaching to the Choir: Americans Prefer Communicating to Copartisan Elected Officials,2016,4,0
+AJPS098,10.1111/ajps.12243,AJPS,The Causal Effects of Elite Position-Taking on Voter Attitudes: Field Experiments with Elite Communication,2017,2,0
+AJPS099,10.1111/ajps.12251,AJPS,The Deservingness Heuristic and the Politics of Health Care,2017,4,3
+AJPS100,10.1111/ajps.12252,AJPS,Does Race Affect Access to Government Services? An Experiment Exploring Street-Level Bureaucrats and Access to Public Housing,2017,1,0
+AJPS101,10.1111/ajps.12262,AJPS,Constitutional Qualms or Politics as Usual? The Factors Shaping Public Support for Unilateral Action,2016,5,0
+AJPS102,10.1111/ajps.12270,AJPS,All in the Family: Partisan Disagreement and Electoral Mobilization in Intimate Networks—A Spillover Experiment,2017,1,0
+AJPS103,10.1111/ajps.12276,AJPS,The Majority-Minority Divide in Attitudes toward Internal Migration: Evidence from Mumbai,2017,1,0
+AJPS104,10.1111/ajps.12282,AJPS,Ethnic Networks,2016,1,0
+AJPS105,10.1111/ajps.12286,AJPS,Racial Inequality in Democratic Accountability: Evidence from Retrospective Voting in Local Elections,2017,2,0
+AJPS106,10.1111/ajps.12290,AJPS,Language Shapes People’s Time Perspective and Support for Future-Oriented Policies,2017,1,0
+AJPS107,10.1111/ajps.12298,AJPS,Mobilizing the Public Against the President: Congress and the Political Costs of Unilateral Action,2017,5,0
+AJPS108,10.1111/ajps.12300,AJPS,How to Elect More Women: Gender and Candidate Success in a Field Experiment,2017,2,0
+AJPS109,10.1111/ajps.12307,AJPS,How Do Indifferent Voters Decide? The Political Importance of Implicit Attitudes,2017,2,0
+AJPS110,10.1111/ajps.12312,AJPS,Multiple Dimensions of Bureaucratic Discrimination: Evidence from German Welfare Offices,2017,1,0
+AJPS111,10.1111/ajps.12314,AJPS,A Bottom-Up Theory of Public Opinion about Foreign Policy,2017,5,0
+AJPS112,10.1111/ajps.12315,AJPS,Do Rural Migrants Divide Ethnically in the City? Evidence from an Ethnographic Experiment in India,2017,9,0
+AJPS113,10.1111/ajps.12329,AJPS,How the Public Defines Terrorism,2018,1,0
+AJPS114,10.1111/ajps.12330,AJPS,The Economic Consequences of Partisanship in a Polarized Era,2018,8,4
+AJPS115,10.1111/ajps.12335,AJPS,Leader Influence and Reputation Formation in World Politics,2018,2,0
+AJPS116,10.1111/ajps.12340,AJPS,The Public Cost of Unilateral Action,2018,3,0
+AJPS117,10.1111/ajps.12346,AJPS,Making Austerity Popular: The Media and Mass Attitudes toward Fiscal Policy,2018,2,2
+AJPS118,10.1111/ajps.12348,AJPS,Sectarian Framing in the Syrian Civil War,2018,2,0
+AJPS119,10.1111/ajps.12349,AJPS,Partisan Elites as Culprits? How Party Cues Shape Partisan Perceptual Gaps,2018,2,0
+AJPS120,10.1111/ajps.12350,AJPS,"Disgust, Anxiety, and Political Learning in the Face of Threat",2018,5,0
+AJPS121,10.1111/ajps.12354,AJPS,"Tell Me Who Is Your Leader, and I Will Tell You Who You Are: Foreign Leaders’ Perceived Personality and Public Attitudes toward Their Countries and Citizenry",2018,5,0
+AJPS122,10.1111/ajps.12357,AJPS,How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It,2018,2,0
+AJPS123,10.1111/ajps.12360,AJPS,Encouraging Political Voices of Underrepresented Citizens through Coproduction: Evidence from a Randomized Field Trial,2018,1,0
+AJPS124,10.1111/ajps.12362,AJPS,International Constraints and Electoral Decisions: Does the Room to Maneuver Attenuate Economic Voting?,2018,1,0
+AJPS125,10.1111/ajps.12365,AJPS,Putting Politics First: The Impact of Politics on American Religious and Secular Orientations,2018,1,0
+AJPS126,10.1111/ajps.12366,AJPS,When Common Identities Decrease Trust: An Experimental Study of Partisan Women,2018,2,0
+AJPS127,10.1111/ajps.12370,AJPS,Chains of Love? Global Production and the Firm-Level Diffusion of Labor Standards,2018,1,0
+AJPS128,10.1111/ajps.12371,AJPS,"Prejudice, Strategic Discrimination, and the Electoral Connection: Evidence from a Pair of Field Experiments in Brazil",2018,2,0
+AJPS129,10.1111/ajps.12391,AJPS,All Male Panels? Representation and Democratic Legitimacy,2019,7,0
+AJPS130,10.1111/ajps.12392,AJPS,"Hawks, Doves, and Peace: An Experimental Approach",2019,4,0
+AJPS131,10.1111/ajps.12396,AJPS,No Harm in Checking: Using Factual Manipulation Checks to Assess Attentiveness in Experiments,2019,5,0
+AJPS132,10.1111/ajps.12401,AJPS,Racial or Spatial Voting? The Effects of Candidate Ethnicity and Ethnic Group Endorsements in Local Elections,2019,2,0
+AJPS133,10.1111/ajps.12404,AJPS,"Urbanization Patterns, Information Diffusion, and Female Voting in Rural Paraguay",2019,1,0
+AJPS134,10.1111/ajps.12408,AJPS,Predispositions and the Political Behavior of American Economic Elites: Evidence from Technology Entrepreneurs,2019,3,0
+AJPS135,10.1111/ajps.12410,AJPS,The Effectiveness of a Racialized Counterstrategy,2019,3,0
+AJPS136,10.1111/ajps.12413,AJPS,Norms versus Action: Why Voters Fail to Sanction Malfeasance in Brazil,2019,3,0
+AJPS137,10.1111/ajps.12416,AJPS,"Violence, Nonviolence, and the Effects of International Human Rights Law",2019,6,0
+AJPS138,10.1111/ajps.12419,AJPS,"Of Two Minds, But One Heart: A Good “Gut” Feeling Moderates the Effect of Ambivalence on Attitude Formation and Turnout",2019,2,0
+AJPS139,10.1111/ajps.12428,AJPS,Non-Governmental Monitoring of Local Governments Increases Compliance with Central Mandates: A National-Scale Field Experiment in China,2019,1,0
+AJPS140,10.1111/ajps.12430,AJPS,On the Meaning of Survey Reports of Roll-Call “Votes”,2019,4,0
+AJPS141,10.1111/ajps.12432,AJPS,How Getting the Facts Right Can Fuel Partisan-Motivated Reasoning,2019,4,0
+AJPS142,10.1111/ajps.12441,AJPS,Committed or Conditional Democrats? Opposition Dynamics in Electoral Autocracies,2019,1,0
+AJPS143,10.1111/ajps.12447,AJPS,Poverty and Divine Rewards: The Electoral Advantage of Islamist Political Parties,2019,3,0
+AJPS144,10.1111/ajps.12458,AJPS,The Moderating Effect of Debates on Political Attitudes,2020,1,0
+AJPS145,10.1111/ajps.12468,AJPS,"Cultivating Clients: Reputation, Responsiveness, and Ethnic Indifference in India’s Slums",2020,2,0
+AJPS146,10.1111/ajps.12470,AJPS,A Choice-Based Measure of Issue Importance in the Electorate,2020,1,0
+AJPS147,10.1111/ajps.12476,AJPS,The Mobilizing Effect of Parties’ Moral Rhetoric,2020,4,0
+AJPS148,10.1111/ajps.12479,AJPS,Universal Love or One True Religion? Experimental Evidence of the Ambivalent Effect of Religious Ideas on Altruism and Discrimination,2020,2,0
+AJPS149,10.1111/ajps.12481,AJPS,Moderation and Competence: How a Party’s Ideological Position Shapes Its Valence Reputation,2020,1,0
+AJPS150,10.1111/ajps.12490,AJPS,Online Tallies and the Context of Politics: How Online Tallies Make Dominant Candidates Appear Competent in Contexts of Conflict,2020,4,0
+AJPS151,10.1111/ajps.12493,AJPS,Bureaucratic Responsiveness to LGBT Americans,2020,1,0
+AJPS152,10.1111/ajps.12495,AJPS,Unprincipled Principals: Co-opted Bureaucrats and Corruption in Ghana,2020,3,1
+AJPS153,10.1111/ajps.12498,AJPS,The Policy Basis of Measured Partisan Animosity in the United States,2020,6,0
+AJPS154,10.1111/ajps.12503,AJPS,The Political Consequences of External Economic Shocks: Evidence from Poland,2020,1,0
+AJPS001,10.1111/ajps.12517,AJPS,How Markets Shape Values and Political Preferences: A Field Experiment,2021,1,0
+AJPS155,10.1111/ajps.12519,AJPS,"If They Endorse It, I Can’t Trust It: How Outgroup Leader Endorsements Undercut Public Support for Civil War Peace Settlements",2020,2,0
+AJPS002,10.1111/ajps.12529,AJPS,Misgovernance and Human Rights: The Case of Illegal Detention without Intent,2021,1,0
+AJPS003,10.1111/ajps.12530,AJPS,Fault Lines: The Effects of Bureaucratic Power on Electoral Accountability,2021,2,0
+AJPS004,10.1111/ajps.12535,AJPS,Partisan Gaps in Political Information and Information-Seeking Behavior: Motivated Reasoning or Cheerleading?,2021,2,0
+AJPS005,10.1111/ajps.12546,AJPS,The Organizational Voter: Support for New Parties in Young Democracies,2021,1,0
+AJPS006,10.1111/ajps.12548,AJPS,Do Politicians Discriminate Against Internal Migrants? Evidence from Nationwide Field Experiments in India,2021,3,0
+AJPS007,10.1111/ajps.12549,AJPS,The Divide Over Independence: Explaining Preferences for Secession in an Advanced Open Economy,2021,1,0
+AJPS008,10.1111/ajps.12555,AJPS,Good Times and Bad Apples: Rebel Recruitment in Crackdown and Truce,2021,1,0
+AJPS009,10.1111/ajps.12557,AJPS,Gender Quotas and International Reputation,2021,2,0
+AJPS010,10.1111/ajps.12558,AJPS,Executive Accountability Beyond Outcomes: Experimental Evidence on Public Evaluations of Powerful Prime Ministers,2022,4,0
+AJPS011,10.1111/ajps.12561,AJPS,Earned Income and Women’s Segmented Empowerment: Experimental Evidence from Jordan,2021,2,0
+AJPS012,10.1111/ajps.12562,AJPS,What Motivates Reasoning? A Theory of Goal-Dependent Political Evaluation,2021,5,0
+AJPS013,10.1111/ajps.12566,AJPS,Policy Deliberation and Voter Persuasion: Experimental Evidence from an Election in the Philippines,2022,1,0
+AJPS014,10.1111/ajps.12570,AJPS,Exposure and Preferences: Evidence from Indian Slums,2022,6,0
+AJPS015,10.1111/ajps.12571,AJPS,"Ideology, Not Affect: What Americans Want from Political Representation",2021,3,0
+AJPS016,10.1111/ajps.12582,AJPS,"Thinking about Government Authority: Constitutional Rules and Political Context in Citizens’ Assessments of Judicial, Legislative, and Executive Action",2021,4,0
+AJPS017,10.1111/ajps.12584,AJPS,The Unequal Distribution of Opportunity: A National Audit Study of Bureaucratic Discrimination in Primary School Access,2021,1,0
+AJPS018,10.1111/ajps.12586,AJPS,Channels for Influence or Maps of Behavior? A Field Experiment on Social Networks and Cooperation,2022,1,0
+AJPS019,10.1111/ajps.12588,AJPS,Presidential Approval and the Inherited Economy,2021,2,0
+AJPS020,10.1111/ajps.12591,AJPS,Able and Mostly Willing: An Empirical Anatomy of Information’s Effect on Voter-Driven Accountability in Senegal,2023,1,0
+AJPS021,10.1111/ajps.12593,AJPS,Political Determinants of Economic Exchange: Evidence from a Business Experiment in Senegal,2022,1,0
+AJPS022,10.1111/ajps.12599,AJPS,"Ascriptive Characteristics and Perceptions of Impropriety in the Rule of Law: Race, Gender, and Public Assessments of Whether Judges Can Be Impartial",2022,2,1
+AJPS023,10.1111/ajps.12604,AJPS,"Brokers, Social Networks, Reciprocity, and Clientelism",2022,1,0
+AJPS024,10.1111/ajps.12607,AJPS,Congressional Representation: Accountability from the Constituent’s Perspective,2022,2,0
+AJPS025,10.1111/ajps.12610,AJPS,Positive Spillovers from Negative Campaigning,2023,4,0
+AJPS026,10.1111/ajps.12615,AJPS,Threat-Inducing Violent Events Exacerbate Social Desirability Bias in Survey Responses,2023,3,0
+AJPS027,10.1111/ajps.12619,AJPS,Partisan-Motivated Evaluations of Sexual Misconduct and the Mitigating Role of the #MeToo Movement,2021,1,0
+AJPS028,10.1111/ajps.12624,AJPS,Ideological Asymmetries and the Determinants of Politically Motivated Reasoning,2022,3,0
+AJPS029,10.1111/ajps.12627,AJPS,The Hijab Penalty: Feminist Backlash to Muslim Immigrants,2023,3,0
+AJPS030,10.1111/ajps.12628,AJPS,The Nature of Affective Polarization: Disentangling Policy Disagreement from Partisan Identity,2022,4,0
+AJPS031,10.1111/ajps.12635,AJPS,"Attitudes toward the Use of Force: Instrumental Imperatives, Moral Principles, and International Law",2021,3,0
+AJPS032,10.1111/ajps.12636,AJPS,Talking Shops: The Effects of Caucus Discussion on Policy Coalitions,2022,2,0
+AJPS033,10.1111/ajps.12643,AJPS,Measuring Attitudes toward Public Spending Using a Multivariate Tax Summary Experiment,2022,1,0
+AJPS034,10.1111/ajps.12652,AJPS,Pliable Prejudice: The Case of Welfare,2022,3,3
+AJPS035,10.1111/ajps.12657,AJPS,Which Narrative Strategies Durably Reduce Prejudice? Evidence from Field and Survey Experiments Supporting the Efficacy of Perspective-Getting,2023,5,0
+AJPS036,10.1111/ajps.12658,AJPS,The Effect of Core Values on Support for Electoral Reform: Evidence from Two Survey Experiments,2023,2,0
+AJPS037,10.1111/ajps.12670,AJPS,Framing Unpopular Foreign Policies,2022,1,0
+AJPS038,10.1111/ajps.12673,AJPS,Retribution or Reconciliation? Post-Conflict Attitudes toward Enemy Collaborators,2023,2,0
+AJPS039,10.1111/ajps.12689,AJPS,International Status Concerns and Domestic Support for Political Leaders,2023,7,0
+AJPS040,10.1111/ajps.12702,AJPS,Entertaining Beliefs in Economic Mobility,2023,3,0
+AJPS041,10.1111/ajps.12703,AJPS,The Variable Persuasiveness of Political Rhetoric,2024,2,0
+AJPS042,10.1111/ajps.12707,AJPS,"Boundaries of Solidarity: Immigrants, Economic Contributions, and Welfare Attitudes",2024,4,0
+AJPS043,10.1111/ajps.12710,AJPS,Abstraction and Detail in Experimental Design,2023,3,0
+AJPS044,10.1111/ajps.12711,AJPS,The Psychology of Coercion Failure: How Reactance Explains Resistance to Threats,2023,2,0
+AJPS045,10.1111/ajps.12722,AJPS,"Campaign Messages, Polling, and Elections: Theory and Experimental Evidence",2024,1,0
+AJPS046,10.1111/ajps.12724,AJPS,When and Why Are Campaigns’ Persuasive Effects Small? Evidence from the 2020 U.S. Presidential Election,2023,6,0
+AJPS047,10.1111/ajps.12725,AJPS,Crowd Cohesion and Protest Outcomes,2024,1,0
+AJPS048,10.1111/ajps.12733,AJPS,Time in Office and the Changing Gender Gap in Dishonesty: Evidence from Local Politics in India,2024,0,0
+AJPS049,10.1111/ajps.12735,AJPS,"Discrimination, Inclusion, and Anti-System Attitudes among Muslims in Germany",2024,1,0
+AJPS050,10.1111/ajps.12738,AJPS,Money Can’t Buy You Love: Partisan Responses to Vote-Buying Offers,2024,2,0
+AJPS051,10.1111/ajps.12746,AJPS,How Economic Informality Constrains Demand for Programmatic Policy,2024,3,0
+AJPS052,10.1111/ajps.12752,AJPS,Banklash: How Media Coverage of Bank Scandals Moves Mass Preferences on Financial Regulation,2024,2,0
+AJPS053,10.1111/ajps.12758,AJPS,"How Patronage Delivers: Political Appointments, Bureaucratic Accountability, and Service Delivery in Brazil",2024,2,0
+AJPS054,10.1111/ajps.12765,AJPS,Can Online Civic Education Induce Democratic Citizenship? Experimental Evidence from a New Democracy,2024,1,0
+AJPS055,10.1111/ajps.12774,AJPS,The Preference for Reciprocity in Congress,2023,1,0
+AJPS056,10.1111/ajps.12775,AJPS,Testing the Benefits of Public Deliberation,2024,1,0
+AJPS057,10.1111/ajps.12780,AJPS,Institutional Quality Causes Generalized Trust: Experimental Evidence on Trusting under the Shadow of Doubt,2024,2,0
+AJPS058,10.1111/ajps.12783,AJPS,"Target, Information, and Trade Preferences: Evidence from a Survey Experiment in East Asia",2023,2,0
+AJPS059,10.1111/ajps.12787,AJPS,The Effect of Sustained Transparency on Electoral Accountability,2024,1,0
+AJPS060,10.1111/ajps.12788,AJPS,Ethnonationalist Gender Norms: How Parties Shape Voter Attitudes toward Female Candidates in India,2024,1,0
+AJPS061,10.1111/ajps.12790,AJPS,No Entry in a Pandemic: Public Support for Border Closures,2024,2,0
+AJPS062,10.1111/ajps.12796,AJPS,"Is Affective Polarization Driven by Identity, Loyalty, or Substance?",2023,3,0
+AJPS063,10.1111/ajps.12810,AJPS,Bilateral Conflict: An Experimental Study of Strategic Effectiveness and Equilibrium,2024,2,0
+AJPS064,10.1111/ajps.12814,AJPS,No Evidence that Measuring Moderators Alters Treatment Effects,2025,13,0
+AJPS065,10.1111/ajps.12815,AJPS,The Personal Vote in a Polarized Era,2024,6,0
+AJPS066,10.1111/ajps.12822,AJPS,"Presidential Cues and the Nationalization of Congressional Rhetoric, 1973–2016",2024,2,0
+AJPS067,10.1111/ajps.12832,AJPS,At Any Cost: How Ukrainians Think about Self-Defense Against Russia,2024,2,0
+AJPS068,10.1111/ajps.12836,AJPS,Great expectations: The effect of unmet labor market expectations after higher education on ideology,2024,1,0
+AJPS069,10.1111/ajps.12837,AJPS,"Is authority fungible? Legitimacy, domain congruence, and the limits of power in Africa",2025,3,0
+AJPS070,10.1111/ajps.12841,AJPS,Encouraging politicians to act on climate: A field experiment with local officials in six countries,2025,1,0
+AJPS071,10.1111/ajps.12845,AJPS,Unsubscribed and undemanding: Partisanship and the minimal effects of a field experiment encouraging local news consumption,2024,1,0
+AJPS072,10.1111/ajps.12846,AJPS,Whose critique matters? The effects of critic identity and audience on public opinion,2025,1,0
+AJPS073,10.1111/ajps.12847,AJPS,Citizens as a democratic safeguard? The sequence of sanctioning elite attacks on democracy,2025,1,0
+AJPS074,10.1111/ajps.12861,AJPS,"Banking bad? A global field experiment on risk, reward, and regulation",2025,2,0
+AJPS075,10.1111/ajps.12862,AJPS,Prolonged contact does not reshape locals’ attitudes toward migrants in wartime settings,2025,1,0
+AJPS076,10.1111/ajps.12875,AJPS,The rise of and demand for identity-oriented media coverage,2025,1,0
+AJPS077,10.1111/ajps.12887,AJPS,Chinese state media persuades a global audience that the “China model” is superior: Evidence from a 19-country experiment,2025,1,0
+AJPS078,10.1111/ajps.12893,AJPS,"Bridging the gulf: How migration fosters tolerance, cosmopolitanism, and support for globalization",2025,1,0
+AJPS079,10.1111/ajps.12896,AJPS,Comparing religious and secular interventions to increase young adult political participation: Evidence from WhatsApp-based civic education courses in Zambia,2025,1,0
+AJPS080,10.1111/ajps.12907,AJPS,"Losing on the home front? Battlefield casualties, media, and public support for foreign interventions",2025,1,0
+AJPS081,10.1111/ajps.12915,AJPS,Policy feedback and voter turnout: Evidence from the Finnish basic income experiment,2025,1,0
+AJPS082,10.1111/ajps.12916,AJPS,Authoritarian cue effect of state repression,2025,3,0
+AJPS083,10.1111/ajps.12922,AJPS,The politics of teachers’ union endorsements,2025,3,0
+AJPS084,10.1111/ajps.12925,AJPS,Economic risk perceptions and willingness to learn about globalization: A field experiment with migrants and other underprivileged groups in Vietnam,2025,1,0
+AJPS085,10.1111/ajps.12926,AJPS,"Elites, the aid curse, and Chinese development finance: A conjoint survey experiment on elites’ aid preferences in 141 low- and middle-income countries",2025,1,0
+AJPS086,10.1111/ajps.12928,AJPS,The financialization of housing and its political consequences,2025,2,0
+AJPS087,10.1111/ajps.12932,AJPS,Polarization in police union politics,2025,1,0
+EXP250,10.1126/science.aaf6288,Science,Targeting health subsidies through a nonprice mechanism: A randomized controlled trial in Kenya,2016,1,0
+EXP251,10.1126/science.aal4724,Science,Cognitive science in the field: A preschool intervention durably enhances intuitive but not formal mathematics,2017,1,0
+EXP252,10.1126/science.aan0568,Science,Cash for carbon: A randomized trial of payments for ecosystem services to reduce deforestation,2017,1,0
+EXP255,10.1126/science.aao1100,Science,How the news media activate public expression and influence national agendas,2017,35,0
+EXP256,10.1126/science.aar6987,Science,The role of education interventions in improving economic rationality,2018,1,0
+EXP258,10.1126/science.aau8712,Science,Civic honesty around the globe,2019,4,0
+EXP264,10.1126/science.abd3446,Science,Community policing does not build citizen trust in police or reduce crime in the Global South,2021,6,0
+EXP265,10.1126/science.abe2629,Science,Using large-scale experiments and machine learning to discover theories of human decision-making,2021,2,0
+EXP267,10.1126/science.abl4476,Science,A causal test of the strength of weak ties,2022,2,0
+EXP270,10.1126/science.abn0915,Science,Complex cognitive algorithms preserved by selective social learning in experimental populations,2022,3,0
+EXP272,10.1126/science.ade4420,Science,Where and with whom does a brief social-belonging intervention promote progress in college?,2023,1,0
+EXP273,10.1126/science.ade9803,Science,Establishing a new standard of care for calculus using trials with randomized student allocation,2023,3,0
+EXP275,10.1126/science.adi5147,Science,Induction of social contagion for diverse outcomes in structured experiments in isolated villages,2024,1,0
+EXP276,10.1126/science.adj9986,Science,What drives poor quality of care for child diarrhea? Experimental evidence from India,2024,3,0
+EXP280,10.1126/science.adr7394,Science,Reducing emissions and air pollution from informal brick kilns: Evidence from Bangladesh,2025,1,0
+EXP281,10.1126/science.ads5258,Science,Behaviorally designed training leads to more diverse hiring,2025,1,0
+EXP293,10.1257/aer.20140571,American Economic Review,Attention Discrimination: Theory and Field Experiments with Monitoring Information Acquisition,2016,3,0
+EXP297,10.1257/aer.20150503,American Economic Review,Reducing Crime and Violence: Experimental Evidence from Cognitive Behavioral Therapy in Liberia,2017,1,0
+EXP298,10.1257/aer.20150572,American Economic Review,The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment,2016,1,0
+EXP301,10.1257/aer.20151404,American Economic Review,Identifying and Spurring High-Growth Entrepreneurship: Experimental Evidence from a Business Plan Competition,2017,1,0
+EXP303,10.1257/aer.20160524,American Economic Review,Will a Five-Minute Discussion Change Your Mind? A Countrywide Experiment on Voter Choice in France,2018,1,0
+EXP306,10.1257/aer.20170404,American Economic Review,Enfranchising Your Own? Experimental Evidence on Bureaucrat Diversity and Election Bias in India,2018,4,0
+EXP307,10.1257/aer.20170458,American Economic Review,Alcohol and Self-Control: A Field Experiment in India,2019,5,0
+EXP308,10.1257/aer.20170637,American Economic Review,Price Floors and Employer Preferences: Evidence from a Minimum Wage Experiment,2025,1,0
+EXP312,10.1257/aer.20171397,American Economic Review,Competition and Entry in Agricultural Markets: Experimental Evidence from Kenya,2020,3,0
+EXP314,10.1257/aer.20171526,American Economic Review,Time versus State in Insurance: Experimental Evidence from Contract Farming in Kenya,2018,3,0
+EXP318,10.1257/aer.20171765,American Economic Review,The Impact of Media Censorship: 1984 or Brave New World?,2019,3,0
+EXP320,10.1257/aer.20180044,American Economic Review,"Familiarity Does Not Breed Contempt: Generosity, Discrimination, and Diversity in Delhi Schools",2019,4,0
+EXP321,10.1257/aer.20180277,American Economic Review,Making Moves Matter: Experimental Evidence on Incentivizing Bureaucrats through Performance-Based Postings,2019,2,0
+EXP322,10.1257/aer.20180325,American Economic Review,Targeting with In-Kind Transfers: Evidence from Medicaid Home Care,2019,3,0
+EXP324,10.1257/aer.20180511,American Economic Review,"Maternal Depression, Women’s Empowerment, and Parental Investment: Evidence from a Randomized Controlled Trial",2020,1,0
+EXP326,10.1257/aer.20180975,American Economic Review,Misperceived Social Norms: Women Working Outside the Home in Saudi Arabia,2020,4,0
+EXP327,10.1257/aer.20181446,American Economic Review,Does Diversity Matter for Health? Experimental Evidence from Oakland,2019,2,0
+EXP328,10.1257/aer.20181478,American Economic Review,Outsourcing Education: Experimental Evidence from Liberia,2020,2,0
+EXP333,10.1257/aer.20190830,American Economic Review,"How Research Affects Policy: Experimental Evidence from 2,150 Brazilian Municipalities",2021,3,0
+EXP336,10.1257/aer.20191039,American Economic Review,What Motivates Paternalism? An Experimental Study,2021,6,0
+EXP337,10.1257/aer.20191178,American Economic Review,"Consumption Response to Credit Expansions: Evidence from Experimental Assignment of 45,307 Credit Lines",2022,1,0
+EXP338,10.1257/aer.20191726,American Economic Review,The Impacts of a Multifaceted Prenatal Intervention on Human Capital Accumulation in Early Life,2021,1,0
+EXP339,10.1257/aer.20191777,American Economic Review,"Social Media, News Consumption, and Polarization: Evidence from a Field Experiment",2021,1,0
+EXP340,10.1257/aer.20191780,American Economic Review,Types of Contact: A Field Experiment on Collaborative and Adversarial Caste Integration,2021,4,0
+EXP343,10.1257/aer.20200224,American Economic Review,The Impact of Childhood Social Skills and Self-Control Training on Economic and Noneconomic Outcomes: Evidence from a Randomized Experiment Using Administrative Data,2022,1,0
+EXP344,10.1257/aer.20200295,American Economic Review,Can Network Theory-Based Targeting Increase Technology Adoption?,2021,1,0
+EXP345,10.1257/aer.20200372,American Economic Review,Self-Persuasion: Evidence from Field Experiments at International Debating Competitions,2022,6,2
+EXP346,10.1257/aer.20200407,American Economic Review,Creating Moves to Opportunity: Experimental Evidence on Barriers to Neighborhood Choice,2024,2,0
+EXP349,10.1257/aer.20201112,American Economic Review,Reshaping Adolescents’ Gender Attitudes: Evidence from a School-Based Experiment in India,2022,4,0
+EXP350,10.1257/aer.20201333,American Economic Review,Enabling or Limiting Cognitive Flexibility? Evidence of Demand for Moral Commitment,2023,8,0
+EXP354,10.1257/aer.20201892,American Economic Review,Persistent Polarizing Effects of Persuasion: Experimental Evidence from Turkey,2022,1,0
+EXP356,10.1257/aer.20210122,American Economic Review,Market Access and Quality Upgrading: Evidence from Four Field Experiments,2022,3,0
+EXP357,10.1257/aer.20210150,American Economic Review,Selection on Welfare Gains: Experimental Evidence from Electricity Plan Choice,2023,1,0
+EXP359,10.1257/aer.20210461,American Economic Review,Electronic Food Vouchers: Evidence from an At-Scale Experiment in Indonesia,2023,1,0
+EXP360,10.1257/aer.20210778,American Economic Review,All Eyes on Them: A Field Experiment on Citizen Oversight and Electoral Integrity,2022,2,0
+EXP362,10.1257/aer.20210987,American Economic Review,Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit,2024,2,1
+EXP363,10.1257/aer.20211879,American Economic Review,Worth Your Weight: Experimental Evidence on the Benefits of Obesity in Low-Income Countries,2023,5,0
+EXP365,10.1257/aer.20220582,American Economic Review,Breaking Gender Barriers: Experimental Evidence on Men in Pink-Collar Jobs,2024,4,0
+EXP367,10.1257/aer.20220639,American Economic Review,Beliefs in Repeated Games: An Experiment,2024,2,0
+EXP369,10.1257/aer.20220720,American Economic Review,A Signal to End Child Marriage: Theory and Experimental Evidence from Bangladesh,2023,2,0
+EXP370,10.1257/aer.20221234,American Economic Review,Land Rental Markets: Experimental Evidence from Kenya,2025,1,0
+EXP372,10.1257/aer.20230947,American Economic Review,Effects of Enhanced Legal Aid in Child Welfare: Evidence from a Randomized Trial of Mi Abogado,2025,1,0
+EXP374,10.1257/aer.20231247,American Economic Review,Mission Motivation and Public Sector Performance: Experimental Evidence from Pakistan,2025,1,0
+EXP375,10.1257/aer.20240022,American Economic Review,Home Price Expectations and Spending: Evidence from a Field Experiment,2025,3,0
+EXP376,10.1257/aer.20240119,American Economic Review,Drivers of Change: Employment Responses to the Lifting of the Saudi Female Driving Ban,2025,2,0
+EXP394,10.3982/ecta13683,Econometrica,"Social Networks, Reputation, and Commitment: Evidence From a Savings Monitors Experiment",2019,1,0
+EXP396,10.3982/ecta14407,Econometrica,Testing Models of Social Learning on Networks: Evidence From Two Experiments,2020,2,0
+EXP399,10.3982/ecta15962,Econometrica,The Welfare Effects of Encouraging Rural–Urban Migration,2023,3,0
+EXP401,10.3982/ecta16646,Econometrica,On the Empirical Validity of Cumulative Prospect Theory: Experimental Evidence of Rank-Independent Probability Weighting,2020,3,0
+EXP406,10.3982/ecta17945,Econometrica,General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya,2022,1,0
+EXP408,10.3982/ecta18412,Econometrica,Range-Dependent Attribute Weighting in Consumer Choice: An Experimental Test,2022,1,0
+EXP410,10.3982/ecta18585,Econometrica,Rules and Commitment in Communication: An Experimental Analysis,2022,3,0
+EXP418,10.3982/ecta20400,Econometrica,Is Attention Produced Optimally? Theory and Evidence From Experiments With Bandwidth Enhancements,2023,3,0

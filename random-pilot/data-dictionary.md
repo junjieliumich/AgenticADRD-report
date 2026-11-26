@@ -1,19 +1,20 @@
-# Random-sample assessment data
+# Experimental reporting assessment data
 
-## Sampling and units
+## Corpus and units
 
-120 papers were drawn by simple random sampling without replacement from 501
-DOI-deduplicated papers with published-version PDFs, using seed 20261124.
-The sampling frame covers APSR, AJPS and the eligible economics/multidisciplinary
-journal collection. Interpret summaries with respect to this sampling frame.
+The corpus contains 501 DOI-deduplicated published articles from 2016–2025:
+147 APSR, 155 AJPS, 45 AER, 9 QJE, 8 Econometrica, 14 REStud, 17 JPE,
+88 PNAS, 16 Science and 2 Nature papers. All assessments use the same shared
+prompt and GPT-5.6 Sol at medium reasoning effort in independent sessions.
 
-`paper_id` uniquely identifies a paper in this sample. `experiment_id` is unique
+`paper_id` uniquely identifies a paper in this corpus. `experiment_id` is unique
 within a paper; use both keys for joins. `doi` links to the publisher article.
 `journal` and `title` identify the source. Experiment roles are Primary, Supporting,
 Diagnostic, Pilot without outcome, and Observational. The first three are scored.
 
 ## Tables
 
+- `runs.csv`: one row per independent session, source/prompt hashes, model settings and token use.
 - `papers.csv`: one row per paper, scored-experiment count and structural flags.
 - `experiments.csv`: one row per identified study, role, design labels and scored flag.
 - `criteria.csv`: one row per scored experiment and criterion (20 criteria).
@@ -22,6 +23,7 @@ Diagnostic, Pilot without outcome, and Observational. The first three are scored
 - `criterion-summary.csv`: criterion counts and proportions, separately by study role.
 - `assessments.json`: full records, including page-specific supporting evidence.
 - `validation.json`: remaining evidence checks and documented metadata corrections.
+- `review-issues.csv`: paper IDs and item-specific locations for evidence review.
 
 ## Scores and aggregation
 
@@ -35,7 +37,7 @@ Design labels may overlap. Splitting or joining labels duplicates corresponding
 experiment rows; compute an overall denominator before that join. Preserve
 Primary, Supporting and Diagnostic roles in comparisons. No paper-level score
 averaging these roles is supplied. For uncertainty estimates, account for the
-nesting of experiments within sampled papers.
+nesting of experiments within papers.
 
 `structural_flags` is the number of remaining automated evidence-field checks at
 the paper level. It is repeated in experiment/criterion tables for filtering.
@@ -45,17 +47,16 @@ Current HTML and JSON are rendered from the same normalized records.
 
 ## Experiment inventory review
 
-`inventory_flag` identifies historical experiments without individual identities:
-146 synthetic entries in P082 and 36 unidentified prior experiments in P041.
-`include_in_summary` is 1 for the 266 scored experiments used in descriptive
-summaries and 0 for those 182 entries and unscored studies. All original model
-scores are retained in the tables. P041's six named conjoint experiments are
-included. Coauthors can review the inventory decision and reproduce alternative
-summaries by changing this filter.
+`inventory_flag` identifies repeated inventory entries whose individual identities
+are absent: 146 historical entries in P082, 36 prior experiments in P041, and
+35 matched-pair entries in EXP255. `include_in_summary` selects individually
+identified scored experiments. All original model scores remain in the exports,
+and the named experiments in P041 are included. The summary JSON gives the
+current row counts. Filtering on `include_in_summary` reproduces the dashboard.
 
 ## Eight-measure comparisons
 
-`comparisons/analysis-experiments.csv` contains the 266 included experiments,
+`comparisons/analysis-experiments.csv` contains all included experiments,
 publication years, original design labels, a supplementary field classification,
 and all 20 criterion scores. `journal-comparison.csv`, `annual-trends.csv` and
 `experiment-types.csv` provide both all-scored and Primary-only summaries.
@@ -65,8 +66,7 @@ domain percentages divide pooled earned points by applicable points. C16 and
 C19 percentages divide experiments earning 1 by applicable experiments.
 
 Journal comparisons report APSR, AJPS, AER, QJE, Econometrica, REStud, JPE,
-PNAS, Science and Nature separately. Nature has no sampled papers and displays
-missing values. The eight-panel journal charts use the same values as the tables.
+PNAS, Science and Nature separately. The eight-panel journal charts use the same values as the tables.
 Annual trends use publication years for all ten journals. No observations are filled
 in for empty years. SVG figures and the companion CSV files use identical values.
 
@@ -77,9 +77,23 @@ interventions and randomized operational procedures; artificial laboratory tasks
 hypothetical vignettes and elicitation-only tasks are excluded. A natural setting
 alone does not establish this label. Classification records and publication-year
 sources are in `classification-and-years.json`, generated from
-`data/annotations/random-pilot-analysis.json`. Labels overlap.
+`data/annotations/random-pilot-analysis.json`. Labels overlap. For APSR and AJPS, an empty field
+classification indicates insufficient design information. Other journals are outside
+this supplementary classification scope. `field_classification_status` distinguishes
+these cases; both remain in the analysis dataset and are omitted from the Field subgroup.
 
-Rebuild tables and figures with:
+Archive completed runs and rebuild all paper reports, data, and figures with:
+
+```bash
+PYTHONPATH=src python3 -m agenticadrd.reporting.random_pilot
+```
+
+The builder verifies all 501 run states and source/prompt hashes before assembling
+the report. Retained and continuation runs are resolved using
+`configs/review/full-corpus-remaining.json`. The `random-pilot` URL is retained
+so existing dashboard and download links continue to work.
+
+Rebuild comparisons from the assembled data with:
 
 ```bash
 PYTHONPATH=src python3 -m agenticadrd.reporting.sample_comparisons
@@ -88,7 +102,7 @@ PYTHONPATH=src python3 -m agenticadrd.reporting.sample_comparisons
 ## Report navigation
 
 `reports/current/random-pilot/index.html` is the single entry point for current
-sample results. Its five sections are journal comparisons (`#journals`), annual
+corpus results. Its five sections are journal comparisons (`#journals`), annual
 trends (`#trends`), experiment types (`#types`), paper reports (`#papers`), and data
 and methods (`#methods`). The experiment-scope control applies to all statistical
 sections. Individual paper reports return to the searchable paper directory.

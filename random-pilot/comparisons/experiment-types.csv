@@ -1,65 +1,65 @@
 scope,group,metric,label,unit,value,earned,denominator,applicable_points,papers,experiments
-All scored experiments,List,total,All reporting items (out of 20),mean,4.25,17,4,80,2,4
-All scored experiments,List,results_score,Results items (out of 5),mean,0.75,3,4,20,2,4
-All scored experiments,List,design,Experimental design (5 items),percent,20.0,4,20,20,2,4
-All scored experiments,List,methods,Statistical methods (8 items),percent,31.25,10,32,32,2,4
-All scored experiments,List,results,Results (5 items),percent,15.0,3,20,20,2,4
-All scored experiments,List,validity,Validity (2 items),percent,0.0,0,8,8,2,4
-All scored experiments,List,effect,Effect estimate and uncertainty,percent,25.0,1,4,4,2,4
-All scored experiments,List,threats,Threats to causal interpretation,percent,0.0,0,4,4,2,4
-All scored experiments,Conjoint,total,All reporting items (out of 20),mean,4.72,118,25,500,9,25
-All scored experiments,Conjoint,results_score,Results items (out of 5),mean,1.56,39,25,125,9,25
-All scored experiments,Conjoint,design,Experimental design (5 items),percent,19.2,24,125,125,9,25
-All scored experiments,Conjoint,methods,Statistical methods (8 items),percent,21.5,43,200,200,9,25
-All scored experiments,Conjoint,results,Results (5 items),percent,31.2,39,125,125,9,25
-All scored experiments,Conjoint,validity,Validity (2 items),percent,24.0,12,50,50,9,25
-All scored experiments,Conjoint,effect,Effect estimate and uncertainty,percent,32.0,8,25,25,9,25
-All scored experiments,Conjoint,threats,Threats to causal interpretation,percent,0.0,0,25,25,9,25
-All scored experiments,Survey,total,All reporting items (out of 20),mean,4.6461538461538465,604,130,2600,55,130
-All scored experiments,Survey,results_score,Results items (out of 5),mean,1.4846153846153847,193,130,650,55,130
-All scored experiments,Survey,design,Experimental design (5 items),percent,10.153846153846153,66,650,650,55,130
-All scored experiments,Survey,methods,Statistical methods (8 items),percent,26.826923076923077,279,1040,1040,55,130
-All scored experiments,Survey,results,Results (5 items),percent,29.69230769230769,193,650,650,55,130
-All scored experiments,Survey,validity,Validity (2 items),percent,25.384615384615383,66,260,260,55,130
-All scored experiments,Survey,effect,Effect estimate and uncertainty,percent,48.46153846153846,63,130,130,55,130
-All scored experiments,Survey,threats,Threats to causal interpretation,percent,0.7692307692307693,1,130,130,55,130
-All scored experiments,Field,total,All reporting items (out of 20),mean,7.961538461538462,207,26,520,18,26
-All scored experiments,Field,results_score,Results items (out of 5),mean,2.1923076923076925,57,26,130,18,26
-All scored experiments,Field,design,Experimental design (5 items),percent,27.692307692307693,36,130,130,18,26
-All scored experiments,Field,methods,Statistical methods (8 items),percent,41.82692307692308,87,208,208,18,26
-All scored experiments,Field,results,Results (5 items),percent,43.84615384615385,57,130,130,18,26
-All scored experiments,Field,validity,Validity (2 items),percent,51.92307692307693,27,52,52,18,26
-All scored experiments,Field,effect,Effect estimate and uncertainty,percent,69.23076923076923,18,26,26,18,26
-All scored experiments,Field,threats,Threats to causal interpretation,percent,19.230769230769234,5,26,26,18,26
-Primary experiments,List,total,All reporting items (out of 20),mean,2.0,2,1,20,1,1
-Primary experiments,List,results_score,Results items (out of 5),mean,0.0,0,1,5,1,1
-Primary experiments,List,design,Experimental design (5 items),percent,20.0,1,5,5,1,1
-Primary experiments,List,methods,Statistical methods (8 items),percent,12.5,1,8,8,1,1
-Primary experiments,List,results,Results (5 items),percent,0.0,0,5,5,1,1
-Primary experiments,List,validity,Validity (2 items),percent,0.0,0,2,2,1,1
-Primary experiments,List,effect,Effect estimate and uncertainty,percent,0.0,0,1,1,1,1
-Primary experiments,List,threats,Threats to causal interpretation,percent,0.0,0,1,1,1,1
-Primary experiments,Conjoint,total,All reporting items (out of 20),mean,4.470588235294118,76,17,340,8,17
-Primary experiments,Conjoint,results_score,Results items (out of 5),mean,1.6470588235294117,28,17,85,8,17
-Primary experiments,Conjoint,design,Experimental design (5 items),percent,20.0,17,85,85,8,17
-Primary experiments,Conjoint,methods,Statistical methods (8 items),percent,18.38235294117647,25,136,136,8,17
-Primary experiments,Conjoint,results,Results (5 items),percent,32.94117647058823,28,85,85,8,17
-Primary experiments,Conjoint,validity,Validity (2 items),percent,17.647058823529413,6,34,34,8,17
-Primary experiments,Conjoint,effect,Effect estimate and uncertainty,percent,23.52941176470588,4,17,17,8,17
-Primary experiments,Conjoint,threats,Threats to causal interpretation,percent,0.0,0,17,17,8,17
-Primary experiments,Survey,total,All reporting items (out of 20),mean,5.116883116883117,394,77,1540,46,77
-Primary experiments,Survey,results_score,Results items (out of 5),mean,1.7142857142857142,132,77,385,46,77
-Primary experiments,Survey,design,Experimental design (5 items),percent,11.168831168831169,43,385,385,46,77
-Primary experiments,Survey,methods,Statistical methods (8 items),percent,28.733766233766232,177,616,616,46,77
-Primary experiments,Survey,results,Results (5 items),percent,34.285714285714285,132,385,385,46,77
-Primary experiments,Survey,validity,Validity (2 items),percent,27.27272727272727,42,154,154,46,77
-Primary experiments,Survey,effect,Effect estimate and uncertainty,percent,54.54545454545454,42,77,77,46,77
-Primary experiments,Survey,threats,Threats to causal interpretation,percent,1.2987012987012987,1,77,77,46,77
-Primary experiments,Field,total,All reporting items (out of 20),mean,8.19047619047619,172,21,420,18,21
-Primary experiments,Field,results_score,Results items (out of 5),mean,2.1904761904761907,46,21,105,18,21
-Primary experiments,Field,design,Experimental design (5 items),percent,28.57142857142857,30,105,105,18,21
-Primary experiments,Field,methods,Statistical methods (8 items),percent,43.452380952380956,73,168,168,18,21
-Primary experiments,Field,results,Results (5 items),percent,43.80952380952381,46,105,105,18,21
-Primary experiments,Field,validity,Validity (2 items),percent,54.761904761904766,23,42,42,18,21
-Primary experiments,Field,effect,Effect estimate and uncertainty,percent,71.42857142857143,15,21,21,18,21
-Primary experiments,Field,threats,Threats to causal interpretation,percent,19.047619047619047,4,21,21,18,21
+All scored experiments,List,total,All reporting items (out of 20),mean,4.785714285714286,134,28,560,14,28
+All scored experiments,List,results_score,Results items (out of 5),mean,0.6428571428571429,18,28,140,14,28
+All scored experiments,List,design,Experimental design (5 items),percent,18.571428571428573,26,140,140,14,28
+All scored experiments,List,methods,Statistical methods (8 items),percent,31.69642857142857,71,224,224,14,28
+All scored experiments,List,results,Results (5 items),percent,12.857142857142856,18,140,140,14,28
+All scored experiments,List,validity,Validity (2 items),percent,33.92857142857143,19,56,56,14,28
+All scored experiments,List,effect,Effect estimate and uncertainty,percent,21.428571428571427,6,28,28,14,28
+All scored experiments,List,threats,Threats to causal interpretation,percent,7.142857142857142,2,28,28,14,28
+All scored experiments,Conjoint,total,All reporting items (out of 20),mean,4.754716981132075,504,106,2120,44,106
+All scored experiments,Conjoint,results_score,Results items (out of 5),mean,1.169811320754717,124,106,530,44,106
+All scored experiments,Conjoint,design,Experimental design (5 items),percent,18.11320754716981,96,530,530,44,106
+All scored experiments,Conjoint,methods,Statistical methods (8 items),percent,24.882075471698112,211,848,848,44,106
+All scored experiments,Conjoint,results,Results (5 items),percent,23.39622641509434,124,530,530,44,106
+All scored experiments,Conjoint,validity,Validity (2 items),percent,34.43396226415094,73,212,212,44,106
+All scored experiments,Conjoint,effect,Effect estimate and uncertainty,percent,46.22641509433962,49,106,106,44,106
+All scored experiments,Conjoint,threats,Threats to causal interpretation,percent,1.8867924528301887,2,106,106,44,106
+All scored experiments,Survey,total,All reporting items (out of 20),mean,4.80388978930308,2964,617,12340,233,617
+All scored experiments,Survey,results_score,Results items (out of 5),mean,1.3630470016207454,841,617,3085,233,617
+All scored experiments,Survey,design,Experimental design (5 items),percent,10.956239870340356,338,3085,3085,233,617
+All scored experiments,Survey,methods,Statistical methods (8 items),percent,29.193679092382496,1441,4936,4936,233,617
+All scored experiments,Survey,results,Results (5 items),percent,27.26094003241491,841,3085,3085,233,617
+All scored experiments,Survey,validity,Validity (2 items),percent,27.876823338735818,344,1234,1234,233,617
+All scored experiments,Survey,effect,Effect estimate and uncertainty,percent,48.13614262560778,297,617,617,233,617
+All scored experiments,Survey,threats,Threats to causal interpretation,percent,4.862236628849271,30,617,617,233,617
+All scored experiments,Field,total,All reporting items (out of 20),mean,7.31858407079646,827,113,2260,78,113
+All scored experiments,Field,results_score,Results items (out of 5),mean,2.1327433628318584,241,113,565,78,113
+All scored experiments,Field,design,Experimental design (5 items),percent,20.0,113,565,565,78,113
+All scored experiments,Field,methods,Statistical methods (8 items),percent,40.81858407079646,369,904,904,78,113
+All scored experiments,Field,results,Results (5 items),percent,42.65486725663717,241,565,565,78,113
+All scored experiments,Field,validity,Validity (2 items),percent,46.017699115044245,104,226,226,78,113
+All scored experiments,Field,effect,Effect estimate and uncertainty,percent,63.716814159292035,72,113,113,78,113
+All scored experiments,Field,threats,Threats to causal interpretation,percent,15.929203539823009,18,113,113,78,113
+Primary experiments,List,total,All reporting items (out of 20),mean,4.466666666666667,67,15,300,4,15
+Primary experiments,List,results_score,Results items (out of 5),mean,0.3333333333333333,5,15,75,4,15
+Primary experiments,List,design,Experimental design (5 items),percent,20.0,15,75,75,4,15
+Primary experiments,List,methods,Statistical methods (8 items),percent,27.500000000000004,33,120,120,4,15
+Primary experiments,List,results,Results (5 items),percent,6.666666666666667,5,75,75,4,15
+Primary experiments,List,validity,Validity (2 items),percent,46.666666666666664,14,30,30,4,15
+Primary experiments,List,effect,Effect estimate and uncertainty,percent,6.666666666666667,1,15,15,4,15
+Primary experiments,List,threats,Threats to causal interpretation,percent,6.666666666666667,1,15,15,4,15
+Primary experiments,Conjoint,total,All reporting items (out of 20),mean,4.951807228915663,411,83,1660,42,83
+Primary experiments,Conjoint,results_score,Results items (out of 5),mean,1.2048192771084338,100,83,415,42,83
+Primary experiments,Conjoint,design,Experimental design (5 items),percent,19.759036144578314,82,415,415,42,83
+Primary experiments,Conjoint,methods,Statistical methods (8 items),percent,25.451807228915662,169,664,664,42,83
+Primary experiments,Conjoint,results,Results (5 items),percent,24.096385542168676,100,415,415,42,83
+Primary experiments,Conjoint,validity,Validity (2 items),percent,36.144578313253014,60,166,166,42,83
+Primary experiments,Conjoint,effect,Effect estimate and uncertainty,percent,43.373493975903614,36,83,83,42,83
+Primary experiments,Conjoint,threats,Threats to causal interpretation,percent,1.2048192771084338,1,83,83,42,83
+Primary experiments,Survey,total,All reporting items (out of 20),mean,5.209809264305177,1912,367,7340,196,367
+Primary experiments,Survey,results_score,Results items (out of 5),mean,1.4277929155313351,524,367,1835,196,367
+Primary experiments,Survey,design,Experimental design (5 items),percent,12.534059945504087,230,1835,1835,196,367
+Primary experiments,Survey,methods,Statistical methods (8 items),percent,30.960490463215258,909,2936,2936,196,367
+Primary experiments,Survey,results,Results (5 items),percent,28.555858310626704,524,1835,1835,196,367
+Primary experiments,Survey,validity,Validity (2 items),percent,33.92370572207085,249,734,734,196,367
+Primary experiments,Survey,effect,Effect estimate and uncertainty,percent,50.68119891008175,186,367,367,196,367
+Primary experiments,Survey,threats,Threats to causal interpretation,percent,5.722070844686648,21,367,367,196,367
+Primary experiments,Field,total,All reporting items (out of 20),mean,7.977528089887641,710,89,1780,77,89
+Primary experiments,Field,results_score,Results items (out of 5),mean,2.4269662921348316,216,89,445,77,89
+Primary experiments,Field,design,Experimental design (5 items),percent,21.123595505617978,94,445,445,77,89
+Primary experiments,Field,methods,Statistical methods (8 items),percent,43.82022471910113,312,712,712,77,89
+Primary experiments,Field,results,Results (5 items),percent,48.53932584269663,216,445,445,77,89
+Primary experiments,Field,validity,Validity (2 items),percent,49.43820224719101,88,178,178,77,89
+Primary experiments,Field,effect,Effect estimate and uncertainty,percent,71.91011235955057,64,89,89,77,89
+Primary experiments,Field,threats,Threats to causal interpretation,percent,16.853932584269664,15,89,89,77,89

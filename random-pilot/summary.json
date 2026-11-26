@@ -1,16 +1,32 @@
 {
-  "summary_experiments": 266,
-  "inventory_flagged_experiments": 182,
-  "papers": 120,
-  "scored_experiments": 448,
+  "summary_experiments": 1234,
+  "inventory_flagged_experiments": 217,
+  "papers": 501,
+  "scored_experiments": 1451,
   "study_categories": {
-    "Primary": 304,
-    "Observational": 156,
-    "Supporting": 101,
-    "Diagnostic": 43,
-    "Pilot without outcome": 22
+    "Primary": 932,
+    "Diagnostic": 178,
+    "Observational": 605,
+    "Supporting": 341,
+    "Pilot without outcome": 99
   },
-  "papers_with_flags": 0,
-  "sampling_frame": 501,
-  "seed": 20261124
+  "papers_with_flags": 20,
+  "journal_counts": {
+    "APSR": 147,
+    "Nature": 2,
+    "Proceedings of the National Academy of Sciences": 88,
+    "Journal of Political Economy": 17,
+    "The Quarterly Journal of Economics": 9,
+    "The Review of Economic Studies": 14,
+    "AJPS": 155,
+    "Science": 16,
+    "American Economic Review": 45,
+    "Econometrica": 8
+  },
+  "prompt_sha256": "d74f85e0cf32d6be48e76345fa6c5d216fd66ea626b6b43cfb020c95eecbb050",
+  "model": "gpt-5.6-sol",
+  "reasoning_effort": "medium",
+  "latest_completed_at": "2026-11-26T13:39:20.706291+00:00",
+  "assembly_directory": "data/runs/core/full-corpus",
+  "config": "configs/review/full-corpus-remaining.json"
 }
